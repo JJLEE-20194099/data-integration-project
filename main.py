@@ -573,10 +573,10 @@ def get_price_map_by_type(real_estate_level: str):
 
         return response
 
-@app.get('/')
+@app.get('//price-prediction')
 def demo():
     i = 0
-    return templates.Jinja2Templates('index.html', {"feature_form_structure": feature_form_structure, "i": i})
+    return templates.TemplateResponse('index.html', {"feature_form_structure": feature_form_structure, "i": i})
 
 
 
