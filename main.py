@@ -4,6 +4,7 @@ from fastapi import HTTPException
 from tqdm import tqdm
 import numpy as np
 import lightgbm as lgb
+from fastapi.templating import Jinja2Templates
 
 from app.config import Config
 from app import create_app
@@ -29,6 +30,7 @@ API_KEY_GOOGLE = Config.API_KEY_GOOGLE
 # Create Application Instance
 app = create_app(Config.ENV_MODE or 'dev')
 
+templates = Jinja2Templates(directory="app/FE/templates")
 
 # Read models
 try:
@@ -571,6 +573,10 @@ def get_price_map_by_type(real_estate_level: str):
 
         return response
 
+@app.get('/')
+def demo():
+    i = 0
+    return templates.Jinja2Templates('index.html', {"feature_form_structure": feature_form_structure, "i": i})
 
 
 
