@@ -1,0 +1,2095 @@
+{
+    "data": [
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Chùa Hà",
+            "city": "Hà Nội",
+            "normalize": "chua ha dich vong cau giay ha noi",
+            "streetNormalize": "chua ha dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0373317,
+            "lon": 105.7946087,
+            "geolocation": {
+                "latitude": 21.0373317,
+                "longitude": 105.7946087
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Cầu Giấy",
+            "city": "Hà Nội",
+            "normalize": "cau giay dich vong cau giay ha noi",
+            "streetNormalize": "cau giay dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0342609,
+            "lon": 105.7961123,
+            "geolocation": {
+                "latitude": 21.0342609,
+                "longitude": 105.7961123
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Dịch Vọng",
+            "city": "Hà Nội",
+            "normalize": "dich vong dich vong cau giay ha noi",
+            "streetNormalize": "dich vong dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0329542,
+            "lon": 105.7935134,
+            "geolocation": {
+                "latitude": 21.0329542,
+                "longitude": 105.7935134
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Khúc Thừa Dụ",
+            "city": "Hà Nội",
+            "normalize": "khuc thua du dich vong cau giay ha noi",
+            "streetNormalize": "khuc thua du dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0331519,
+            "lon": 105.7920374,
+            "geolocation": {
+                "latitude": 21.0331519,
+                "longitude": 105.7920374
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Nguyễn Khánh Toàn",
+            "city": "Hà Nội",
+            "normalize": "nguyen khanh toan dich vong cau giay ha noi",
+            "streetNormalize": "nguyen khanh toan dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0389113,
+            "lon": 105.7963774,
+            "geolocation": {
+                "latitude": 21.0389113,
+                "longitude": 105.7963774
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Nguyễn Đỗ Cung",
+            "city": "Hà Nội",
+            "normalize": "nguyen do cung dich vong cau giay ha noi",
+            "streetNormalize": "nguyen do cung dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0402615,
+            "lon": 105.791773,
+            "geolocation": {
+                "latitude": 21.0402615,
+                "longitude": 105.791773
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Phạm Văn Bạch",
+            "city": "Hà Nội",
+            "normalize": "pham van bach dich vong cau giay ha noi",
+            "streetNormalize": "pham van bach dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0267166,
+            "lon": 105.7880248,
+            "geolocation": {
+                "latitude": 21.0267166,
+                "longitude": 105.7880248
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Thành Thái",
+            "city": "Hà Nội",
+            "normalize": "thanh thai dich vong cau giay ha noi",
+            "streetNormalize": "thanh thai dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0289311,
+            "lon": 105.7939141,
+            "geolocation": {
+                "latitude": 21.0289311,
+                "longitude": 105.7939141
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Thọ Tháp",
+            "city": "Hà Nội",
+            "normalize": "tho thap dich vong cau giay ha noi",
+            "streetNormalize": "tho thap dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0311882,
+            "lon": 105.7913716,
+            "geolocation": {
+                "latitude": 21.0311882,
+                "longitude": 105.7913716
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Trương Công Giai",
+            "city": "Hà Nội",
+            "normalize": "truong cong giai dich vong cau giay ha noi",
+            "streetNormalize": "truong cong giai dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0286776,
+            "lon": 105.7892658,
+            "geolocation": {
+                "latitude": 21.0286776,
+                "longitude": 105.7892658
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Trần Quý Kiên",
+            "city": "Hà Nội",
+            "normalize": "tran quy kien dich vong cau giay ha noi",
+            "streetNormalize": "tran quy kien dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0366552,
+            "lon": 105.7918159,
+            "geolocation": {
+                "latitude": 21.0366552,
+                "longitude": 105.7918159
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Trần Thái Tông",
+            "city": "Hà Nội",
+            "normalize": "tran thai tong dich vong cau giay ha noi",
+            "streetNormalize": "tran thai tong dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0294959,
+            "lon": 105.7879114,
+            "geolocation": {
+                "latitude": 21.0294959,
+                "longitude": 105.7879114
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Trần Đăng Ninh",
+            "city": "Hà Nội",
+            "normalize": "tran dang ninh dich vong cau giay ha noi",
+            "streetNormalize": "tran dang ninh dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0374735,
+            "lon": 105.7939238,
+            "geolocation": {
+                "latitude": 21.0374735,
+                "longitude": 105.7939238
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Tô Hiệu",
+            "city": "Hà Nội",
+            "normalize": "to hieu dich vong cau giay ha noi",
+            "streetNormalize": "to hieu dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.041629,
+            "lon": 105.7919835,
+            "geolocation": {
+                "latitude": 21.041629,
+                "longitude": 105.7919835
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng",
+            "street": "Đường A4",
+            "city": "Hà Nội",
+            "normalize": "duong a4 dich vong cau giay ha noi",
+            "streetNormalize": "duong a4 dich vong cau giay ha noi",
+            "wardNormalize": "dich vong cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong cau giay ha noi",
+            "lat": 21.0382006,
+            "lon": 105.7932149,
+            "geolocation": {
+                "latitude": 21.0382006,
+                "longitude": 105.7932149
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Cầu Giấy",
+            "city": "Hà Nội",
+            "normalize": "cau giay dich vong hau cau giay ha noi",
+            "streetNormalize": "cau giay dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0362322161507,
+            "lon": 105.790068162491,
+            "geolocation": {
+                "latitude": 21.0362322161507,
+                "longitude": 105.790068162491
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Cốm Vòng",
+            "city": "Hà Nội",
+            "normalize": "com vong dich vong hau cau giay ha noi",
+            "streetNormalize": "com vong dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0317418,
+            "lon": 105.7847794,
+            "geolocation": {
+                "latitude": 21.0317418,
+                "longitude": 105.7847794
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Duy Tân",
+            "city": "Hà Nội",
+            "normalize": "duy tan dich vong hau cau giay ha noi",
+            "streetNormalize": "duy tan dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0306889,
+            "lon": 105.7851193,
+            "geolocation": {
+                "latitude": 21.0306889,
+                "longitude": 105.7851193
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Dịch Vọng Hậu",
+            "city": "Hà Nội",
+            "normalize": "dich vong hau dich vong hau cau giay ha noi",
+            "streetNormalize": "dich vong hau dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0314929,
+            "lon": 105.7865449,
+            "geolocation": {
+                "latitude": 21.0314929,
+                "longitude": 105.7865449
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Hồ Tùng Mậu",
+            "city": "Hà Nội",
+            "normalize": "ho tung mau dich vong hau cau giay ha noi",
+            "streetNormalize": "ho tung mau dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0364466,
+            "lon": 105.78027,
+            "geolocation": {
+                "latitude": 21.0364466,
+                "longitude": 105.78027
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Nghĩa Tân",
+            "city": "Hà Nội",
+            "normalize": "nghia tan dich vong hau cau giay ha noi",
+            "streetNormalize": "nghia tan dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0434514,
+            "lon": 105.7887524,
+            "geolocation": {
+                "latitude": 21.0434514,
+                "longitude": 105.7887524
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Nguyễn Phong Sắc",
+            "city": "Hà Nội",
+            "normalize": "nguyen phong sac dich vong hau cau giay ha noi",
+            "streetNormalize": "nguyen phong sac dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0382065,
+            "lon": 105.790444,
+            "geolocation": {
+                "latitude": 21.0382065,
+                "longitude": 105.790444
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Phan Văn Trường",
+            "city": "Hà Nội",
+            "normalize": "phan van truong dich vong hau cau giay ha noi",
+            "streetNormalize": "phan van truong dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0390109,
+            "lon": 105.7860615,
+            "geolocation": {
+                "latitude": 21.0390109,
+                "longitude": 105.7860615
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Phạm Tuấn Tài",
+            "city": "Hà Nội",
+            "normalize": "pham tuan tai dich vong hau cau giay ha noi",
+            "streetNormalize": "pham tuan tai dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0433477,
+            "lon": 105.7862668,
+            "geolocation": {
+                "latitude": 21.0433477,
+                "longitude": 105.7862668
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Phạm Văn Đồng",
+            "city": "Hà Nội",
+            "normalize": "pham van dong dich vong hau cau giay ha noi",
+            "streetNormalize": "pham van dong dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0365659,
+            "lon": 105.7802412,
+            "geolocation": {
+                "latitude": 21.0365659,
+                "longitude": 105.7802412
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Thọ Tháp",
+            "city": "Hà Nội",
+            "normalize": "tho thap dich vong hau cau giay ha noi",
+            "streetNormalize": "tho thap dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0317339183804,
+            "lon": 105.788777102797,
+            "geolocation": {
+                "latitude": 21.0317339183804,
+                "longitude": 105.788777102797
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Trần Quốc Hoàn",
+            "city": "Hà Nội",
+            "normalize": "tran quoc hoan dich vong hau cau giay ha noi",
+            "streetNormalize": "tran quoc hoan dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0416653,
+            "lon": 105.7854217,
+            "geolocation": {
+                "latitude": 21.0416653,
+                "longitude": 105.7854217
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Trần Quốc Vượng",
+            "city": "Hà Nội",
+            "normalize": "tran quoc vuong dich vong hau cau giay ha noi",
+            "streetNormalize": "tran quoc vuong dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0352345,
+            "lon": 105.7853817,
+            "geolocation": {
+                "latitude": 21.0352345,
+                "longitude": 105.7853817
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Trần Thái Tông",
+            "city": "Hà Nội",
+            "normalize": "tran thai tong dich vong hau cau giay ha noi",
+            "streetNormalize": "tran thai tong dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.03295,
+            "lon": 105.7887757,
+            "geolocation": {
+                "latitude": 21.03295,
+                "longitude": 105.7887757
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Tô Hiệu",
+            "city": "Hà Nội",
+            "normalize": "to hieu dich vong hau cau giay ha noi",
+            "streetNormalize": "to hieu dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0416325964686,
+            "lon": 105.790647580557,
+            "geolocation": {
+                "latitude": 21.0416325964686,
+                "longitude": 105.790647580557
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Tôn Thất Thuyết",
+            "city": "Hà Nội",
+            "normalize": "ton that thuyet dich vong hau cau giay ha noi",
+            "streetNormalize": "ton that thuyet dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0279594,
+            "lon": 105.7856438,
+            "geolocation": {
+                "latitude": 21.0279594,
+                "longitude": 105.7856438
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Xuân Thủy",
+            "city": "Hà Nội",
+            "normalize": "xuan thuy dich vong hau cau giay ha noi",
+            "streetNormalize": "xuan thuy dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0365104,
+            "lon": 105.7847569,
+            "geolocation": {
+                "latitude": 21.0365104,
+                "longitude": 105.7847569
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Đường Số 2",
+            "city": "Hà Nội",
+            "normalize": "duong so 2 dich vong hau cau giay ha noi",
+            "streetNormalize": "duong so 2 dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.032635,
+            "lon": 105.7916236,
+            "geolocation": {
+                "latitude": 21.032635,
+                "longitude": 105.7916236
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Dịch Vọng Hậu",
+            "street": "Đặng Thùy Trâm",
+            "city": "Hà Nội",
+            "normalize": "dang thuy tram dich vong hau cau giay ha noi",
+            "streetNormalize": "dang thuy tram dich vong hau cau giay ha noi",
+            "wardNormalize": "dich vong hau cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong dich vong hau cau giay ha noi",
+            "lat": 21.0439415,
+            "lon": 105.7857324,
+            "geolocation": {
+                "latitude": 21.0439415,
+                "longitude": 105.7857324
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Doãn Kế Thiện",
+            "city": "Hà Nội",
+            "normalize": "doan ke thien mai dich cau giay ha noi",
+            "streetNormalize": "doan ke thien mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0416759,
+            "lon": 105.7764848,
+            "geolocation": {
+                "latitude": 21.0416759,
+                "longitude": 105.7764848
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Dương Khuê",
+            "city": "Hà Nội",
+            "normalize": "duong khue mai dich cau giay ha noi",
+            "streetNormalize": "duong khue mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0361345,
+            "lon": 105.7732469,
+            "geolocation": {
+                "latitude": 21.0361345,
+                "longitude": 105.7732469
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Hồ Tùng Mậu",
+            "city": "Hà Nội",
+            "normalize": "ho tung mau mai dich cau giay ha noi",
+            "streetNormalize": "ho tung mau mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.037087,
+            "lon": 105.77601,
+            "geolocation": {
+                "latitude": 21.037087,
+                "longitude": 105.77601
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Lê Đức Thọ",
+            "city": "Hà Nội",
+            "normalize": "le duc tho mai dich cau giay ha noi",
+            "streetNormalize": "le duc tho mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0366453,
+            "lon": 105.7712619,
+            "geolocation": {
+                "latitude": 21.0366453,
+                "longitude": 105.7712619
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Mai Dịch",
+            "city": "Hà Nội",
+            "normalize": "mai dich mai dich cau giay ha noi",
+            "streetNormalize": "mai dich mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0420822,
+            "lon": 105.7750737,
+            "geolocation": {
+                "latitude": 21.0420822,
+                "longitude": 105.7750737
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Nguyễn Khả Trạc",
+            "city": "Hà Nội",
+            "normalize": "nguyen kha trac mai dich cau giay ha noi",
+            "streetNormalize": "nguyen kha trac mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0449726,
+            "lon": 105.7770445,
+            "geolocation": {
+                "latitude": 21.0449726,
+                "longitude": 105.7770445
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Phạm Thận Duật",
+            "city": "Hà Nội",
+            "normalize": "pham than duat mai dich cau giay ha noi",
+            "streetNormalize": "pham than duat mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0442389,
+            "lon": 105.7784652,
+            "geolocation": {
+                "latitude": 21.0442389,
+                "longitude": 105.7784652
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Phạm Văn Đồng",
+            "city": "Hà Nội",
+            "normalize": "pham van dong mai dich cau giay ha noi",
+            "streetNormalize": "pham van dong mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0406513,
+            "lon": 105.7806874,
+            "geolocation": {
+                "latitude": 21.0406513,
+                "longitude": 105.7806874
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Trần Bình",
+            "city": "Hà Nội",
+            "normalize": "tran binh mai dich cau giay ha noi",
+            "streetNormalize": "tran binh mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.033771,
+            "lon": 105.7788271,
+            "geolocation": {
+                "latitude": 21.033771,
+                "longitude": 105.7788271
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Trần Quốc Hoàn",
+            "city": "Hà Nội",
+            "normalize": "tran quoc hoan mai dich cau giay ha noi",
+            "streetNormalize": "tran quoc hoan mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0418413841489,
+            "lon": 105.781656571796,
+            "geolocation": {
+                "latitude": 21.0418413841489,
+                "longitude": 105.781656571796
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Mai Dịch",
+            "street": "Trần Vỹ",
+            "city": "Hà Nội",
+            "normalize": "tran vy mai dich cau giay ha noi",
+            "streetNormalize": "tran vy mai dich cau giay ha noi",
+            "wardNormalize": "mai dich cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong mai dich cau giay ha noi",
+            "lat": 21.0425696,
+            "lon": 105.7736563,
+            "geolocation": {
+                "latitude": 21.0425696,
+                "longitude": 105.7736563
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Hoàng Quốc Việt",
+            "city": "Hà Nội",
+            "normalize": "hoang quoc viet nghia do cau giay ha noi",
+            "streetNormalize": "hoang quoc viet nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0460937,
+            "lon": 105.8002357,
+            "geolocation": {
+                "latitude": 21.0460937,
+                "longitude": 105.8002357
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Hoàng Sâm",
+            "city": "Hà Nội",
+            "normalize": "hoang sam nghia do cau giay ha noi",
+            "streetNormalize": "hoang sam nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0437269,
+            "lon": 105.7993488,
+            "geolocation": {
+                "latitude": 21.0437269,
+                "longitude": 105.7993488
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Lạc Long Quân",
+            "city": "Hà Nội",
+            "normalize": "lac long quan nghia do cau giay ha noi",
+            "streetNormalize": "lac long quan nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0523331,
+            "lon": 105.8090081,
+            "geolocation": {
+                "latitude": 21.0523331,
+                "longitude": 105.8090081
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Nghĩa Đô",
+            "city": "Hà Nội",
+            "normalize": "nghia do nghia do cau giay ha noi",
+            "streetNormalize": "nghia do nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0485044,
+            "lon": 105.7955963,
+            "geolocation": {
+                "latitude": 21.0485044,
+                "longitude": 105.7955963
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Nguyễn Văn Huyên",
+            "city": "Hà Nội",
+            "normalize": "nguyen van huyen nghia do cau giay ha noi",
+            "streetNormalize": "nguyen van huyen nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0447545,
+            "lon": 105.79776,
+            "geolocation": {
+                "latitude": 21.0447545,
+                "longitude": 105.79776
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Nguyễn Đình Hoàn",
+            "city": "Hà Nội",
+            "normalize": "nguyen dinh hoan nghia do cau giay ha noi",
+            "streetNormalize": "nguyen dinh hoan nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.042386,
+            "lon": 105.8051849,
+            "geolocation": {
+                "latitude": 21.042386,
+                "longitude": 105.8051849
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Phùng Chí Kiên",
+            "city": "Hà Nội",
+            "normalize": "phung chi kien nghia do cau giay ha noi",
+            "streetNormalize": "phung chi kien nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0426402,
+            "lon": 105.8025409,
+            "geolocation": {
+                "latitude": 21.0426402,
+                "longitude": 105.8025409
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Tô Hiệu",
+            "city": "Hà Nội",
+            "normalize": "to hieu nghia do cau giay ha noi",
+            "streetNormalize": "to hieu nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0428539,
+            "lon": 105.7966892,
+            "geolocation": {
+                "latitude": 21.0428539,
+                "longitude": 105.7966892
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Võ Chí Công",
+            "city": "Hà Nội",
+            "normalize": "vo chi cong nghia do cau giay ha noi",
+            "streetNormalize": "vo chi cong nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0499366,
+            "lon": 105.8045156,
+            "geolocation": {
+                "latitude": 21.0499366,
+                "longitude": 105.8045156
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Đông Quan",
+            "city": "Hà Nội",
+            "normalize": "dong quan nghia do cau giay ha noi",
+            "streetNormalize": "dong quan nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.039919,
+            "lon": 105.8031286,
+            "geolocation": {
+                "latitude": 21.039919,
+                "longitude": 105.8031286
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Đường Bưởi",
+            "city": "Hà Nội",
+            "normalize": "duong buoi nghia do cau giay ha noi",
+            "streetNormalize": "duong buoi nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0420266,
+            "lon": 105.8057177,
+            "geolocation": {
+                "latitude": 21.0420266,
+                "longitude": 105.8057177
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Đô",
+            "street": "Đường Số 800a",
+            "city": "Hà Nội",
+            "normalize": "duong so 800a nghia do cau giay ha noi",
+            "streetNormalize": "duong so 800a nghia do cau giay ha noi",
+            "wardNormalize": "nghia do cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia do cau giay ha noi",
+            "lat": 21.0409124,
+            "lon": 105.8007949,
+            "geolocation": {
+                "latitude": 21.0409124,
+                "longitude": 105.8007949
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Tân",
+            "street": "Hoàng Quốc Việt",
+            "city": "Hà Nội",
+            "normalize": "hoang quoc viet nghia tan cau giay ha noi",
+            "streetNormalize": "hoang quoc viet nghia tan cau giay ha noi",
+            "wardNormalize": "nghia tan cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia tan cau giay ha noi",
+            "lat": 21.0460537,
+            "lon": 105.7912051,
+            "geolocation": {
+                "latitude": 21.0460537,
+                "longitude": 105.7912051
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Tân",
+            "street": "Nghĩa Tân",
+            "city": "Hà Nội",
+            "normalize": "nghia tan nghia tan cau giay ha noi",
+            "streetNormalize": "nghia tan nghia tan cau giay ha noi",
+            "wardNormalize": "nghia tan cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia tan cau giay ha noi",
+            "lat": 21.0438779,
+            "lon": 105.7942822,
+            "geolocation": {
+                "latitude": 21.0438779,
+                "longitude": 105.7942822
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Tân",
+            "street": "Nguyễn Phong Sắc",
+            "city": "Hà Nội",
+            "normalize": "nguyen phong sac nghia tan cau giay ha noi",
+            "streetNormalize": "nguyen phong sac nghia tan cau giay ha noi",
+            "wardNormalize": "nghia tan cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia tan cau giay ha noi",
+            "lat": 21.0440578,
+            "lon": 105.7902868,
+            "geolocation": {
+                "latitude": 21.0440578,
+                "longitude": 105.7902868
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Tân",
+            "street": "Trần Cung",
+            "city": "Hà Nội",
+            "normalize": "tran cung nghia tan cau giay ha noi",
+            "streetNormalize": "tran cung nghia tan cau giay ha noi",
+            "wardNormalize": "nghia tan cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia tan cau giay ha noi",
+            "lat": 21.0483472,
+            "lon": 105.7900098,
+            "geolocation": {
+                "latitude": 21.0483472,
+                "longitude": 105.7900098
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Tân",
+            "street": "Trần Tử Bình",
+            "city": "Hà Nội",
+            "normalize": "tran tu binh nghia tan cau giay ha noi",
+            "streetNormalize": "tran tu binh nghia tan cau giay ha noi",
+            "wardNormalize": "nghia tan cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia tan cau giay ha noi",
+            "lat": 21.0442487,
+            "lon": 105.7917128,
+            "geolocation": {
+                "latitude": 21.0442487,
+                "longitude": 105.7917128
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Nghĩa Tân",
+            "street": "Tô Hiệu",
+            "city": "Hà Nội",
+            "normalize": "to hieu nghia tan cau giay ha noi",
+            "streetNormalize": "to hieu nghia tan cau giay ha noi",
+            "wardNormalize": "nghia tan cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong nghia tan cau giay ha noi",
+            "lat": 21.0428539,
+            "lon": 105.7966892,
+            "geolocation": {
+                "latitude": 21.0428539,
+                "longitude": 105.7966892
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Quan Hoa",
+            "street": "Cầu Giấy",
+            "city": "Hà Nội",
+            "normalize": "cau giay quan hoa cau giay ha noi",
+            "streetNormalize": "cau giay quan hoa cau giay ha noi",
+            "wardNormalize": "quan hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong quan hoa cau giay ha noi",
+            "lat": 21.0329881,
+            "lon": 105.798454,
+            "geolocation": {
+                "latitude": 21.0329881,
+                "longitude": 105.798454
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Quan Hoa",
+            "street": "Dương Quảng Hàm",
+            "city": "Hà Nội",
+            "normalize": "duong quang ham quan hoa cau giay ha noi",
+            "streetNormalize": "duong quang ham quan hoa cau giay ha noi",
+            "wardNormalize": "quan hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong quan hoa cau giay ha noi",
+            "lat": 21.0344,
+            "lon": 105.7995104,
+            "geolocation": {
+                "latitude": 21.0344,
+                "longitude": 105.7995104
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Quan Hoa",
+            "street": "Nguyễn Khang",
+            "city": "Hà Nội",
+            "normalize": "nguyen khang quan hoa cau giay ha noi",
+            "streetNormalize": "nguyen khang quan hoa cau giay ha noi",
+            "wardNormalize": "quan hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong quan hoa cau giay ha noi",
+            "lat": 21.0296573,
+            "lon": 105.8005074,
+            "geolocation": {
+                "latitude": 21.0296573,
+                "longitude": 105.8005074
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Quan Hoa",
+            "street": "Nguyễn Khánh Toàn",
+            "city": "Hà Nội",
+            "normalize": "nguyen khanh toan quan hoa cau giay ha noi",
+            "streetNormalize": "nguyen khanh toan quan hoa cau giay ha noi",
+            "wardNormalize": "quan hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong quan hoa cau giay ha noi",
+            "lat": 21.0382405,
+            "lon": 105.8004146,
+            "geolocation": {
+                "latitude": 21.0382405,
+                "longitude": 105.8004146
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Quan Hoa",
+            "street": "Nguyễn Văn Huyên",
+            "city": "Hà Nội",
+            "normalize": "nguyen van huyen quan hoa cau giay ha noi",
+            "streetNormalize": "nguyen van huyen quan hoa cau giay ha noi",
+            "wardNormalize": "quan hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong quan hoa cau giay ha noi",
+            "lat": 21.0376655,
+            "lon": 105.7978558,
+            "geolocation": {
+                "latitude": 21.0376655,
+                "longitude": 105.7978558
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Quan Hoa",
+            "street": "Quan Hoa",
+            "city": "Hà Nội",
+            "normalize": "quan hoa quan hoa cau giay ha noi",
+            "streetNormalize": "quan hoa quan hoa cau giay ha noi",
+            "wardNormalize": "quan hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong quan hoa cau giay ha noi",
+            "lat": 21.032808,
+            "lon": 105.8032427,
+            "geolocation": {
+                "latitude": 21.032808,
+                "longitude": 105.8032427
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Hoàng Minh Giám",
+            "city": "Hà Nội",
+            "normalize": "hoang minh giam trung hoa cau giay ha noi",
+            "streetNormalize": "hoang minh giam trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0063175,
+            "lon": 105.7969519,
+            "geolocation": {
+                "latitude": 21.0063175,
+                "longitude": 105.7969519
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Hoàng Ngân",
+            "city": "Hà Nội",
+            "normalize": "hoang ngan trung hoa cau giay ha noi",
+            "streetNormalize": "hoang ngan trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0099878,
+            "lon": 105.8046614,
+            "geolocation": {
+                "latitude": 21.0099878,
+                "longitude": 105.8046614
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Hoàng Đạo Thúy",
+            "city": "Hà Nội",
+            "normalize": "hoang dao thuy trung hoa cau giay ha noi",
+            "streetNormalize": "hoang dao thuy trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0091148,
+            "lon": 105.8009096,
+            "geolocation": {
+                "latitude": 21.0091148,
+                "longitude": 105.8009096
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Khuất Duy Tiến",
+            "city": "Hà Nội",
+            "normalize": "khuat duy tien trung hoa cau giay ha noi",
+            "streetNormalize": "khuat duy tien trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.004339,
+            "lon": 105.793274,
+            "geolocation": {
+                "latitude": 21.004339,
+                "longitude": 105.793274
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Lê Văn Lương",
+            "city": "Hà Nội",
+            "normalize": "le van luong trung hoa cau giay ha noi",
+            "streetNormalize": "le van luong trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0089485,
+            "lon": 105.8094563,
+            "geolocation": {
+                "latitude": 21.0089485,
+                "longitude": 105.8094563
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Mạc Thái Tông",
+            "city": "Hà Nội",
+            "normalize": "mac thai tong trung hoa cau giay ha noi",
+            "streetNormalize": "mac thai tong trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0119583,
+            "lon": 105.7923665,
+            "geolocation": {
+                "latitude": 21.0119583,
+                "longitude": 105.7923665
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Nguyễn Chánh",
+            "city": "Hà Nội",
+            "normalize": "nguyen chanh trung hoa cau giay ha noi",
+            "streetNormalize": "nguyen chanh trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0136162,
+            "lon": 105.7909679,
+            "geolocation": {
+                "latitude": 21.0136162,
+                "longitude": 105.7909679
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Nguyễn Khang",
+            "city": "Hà Nội",
+            "normalize": "nguyen khang trung hoa cau giay ha noi",
+            "streetNormalize": "nguyen khang trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0159425,
+            "lon": 105.803567,
+            "geolocation": {
+                "latitude": 21.0159425,
+                "longitude": 105.803567
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Nguyễn Ngọc Vũ",
+            "city": "Hà Nội",
+            "normalize": "nguyen ngoc vu trung hoa cau giay ha noi",
+            "streetNormalize": "nguyen ngoc vu trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0105454,
+            "lon": 105.8101341,
+            "geolocation": {
+                "latitude": 21.0105454,
+                "longitude": 105.8101341
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Nguyễn Thị Thập",
+            "city": "Hà Nội",
+            "normalize": "nguyen thi thap trung hoa cau giay ha noi",
+            "streetNormalize": "nguyen thi thap trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0064235,
+            "lon": 105.8020522,
+            "geolocation": {
+                "latitude": 21.0064235,
+                "longitude": 105.8020522
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Nguyễn Thị Định",
+            "city": "Hà Nội",
+            "normalize": "nguyen thi dinh trung hoa cau giay ha noi",
+            "streetNormalize": "nguyen thi dinh trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0110573,
+            "lon": 105.804612,
+            "geolocation": {
+                "latitude": 21.0110573,
+                "longitude": 105.804612
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Nguyễn Xuân Linh",
+            "city": "Hà Nội",
+            "normalize": "nguyen xuan linh trung hoa cau giay ha noi",
+            "streetNormalize": "nguyen xuan linh trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0071161,
+            "lon": 105.7999888,
+            "geolocation": {
+                "latitude": 21.0071161,
+                "longitude": 105.7999888
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Phạm Hùng",
+            "city": "Hà Nội",
+            "normalize": "pham hung trung hoa cau giay ha noi",
+            "streetNormalize": "pham hung trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0061942,
+            "lon": 105.7917368,
+            "geolocation": {
+                "latitude": 21.0061942,
+                "longitude": 105.7917368
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Hòa",
+            "city": "Hà Nội",
+            "normalize": "trung hoa trung hoa cau giay ha noi",
+            "streetNormalize": "trung hoa trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.015023,
+            "lon": 105.8012798,
+            "geolocation": {
+                "latitude": 21.015023,
+                "longitude": 105.8012798
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Kính",
+            "city": "Hà Nội",
+            "normalize": "trung kinh trung hoa cau giay ha noi",
+            "streetNormalize": "trung kinh trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0138811,
+            "lon": 105.7976963,
+            "geolocation": {
+                "latitude": 21.0138811,
+                "longitude": 105.7976963
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 10",
+            "city": "Hà Nội",
+            "normalize": "trung yen 10 trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 10 trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0152242,
+            "lon": 105.8018821,
+            "geolocation": {
+                "latitude": 21.0152242,
+                "longitude": 105.8018821
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 11",
+            "city": "Hà Nội",
+            "normalize": "trung yen 11 trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 11 trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0147718,
+            "lon": 105.8007573,
+            "geolocation": {
+                "latitude": 21.0147718,
+                "longitude": 105.8007573
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 11a",
+            "city": "Hà Nội",
+            "normalize": "trung yen 11a trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 11a trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0146471,
+            "lon": 105.7978409,
+            "geolocation": {
+                "latitude": 21.0146471,
+                "longitude": 105.7978409
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 11b",
+            "city": "Hà Nội",
+            "normalize": "trung yen 11b trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 11b trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0145756,
+            "lon": 105.7972036,
+            "geolocation": {
+                "latitude": 21.0145756,
+                "longitude": 105.7972036
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 11c",
+            "city": "Hà Nội",
+            "normalize": "trung yen 11c trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 11c trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0143679,
+            "lon": 105.7973862,
+            "geolocation": {
+                "latitude": 21.0143679,
+                "longitude": 105.7973862
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 14",
+            "city": "Hà Nội",
+            "normalize": "trung yen 14 trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 14 trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0167776,
+            "lon": 105.8021137,
+            "geolocation": {
+                "latitude": 21.0167776,
+                "longitude": 105.8021137
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 15",
+            "city": "Hà Nội",
+            "normalize": "trung yen 15 trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 15 trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0145544,
+            "lon": 105.8000952,
+            "geolocation": {
+                "latitude": 21.0145544,
+                "longitude": 105.8000952
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 3",
+            "city": "Hà Nội",
+            "normalize": "trung yen 3 trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 3 trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0156159,
+            "lon": 105.8007097,
+            "geolocation": {
+                "latitude": 21.0156159,
+                "longitude": 105.8007097
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 7",
+            "city": "Hà Nội",
+            "normalize": "trung yen 7 trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 7 trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0148282,
+            "lon": 105.7994092,
+            "geolocation": {
+                "latitude": 21.0148282,
+                "longitude": 105.7994092
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 8",
+            "city": "Hà Nội",
+            "normalize": "trung yen 8 trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 8 trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0143196,
+            "lon": 105.7968368,
+            "geolocation": {
+                "latitude": 21.0143196,
+                "longitude": 105.7968368
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trung Yên 9",
+            "city": "Hà Nội",
+            "normalize": "trung yen 9 trung hoa cau giay ha noi",
+            "streetNormalize": "trung yen 9 trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0156573,
+            "lon": 105.8021826,
+            "geolocation": {
+                "latitude": 21.0156573,
+                "longitude": 105.8021826
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Trần Duy Hưng",
+            "city": "Hà Nội",
+            "normalize": "tran duy hung trung hoa cau giay ha noi",
+            "streetNormalize": "tran duy hung trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0087184,
+            "lon": 105.7972793,
+            "geolocation": {
+                "latitude": 21.0087184,
+                "longitude": 105.7972793
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Tú Mỡ",
+            "city": "Hà Nội",
+            "normalize": "tu mo trung hoa cau giay ha noi",
+            "streetNormalize": "tu mo trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0108436,
+            "lon": 105.7951254,
+            "geolocation": {
+                "latitude": 21.0108436,
+                "longitude": 105.7951254
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Vũ Phạm Hàm",
+            "city": "Hà Nội",
+            "normalize": "vu pham ham trung hoa cau giay ha noi",
+            "streetNormalize": "vu pham ham trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.014813,
+            "lon": 105.7964596,
+            "geolocation": {
+                "latitude": 21.014813,
+                "longitude": 105.7964596
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Đinh Núp",
+            "city": "Hà Nội",
+            "normalize": "dinh nup trung hoa cau giay ha noi",
+            "streetNormalize": "dinh nup trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0111061,
+            "lon": 105.7912725,
+            "geolocation": {
+                "latitude": 21.0111061,
+                "longitude": 105.7912725
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Trung Hòa",
+            "street": "Đỗ Quang",
+            "city": "Hà Nội",
+            "normalize": "do quang trung hoa cau giay ha noi",
+            "streetNormalize": "do quang trung hoa cau giay ha noi",
+            "wardNormalize": "trung hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong trung hoa cau giay ha noi",
+            "lat": 21.0113323,
+            "lon": 105.8017317,
+            "geolocation": {
+                "latitude": 21.0113323,
+                "longitude": 105.8017317
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Dương Đình Nghệ",
+            "city": "Hà Nội",
+            "normalize": "duong dinh nghe yen hoa cau giay ha noi",
+            "streetNormalize": "duong dinh nghe yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0232852,
+            "lon": 105.7900372,
+            "geolocation": {
+                "latitude": 21.0232852,
+                "longitude": 105.7900372
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Hoa Bằng",
+            "city": "Hà Nội",
+            "normalize": "hoa bang yen hoa cau giay ha noi",
+            "streetNormalize": "hoa bang yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.024899,
+            "lon": 105.795315,
+            "geolocation": {
+                "latitude": 21.024899,
+                "longitude": 105.795315
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Hạ Yên",
+            "city": "Hà Nội",
+            "normalize": "ha yen yen hoa cau giay ha noi",
+            "streetNormalize": "ha yen yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.021546,
+            "lon": 105.796951,
+            "geolocation": {
+                "latitude": 21.021546,
+                "longitude": 105.796951
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Lộc Vừng",
+            "city": "Hà Nội",
+            "normalize": "loc vung yen hoa cau giay ha noi",
+            "streetNormalize": "loc vung yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0230406,
+            "lon": 105.7886697,
+            "geolocation": {
+                "latitude": 21.0230406,
+                "longitude": 105.7886697
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Mạc Thái Tổ",
+            "city": "Hà Nội",
+            "normalize": "mac thai to yen hoa cau giay ha noi",
+            "streetNormalize": "mac thai to yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0180467,
+            "lon": 105.7906287,
+            "geolocation": {
+                "latitude": 21.0180467,
+                "longitude": 105.7906287
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Nguyễn Chánh",
+            "city": "Hà Nội",
+            "normalize": "nguyen chanh yen hoa cau giay ha noi",
+            "streetNormalize": "nguyen chanh yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0189701,
+            "lon": 105.7865599,
+            "geolocation": {
+                "latitude": 21.0189701,
+                "longitude": 105.7865599
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Nguyễn Khang",
+            "city": "Hà Nội",
+            "normalize": "nguyen khang yen hoa cau giay ha noi",
+            "streetNormalize": "nguyen khang yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0236141,
+            "lon": 105.7978285,
+            "geolocation": {
+                "latitude": 21.0236141,
+                "longitude": 105.7978285
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Nguyễn Quốc Trị",
+            "city": "Hà Nội",
+            "normalize": "nguyen quoc tri yen hoa cau giay ha noi",
+            "streetNormalize": "nguyen quoc tri yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0182875861283,
+            "lon": 105.785264364456,
+            "geolocation": {
+                "latitude": 21.0182875861283,
+                "longitude": 105.785264364456
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Nguyễn Thị Duệ",
+            "city": "Hà Nội",
+            "normalize": "nguyen thi due yen hoa cau giay ha noi",
+            "streetNormalize": "nguyen thi due yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0183438,
+            "lon": 105.7887881,
+            "geolocation": {
+                "latitude": 21.0183438,
+                "longitude": 105.7887881
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Phạm Văn Bạch",
+            "city": "Hà Nội",
+            "normalize": "pham van bach yen hoa cau giay ha noi",
+            "streetNormalize": "pham van bach yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0251963,
+            "lon": 105.7889562,
+            "geolocation": {
+                "latitude": 21.0251963,
+                "longitude": 105.7889562
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Hòa",
+            "city": "Hà Nội",
+            "normalize": "trung hoa yen hoa cau giay ha noi",
+            "streetNormalize": "trung hoa yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0170394,
+            "lon": 105.7991857,
+            "geolocation": {
+                "latitude": 21.0170394,
+                "longitude": 105.7991857
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Kính",
+            "city": "Hà Nội",
+            "normalize": "trung kinh yen hoa cau giay ha noi",
+            "streetNormalize": "trung kinh yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0187231,
+            "lon": 105.7928939,
+            "geolocation": {
+                "latitude": 21.0187231,
+                "longitude": 105.7928939
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Yên 10",
+            "city": "Hà Nội",
+            "normalize": "trung yen 10 yen hoa cau giay ha noi",
+            "streetNormalize": "trung yen 10 yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0170549,
+            "lon": 105.7999916,
+            "geolocation": {
+                "latitude": 21.0170549,
+                "longitude": 105.7999916
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Yên 10a",
+            "city": "Hà Nội",
+            "normalize": "trung yen 10a yen hoa cau giay ha noi",
+            "streetNormalize": "trung yen 10a yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0179836,
+            "lon": 105.7992547,
+            "geolocation": {
+                "latitude": 21.0179836,
+                "longitude": 105.7992547
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Yên 11",
+            "city": "Hà Nội",
+            "normalize": "trung yen 11 yen hoa cau giay ha noi",
+            "streetNormalize": "trung yen 11 yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0162438,
+            "lon": 105.7992332,
+            "geolocation": {
+                "latitude": 21.0162438,
+                "longitude": 105.7992332
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Yên 12",
+            "city": "Hà Nội",
+            "normalize": "trung yen 12 yen hoa cau giay ha noi",
+            "streetNormalize": "trung yen 12 yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0174491,
+            "lon": 105.8016707,
+            "geolocation": {
+                "latitude": 21.0174491,
+                "longitude": 105.8016707
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Yên 14",
+            "city": "Hà Nội",
+            "normalize": "trung yen 14 yen hoa cau giay ha noi",
+            "streetNormalize": "trung yen 14 yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0174005,
+            "lon": 105.8017113,
+            "geolocation": {
+                "latitude": 21.0174005,
+                "longitude": 105.8017113
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Yên 6",
+            "city": "Hà Nội",
+            "normalize": "trung yen 6 yen hoa cau giay ha noi",
+            "streetNormalize": "trung yen 6 yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0180846,
+            "lon": 105.8012935,
+            "geolocation": {
+                "latitude": 21.0180846,
+                "longitude": 105.8012935
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trung Yên 9",
+            "city": "Hà Nội",
+            "normalize": "trung yen 9 yen hoa cau giay ha noi",
+            "streetNormalize": "trung yen 9 yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0181243,
+            "lon": 105.8004427,
+            "geolocation": {
+                "latitude": 21.0181243,
+                "longitude": 105.8004427
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Trần Kim Xuyến",
+            "city": "Hà Nội",
+            "normalize": "tran kim xuyen yen hoa cau giay ha noi",
+            "streetNormalize": "tran kim xuyen yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.01865,
+            "lon": 105.7947923,
+            "geolocation": {
+                "latitude": 21.01865,
+                "longitude": 105.7947923
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Vũ Phạm Hàm",
+            "city": "Hà Nội",
+            "normalize": "vu pham ham yen hoa cau giay ha noi",
+            "streetNormalize": "vu pham ham yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.018334,
+            "lon": 105.7987789,
+            "geolocation": {
+                "latitude": 21.018334,
+                "longitude": 105.7987789
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Yên Hòa",
+            "city": "Hà Nội",
+            "normalize": "yen hoa yen hoa cau giay ha noi",
+            "streetNormalize": "yen hoa yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0231871,
+            "lon": 105.794927,
+            "geolocation": {
+                "latitude": 21.0231871,
+                "longitude": 105.794927
+            }
+        },
+        {
+            "district": "Cầu Giấy",
+            "ward": "Yên Hòa",
+            "street": "Đinh Núp",
+            "city": "Hà Nội",
+            "normalize": "dinh nup yen hoa cau giay ha noi",
+            "streetNormalize": "dinh nup yen hoa cau giay ha noi",
+            "wardNormalize": "yen hoa cau giay ha noi",
+            "districtNormalize": "cau giay ha noi",
+            "preWardNormalize": "phuong yen hoa cau giay ha noi",
+            "lat": 21.0172398633312,
+            "lon": 105.786354766328,
+            "geolocation": {
+                "latitude": 21.0172398633312,
+                "longitude": 105.786354766328
+            }
+        }
+    ]
+}

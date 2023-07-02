@@ -1,0 +1,10 @@
+{
+    "north": "Bắc",
+    "south": "Nam",
+    "west": "Tây",
+    "east": "Đông",
+    "northeast": "Đông - Bắc",
+    "northwest": "Tây - Bắc",
+    "southwest": "Tây - Nam",
+    "SOUTHEAST": "Đông - Nam"
+}

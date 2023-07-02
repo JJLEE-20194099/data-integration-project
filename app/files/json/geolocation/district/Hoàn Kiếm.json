@@ -1,0 +1,3761 @@
+{
+    "data": [
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Chương Dương",
+            "street": "Bạch Đằng",
+            "city": "Hà Nội",
+            "normalize": "bach dang chuong duong hoan kiem ha noi",
+            "streetNormalize": "bach dang chuong duong hoan kiem ha noi",
+            "wardNormalize": "chuong duong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": " chuong duong hoan kiem ha noi",
+            "lat": 21.024258,
+            "lon": 105.862203,
+            "geolocation": {
+                "latitude": 21.024258,
+                "longitude": 105.862203
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Chương Dương",
+            "street": "Chương Dương Độ",
+            "city": "Hà Nội",
+            "normalize": "chuong duong do chuong duong hoan kiem ha noi",
+            "streetNormalize": "chuong duong do chuong duong hoan kiem ha noi",
+            "wardNormalize": "chuong duong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": " chuong duong hoan kiem ha noi",
+            "lat": 21.029822,
+            "lon": 105.859437,
+            "geolocation": {
+                "latitude": 21.029822,
+                "longitude": 105.859437
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Chương Dương",
+            "street": "Cầu Đất",
+            "city": "Hà Nội",
+            "normalize": "cau dat chuong duong hoan kiem ha noi",
+            "streetNormalize": "cau dat chuong duong hoan kiem ha noi",
+            "wardNormalize": "chuong duong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": " chuong duong hoan kiem ha noi",
+            "lat": 21.0250365,
+            "lon": 105.8609484,
+            "geolocation": {
+                "latitude": 21.0250365,
+                "longitude": 105.8609484
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Chương Dương",
+            "street": "Hàm Tử Quan",
+            "city": "Hà Nội",
+            "normalize": "ham tu quan chuong duong hoan kiem ha noi",
+            "streetNormalize": "ham tu quan chuong duong hoan kiem ha noi",
+            "wardNormalize": "chuong duong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": " chuong duong hoan kiem ha noi",
+            "lat": 21.031592,
+            "lon": 105.85726,
+            "geolocation": {
+                "latitude": 21.031592,
+                "longitude": 105.85726
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Chương Dương",
+            "street": "Hồng Hà",
+            "city": "Hà Nội",
+            "normalize": "hong ha chuong duong hoan kiem ha noi",
+            "streetNormalize": "hong ha chuong duong hoan kiem ha noi",
+            "wardNormalize": "chuong duong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": " chuong duong hoan kiem ha noi",
+            "lat": 21.031442,
+            "lon": 105.856881,
+            "geolocation": {
+                "latitude": 21.031442,
+                "longitude": 105.856881
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Chương Dương",
+            "street": "Trần Quang Khải",
+            "city": "Hà Nội",
+            "normalize": "tran quang khai chuong duong hoan kiem ha noi",
+            "streetNormalize": "tran quang khai chuong duong hoan kiem ha noi",
+            "wardNormalize": "chuong duong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": " chuong duong hoan kiem ha noi",
+            "lat": 21.0281247,
+            "lon": 105.8583578,
+            "geolocation": {
+                "latitude": 21.0281247,
+                "longitude": 105.8583578
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Chương Dương",
+            "street": "Vọng Hà",
+            "city": "Hà Nội",
+            "normalize": "vong ha chuong duong hoan kiem ha noi",
+            "streetNormalize": "vong ha chuong duong hoan kiem ha noi",
+            "wardNormalize": "chuong duong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": " chuong duong hoan kiem ha noi",
+            "lat": 21.032329,
+            "lon": 105.85692,
+            "geolocation": {
+                "latitude": 21.032329,
+                "longitude": 105.85692
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Bát Đàn",
+            "city": "Hà Nội",
+            "normalize": "bat dan cua dong hoan kiem ha noi",
+            "streetNormalize": "bat dan cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.0336515,
+            "lon": 105.8463587,
+            "geolocation": {
+                "latitude": 21.0336515,
+                "longitude": 105.8463587
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Cửa Đông",
+            "city": "Hà Nội",
+            "normalize": "cua dong cua dong hoan kiem ha noi",
+            "streetNormalize": "cua dong cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.034553,
+            "lon": 105.846383,
+            "geolocation": {
+                "latitude": 21.034553,
+                "longitude": 105.846383
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Hàng Da",
+            "city": "Hà Nội",
+            "normalize": "hang da cua dong hoan kiem ha noi",
+            "streetNormalize": "hang da cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.03122,
+            "lon": 105.846725,
+            "geolocation": {
+                "latitude": 21.03122,
+                "longitude": 105.846725
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Hàng Nón",
+            "city": "Hà Nội",
+            "normalize": "hang non cua dong hoan kiem ha noi",
+            "streetNormalize": "hang non cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.032625,
+            "lon": 105.846935,
+            "geolocation": {
+                "latitude": 21.032625,
+                "longitude": 105.846935
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Hàng Điếu",
+            "city": "Hà Nội",
+            "normalize": "hang dieu cua dong hoan kiem ha noi",
+            "streetNormalize": "hang dieu cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.032076,
+            "lon": 105.846797,
+            "geolocation": {
+                "latitude": 21.032076,
+                "longitude": 105.846797
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Lý Nam Đế",
+            "city": "Hà Nội",
+            "normalize": "ly nam de cua dong hoan kiem ha noi",
+            "streetNormalize": "ly nam de cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.032633,
+            "lon": 105.844534,
+            "geolocation": {
+                "latitude": 21.032633,
+                "longitude": 105.844534
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Nguyễn Quang Bích",
+            "city": "Hà Nội",
+            "normalize": "nguyen quang bich cua dong hoan kiem ha noi",
+            "streetNormalize": "nguyen quang bich cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.032307,
+            "lon": 105.845717,
+            "geolocation": {
+                "latitude": 21.032307,
+                "longitude": 105.845717
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Nguyễn Văn Tố",
+            "city": "Hà Nội",
+            "normalize": "nguyen van to cua dong hoan kiem ha noi",
+            "streetNormalize": "nguyen van to cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.031665,
+            "lon": 105.846006,
+            "geolocation": {
+                "latitude": 21.031665,
+                "longitude": 105.846006
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Nhà Hoả",
+            "city": "Hà Nội",
+            "normalize": "nha hoa cua dong hoan kiem ha noi",
+            "streetNormalize": "nha hoa cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.034195,
+            "lon": 105.846782,
+            "geolocation": {
+                "latitude": 21.034195,
+                "longitude": 105.846782
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Phùng Hưng",
+            "city": "Hà Nội",
+            "normalize": "phung hung cua dong hoan kiem ha noi",
+            "streetNormalize": "phung hung cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.032967,
+            "lon": 105.845375,
+            "geolocation": {
+                "latitude": 21.032967,
+                "longitude": 105.845375
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Yên Thái",
+            "city": "Hà Nội",
+            "normalize": "yen thai cua dong hoan kiem ha noi",
+            "streetNormalize": "yen thai cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.031691,
+            "lon": 105.846782,
+            "geolocation": {
+                "latitude": 21.031691,
+                "longitude": 105.846782
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Đông",
+            "street": "Đường Thành",
+            "city": "Hà Nội",
+            "normalize": "duong thanh cua dong hoan kiem ha noi",
+            "streetNormalize": "duong thanh cua dong hoan kiem ha noi",
+            "wardNormalize": "cua dong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua dong hoan kiem ha noi",
+            "lat": 21.031903,
+            "lon": 105.846738,
+            "geolocation": {
+                "latitude": 21.031903,
+                "longitude": 105.846738
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Cửa Nam",
+            "city": "Hà Nội",
+            "normalize": "cua nam cua nam hoan kiem ha noi",
+            "streetNormalize": "cua nam cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.027814,
+            "lon": 105.8423538,
+            "geolocation": {
+                "latitude": 21.027814,
+                "longitude": 105.8423538
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Hai Bà Trưng",
+            "city": "Hà Nội",
+            "normalize": "hai ba trung cua nam hoan kiem ha noi",
+            "streetNormalize": "hai ba trung cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.0265378,
+            "lon": 105.8450949,
+            "geolocation": {
+                "latitude": 21.0265378,
+                "longitude": 105.8450949
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Lê Duẩn",
+            "city": "Hà Nội",
+            "normalize": "le duan cua nam hoan kiem ha noi",
+            "streetNormalize": "le duan cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.026521,
+            "lon": 105.841538,
+            "geolocation": {
+                "latitude": 21.026521,
+                "longitude": 105.841538
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Lý Thường Kiệt",
+            "city": "Hà Nội",
+            "normalize": "ly thuong kiet cua nam hoan kiem ha noi",
+            "streetNormalize": "ly thuong kiet cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.0254554094729,
+            "lon": 105.843283933218,
+            "geolocation": {
+                "latitude": 21.0254554094729,
+                "longitude": 105.843283933218
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Nam Ngư",
+            "city": "Hà Nội",
+            "normalize": "nam ngu cua nam hoan kiem ha noi",
+            "streetNormalize": "nam ngu cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.0265046,
+            "lon": 105.8423965,
+            "geolocation": {
+                "latitude": 21.0265046,
+                "longitude": 105.8423965
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Nguyễn Thái Học",
+            "city": "Hà Nội",
+            "normalize": "nguyen thai hoc cua nam hoan kiem ha noi",
+            "streetNormalize": "nguyen thai hoc cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.028361,
+            "lon": 105.8431971,
+            "geolocation": {
+                "latitude": 21.028361,
+                "longitude": 105.8431971
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Phan Bội Châu",
+            "city": "Hà Nội",
+            "normalize": "phan boi chau cua nam hoan kiem ha noi",
+            "streetNormalize": "phan boi chau cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.027388,
+            "lon": 105.843978,
+            "geolocation": {
+                "latitude": 21.027388,
+                "longitude": 105.843978
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Trần Hưng Đạo",
+            "city": "Hà Nội",
+            "normalize": "tran hung dao cua nam hoan kiem ha noi",
+            "streetNormalize": "tran hung dao cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.02377,
+            "lon": 105.842792,
+            "geolocation": {
+                "latitude": 21.02377,
+                "longitude": 105.842792
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Tống Duy Tân",
+            "city": "Hà Nội",
+            "normalize": "tong duy tan cua nam hoan kiem ha noi",
+            "streetNormalize": "tong duy tan cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.0287707,
+            "lon": 105.8429131,
+            "geolocation": {
+                "latitude": 21.0287707,
+                "longitude": 105.8429131
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Tức Mặc",
+            "city": "Hà Nội",
+            "normalize": "tuc mac cua nam hoan kiem ha noi",
+            "streetNormalize": "tuc mac cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.023146,
+            "lon": 105.842592,
+            "geolocation": {
+                "latitude": 21.023146,
+                "longitude": 105.842592
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Yết Kiêu",
+            "city": "Hà Nội",
+            "normalize": "yet kieu cua nam hoan kiem ha noi",
+            "streetNormalize": "yet kieu cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.021816,
+            "lon": 105.843245,
+            "geolocation": {
+                "latitude": 21.021816,
+                "longitude": 105.843245
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Điện Biên Phủ",
+            "city": "Hà Nội",
+            "normalize": "dien bien phu cua nam hoan kiem ha noi",
+            "streetNormalize": "dien bien phu cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.0285616,
+            "lon": 105.8431293,
+            "geolocation": {
+                "latitude": 21.0285616,
+                "longitude": 105.8431293
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Cửa Nam",
+            "street": "Đình Ngang",
+            "city": "Hà Nội",
+            "normalize": "dinh ngang cua nam hoan kiem ha noi",
+            "streetNormalize": "dinh ngang cua nam hoan kiem ha noi",
+            "wardNormalize": "cua nam hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong cua nam hoan kiem ha noi",
+            "lat": 21.027858,
+            "lon": 105.842624,
+            "geolocation": {
+                "latitude": 21.027858,
+                "longitude": 105.842624
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Cao Thắng",
+            "city": "Hà Nội",
+            "normalize": "cao thang dong xuan hoan kiem ha noi",
+            "streetNormalize": "cao thang dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.03895,
+            "lon": 105.851387,
+            "geolocation": {
+                "latitude": 21.03895,
+                "longitude": 105.851387
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Cầu Đông",
+            "city": "Hà Nội",
+            "normalize": "cau dong dong xuan hoan kiem ha noi",
+            "streetNormalize": "cau dong dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.0377526,
+            "lon": 105.84978,
+            "geolocation": {
+                "latitude": 21.0377526,
+                "longitude": 105.84978
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Gầm Cầu",
+            "city": "Hà Nội",
+            "normalize": "gam cau dong xuan hoan kiem ha noi",
+            "streetNormalize": "gam cau dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.0397979,
+            "lon": 105.8495054,
+            "geolocation": {
+                "latitude": 21.0397979,
+                "longitude": 105.8495054
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Hàng Chiếu",
+            "city": "Hà Nội",
+            "normalize": "hang chieu dong xuan hoan kiem ha noi",
+            "streetNormalize": "hang chieu dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.036982,
+            "lon": 105.849994,
+            "geolocation": {
+                "latitude": 21.036982,
+                "longitude": 105.849994
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Hàng Khoai",
+            "city": "Hà Nội",
+            "normalize": "hang khoai dong xuan hoan kiem ha noi",
+            "streetNormalize": "hang khoai dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.0384502,
+            "lon": 105.8491268,
+            "geolocation": {
+                "latitude": 21.0384502,
+                "longitude": 105.8491268
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Hàng Đậu",
+            "city": "Hà Nội",
+            "normalize": "hang dau dong xuan hoan kiem ha noi",
+            "streetNormalize": "hang dau dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.040133,
+            "lon": 105.848118,
+            "geolocation": {
+                "latitude": 21.040133,
+                "longitude": 105.848118
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Nguyễn Thiếp",
+            "city": "Hà Nội",
+            "normalize": "nguyen thiep dong xuan hoan kiem ha noi",
+            "streetNormalize": "nguyen thiep dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.039749,
+            "lon": 105.849651,
+            "geolocation": {
+                "latitude": 21.039749,
+                "longitude": 105.849651
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Nguyễn Thiện Thuật",
+            "city": "Hà Nội",
+            "normalize": "nguyen thien thuat dong xuan hoan kiem ha noi",
+            "streetNormalize": "nguyen thien thuat dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.038126,
+            "lon": 105.850591,
+            "geolocation": {
+                "latitude": 21.038126,
+                "longitude": 105.850591
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Thanh Hà",
+            "city": "Hà Nội",
+            "normalize": "thanh ha dong xuan hoan kiem ha noi",
+            "streetNormalize": "thanh ha dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.037772,
+            "lon": 105.851784,
+            "geolocation": {
+                "latitude": 21.037772,
+                "longitude": 105.851784
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Trần Nhật Duật",
+            "city": "Hà Nội",
+            "normalize": "tran nhat duat dong xuan hoan kiem ha noi",
+            "streetNormalize": "tran nhat duat dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.0392449,
+            "lon": 105.8513975,
+            "geolocation": {
+                "latitude": 21.0392449,
+                "longitude": 105.8513975
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Đồng Xuân",
+            "street": "Đồng Xuân",
+            "city": "Hà Nội",
+            "normalize": "dong xuan dong xuan hoan kiem ha noi",
+            "streetNormalize": "dong xuan dong xuan hoan kiem ha noi",
+            "wardNormalize": "dong xuan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong dong xuan hoan kiem ha noi",
+            "lat": 21.0375473,
+            "lon": 105.8490681,
+            "geolocation": {
+                "latitude": 21.0375473,
+                "longitude": 105.8490681
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bạc",
+            "street": "Cầu Gỗ",
+            "city": "Hà Nội",
+            "normalize": "cau go hang bac hoan kiem ha noi",
+            "streetNormalize": "cau go hang bac hoan kiem ha noi",
+            "wardNormalize": "hang bac hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bac hoan kiem ha noi",
+            "lat": 21.032225,
+            "lon": 105.852971,
+            "geolocation": {
+                "latitude": 21.032225,
+                "longitude": 105.852971
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bạc",
+            "street": "Gia Ngư",
+            "city": "Hà Nội",
+            "normalize": "gia ngu hang bac hoan kiem ha noi",
+            "streetNormalize": "gia ngu hang bac hoan kiem ha noi",
+            "wardNormalize": "hang bac hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bac hoan kiem ha noi",
+            "lat": 21.0330584,
+            "lon": 105.8527431,
+            "geolocation": {
+                "latitude": 21.0330584,
+                "longitude": 105.8527431
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bạc",
+            "street": "Hàng Bè",
+            "city": "Hà Nội",
+            "normalize": "hang be hang bac hoan kiem ha noi",
+            "streetNormalize": "hang be hang bac hoan kiem ha noi",
+            "wardNormalize": "hang bac hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bac hoan kiem ha noi",
+            "lat": 21.0331261,
+            "lon": 105.8538258,
+            "geolocation": {
+                "latitude": 21.0331261,
+                "longitude": 105.8538258
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bạc",
+            "street": "Hàng Bạc",
+            "city": "Hà Nội",
+            "normalize": "hang bac hang bac hoan kiem ha noi",
+            "streetNormalize": "hang bac hang bac hoan kiem ha noi",
+            "wardNormalize": "hang bac hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bac hoan kiem ha noi",
+            "lat": 21.0339072,
+            "lon": 105.852375,
+            "geolocation": {
+                "latitude": 21.0339072,
+                "longitude": 105.852375
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bạc",
+            "street": "Hồ Hoàn Kiếm",
+            "city": "Hà Nội",
+            "normalize": "ho hoan kiem hang bac hoan kiem ha noi",
+            "streetNormalize": "ho hoan kiem hang bac hoan kiem ha noi",
+            "wardNormalize": "hang bac hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bac hoan kiem ha noi",
+            "lat": 21.0318555,
+            "lon": 105.8531361,
+            "geolocation": {
+                "latitude": 21.0318555,
+                "longitude": 105.8531361
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bạc",
+            "street": "Lò Sũ",
+            "city": "Hà Nội",
+            "normalize": "lo su hang bac hoan kiem ha noi",
+            "streetNormalize": "lo su hang bac hoan kiem ha noi",
+            "wardNormalize": "hang bac hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bac hoan kiem ha noi",
+            "lat": 21.03138,
+            "lon": 105.853682,
+            "geolocation": {
+                "latitude": 21.03138,
+                "longitude": 105.853682
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bạc",
+            "street": "Đinh Liệt",
+            "city": "Hà Nội",
+            "normalize": "dinh liet hang bac hoan kiem ha noi",
+            "streetNormalize": "dinh liet hang bac hoan kiem ha noi",
+            "wardNormalize": "hang bac hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bac hoan kiem ha noi",
+            "lat": 21.033077,
+            "lon": 105.851936,
+            "geolocation": {
+                "latitude": 21.033077,
+                "longitude": 105.851936
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bạc",
+            "street": "Đinh Tiên Hoàng",
+            "city": "Hà Nội",
+            "normalize": "dinh tien hoang hang bac hoan kiem ha noi",
+            "streetNormalize": "dinh tien hoang hang bac hoan kiem ha noi",
+            "wardNormalize": "hang bac hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bac hoan kiem ha noi",
+            "lat": 21.031795,
+            "lon": 105.852883,
+            "geolocation": {
+                "latitude": 21.031795,
+                "longitude": 105.852883
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Bà Triệu",
+            "city": "Hà Nội",
+            "normalize": "ba trieu hang bai hoan kiem ha noi",
+            "streetNormalize": "ba trieu hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.020624,
+            "lon": 105.84997,
+            "geolocation": {
+                "latitude": 21.020624,
+                "longitude": 105.84997
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Hàm Long",
+            "city": "Hà Nội",
+            "normalize": "ham long hang bai hoan kiem ha noi",
+            "streetNormalize": "ham long hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.019459,
+            "lon": 105.852631,
+            "geolocation": {
+                "latitude": 21.019459,
+                "longitude": 105.852631
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Hàng Bài",
+            "city": "Hà Nội",
+            "normalize": "hang bai hang bai hoan kiem ha noi",
+            "streetNormalize": "hang bai hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.022581,
+            "lon": 105.852581,
+            "geolocation": {
+                "latitude": 21.022581,
+                "longitude": 105.852581
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Lý Thường Kiệt",
+            "city": "Hà Nội",
+            "normalize": "ly thuong kiet hang bai hoan kiem ha noi",
+            "streetNormalize": "ly thuong kiet hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.0228923,
+            "lon": 105.851908,
+            "geolocation": {
+                "latitude": 21.0228923,
+                "longitude": 105.851908
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Nguyễn Chế Nghĩa",
+            "city": "Hà Nội",
+            "normalize": "nguyen che nghia hang bai hoan kiem ha noi",
+            "streetNormalize": "nguyen che nghia hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.019742,
+            "lon": 105.852829,
+            "geolocation": {
+                "latitude": 21.019742,
+                "longitude": 105.852829
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Ngô Văn Sở",
+            "city": "Hà Nội",
+            "normalize": "ngo van so hang bai hoan kiem ha noi",
+            "streetNormalize": "ngo van so hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.020395,
+            "lon": 105.84989,
+            "geolocation": {
+                "latitude": 21.020395,
+                "longitude": 105.84989
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Phạm Sư Mạnh",
+            "city": "Hà Nội",
+            "normalize": "pham su manh hang bai hoan kiem ha noi",
+            "streetNormalize": "pham su manh hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.0227589514279,
+            "lon": 105.855213973706,
+            "geolocation": {
+                "latitude": 21.0227589514279,
+                "longitude": 105.855213973706
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Phố Huế",
+            "city": "Hà Nội",
+            "normalize": "pho hue hang bai hoan kiem ha noi",
+            "streetNormalize": "pho hue hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.0183313815025,
+            "lon": 105.851661854551,
+            "geolocation": {
+                "latitude": 21.0183313815025,
+                "longitude": 105.851661854551
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Trần Hưng Đạo",
+            "city": "Hà Nội",
+            "normalize": "tran hung dao hang bai hoan kiem ha noi",
+            "streetNormalize": "tran hung dao hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.021239,
+            "lon": 105.851445,
+            "geolocation": {
+                "latitude": 21.021239,
+                "longitude": 105.851445
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Trần Quốc Toản",
+            "city": "Hà Nội",
+            "normalize": "tran quoc toan hang bai hoan kiem ha noi",
+            "streetNormalize": "tran quoc toan hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.0194117,
+            "lon": 105.8505052,
+            "geolocation": {
+                "latitude": 21.0194117,
+                "longitude": 105.8505052
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bài",
+            "street": "Vọng Đức",
+            "city": "Hà Nội",
+            "normalize": "vong duc hang bai hoan kiem ha noi",
+            "streetNormalize": "vong duc hang bai hoan kiem ha noi",
+            "wardNormalize": "hang bai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bai hoan kiem ha noi",
+            "lat": 21.021899,
+            "lon": 105.853672,
+            "geolocation": {
+                "latitude": 21.021899,
+                "longitude": 105.853672
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Bát Sứ",
+            "city": "Hà Nội",
+            "normalize": "bat su hang bo hoan kiem ha noi",
+            "streetNormalize": "bat su hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.034219,
+            "lon": 105.847344,
+            "geolocation": {
+                "latitude": 21.034219,
+                "longitude": 105.847344
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Bát Đàn",
+            "city": "Hà Nội",
+            "normalize": "bat dan hang bo hoan kiem ha noi",
+            "streetNormalize": "bat dan hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.0337301211918,
+            "lon": 105.847281504343,
+            "geolocation": {
+                "latitude": 21.0337301211918,
+                "longitude": 105.847281504343
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Hàng Bút",
+            "city": "Hà Nội",
+            "normalize": "hang but hang bo hoan kiem ha noi",
+            "streetNormalize": "hang but hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.03488,
+            "lon": 105.848188,
+            "geolocation": {
+                "latitude": 21.03488,
+                "longitude": 105.848188
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Hàng Bồ",
+            "city": "Hà Nội",
+            "normalize": "hang bo hang bo hoan kiem ha noi",
+            "streetNormalize": "hang bo hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.033871,
+            "lon": 105.84898,
+            "geolocation": {
+                "latitude": 21.033871,
+                "longitude": 105.84898
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Hàng Cá",
+            "city": "Hà Nội",
+            "normalize": "hang ca hang bo hoan kiem ha noi",
+            "streetNormalize": "hang ca hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.0361189165327,
+            "lon": 105.848860930523,
+            "geolocation": {
+                "latitude": 21.0361189165327,
+                "longitude": 105.848860930523
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Hàng Gà",
+            "city": "Hà Nội",
+            "normalize": "hang ga hang bo hoan kiem ha noi",
+            "streetNormalize": "hang ga hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.035555,
+            "lon": 105.847022,
+            "geolocation": {
+                "latitude": 21.035555,
+                "longitude": 105.847022
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Hàng Phèn",
+            "city": "Hà Nội",
+            "normalize": "hang phen hang bo hoan kiem ha noi",
+            "streetNormalize": "hang phen hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.034369,
+            "lon": 105.847386,
+            "geolocation": {
+                "latitude": 21.034369,
+                "longitude": 105.847386
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Hàng Thiếc",
+            "city": "Hà Nội",
+            "normalize": "hang thiec hang bo hoan kiem ha noi",
+            "streetNormalize": "hang thiec hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.033565,
+            "lon": 105.847909,
+            "geolocation": {
+                "latitude": 21.033565,
+                "longitude": 105.847909
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Hàng Vải",
+            "city": "Hà Nội",
+            "normalize": "hang vai hang bo hoan kiem ha noi",
+            "streetNormalize": "hang vai hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.035555,
+            "lon": 105.847022,
+            "geolocation": {
+                "latitude": 21.035555,
+                "longitude": 105.847022
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Hàng Đồng",
+            "city": "Hà Nội",
+            "normalize": "hang dong hang bo hoan kiem ha noi",
+            "streetNormalize": "hang dong hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.03621,
+            "lon": 105.847717,
+            "geolocation": {
+                "latitude": 21.03621,
+                "longitude": 105.847717
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Lãn Ông",
+            "city": "Hà Nội",
+            "normalize": "lan ong hang bo hoan kiem ha noi",
+            "streetNormalize": "lan ong hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.0353191254232,
+            "lon": 105.849105489211,
+            "geolocation": {
+                "latitude": 21.0353191254232,
+                "longitude": 105.849105489211
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Lò Rèn",
+            "city": "Hà Nội",
+            "normalize": "lo ren hang bo hoan kiem ha noi",
+            "streetNormalize": "lo ren hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.036195,
+            "lon": 105.848047,
+            "geolocation": {
+                "latitude": 21.036195,
+                "longitude": 105.848047
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bồ",
+            "street": "Thuốc Bắc",
+            "city": "Hà Nội",
+            "normalize": "thuoc bac hang bo hoan kiem ha noi",
+            "streetNormalize": "thuoc bac hang bo hoan kiem ha noi",
+            "wardNormalize": "hang bo hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bo hoan kiem ha noi",
+            "lat": 21.0354,
+            "lon": 105.8482634,
+            "geolocation": {
+                "latitude": 21.0354,
+                "longitude": 105.8482634
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Hà Trung",
+            "city": "Hà Nội",
+            "normalize": "ha trung hang bong hoan kiem ha noi",
+            "streetNormalize": "ha trung hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.030434,
+            "lon": 105.8460583,
+            "geolocation": {
+                "latitude": 21.030434,
+                "longitude": 105.8460583
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Hàng Bông",
+            "city": "Hà Nội",
+            "normalize": "hang bong hang bong hoan kiem ha noi",
+            "streetNormalize": "hang bong hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.029649,
+            "lon": 105.8459708,
+            "geolocation": {
+                "latitude": 21.029649,
+                "longitude": 105.8459708
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Hàng Da",
+            "city": "Hà Nội",
+            "normalize": "hang da hang bong hoan kiem ha noi",
+            "streetNormalize": "hang da hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.0299714,
+            "lon": 105.8465463,
+            "geolocation": {
+                "latitude": 21.0299714,
+                "longitude": 105.8465463
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Hội Vũ",
+            "city": "Hà Nội",
+            "normalize": "hoi vu hang bong hoan kiem ha noi",
+            "streetNormalize": "hoi vu hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.028707,
+            "lon": 105.845328,
+            "geolocation": {
+                "latitude": 21.028707,
+                "longitude": 105.845328
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Phùng Hưng",
+            "city": "Hà Nội",
+            "normalize": "phung hung hang bong hoan kiem ha noi",
+            "streetNormalize": "phung hung hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.0288818,
+            "lon": 105.8444872,
+            "geolocation": {
+                "latitude": 21.0288818,
+                "longitude": 105.8444872
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Phủ Doãn",
+            "city": "Hà Nội",
+            "normalize": "phu doan hang bong hoan kiem ha noi",
+            "streetNormalize": "phu doan hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.0277609,
+            "lon": 105.8477303,
+            "geolocation": {
+                "latitude": 21.0277609,
+                "longitude": 105.8477303
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Quán Sứ",
+            "city": "Hà Nội",
+            "normalize": "quan su hang bong hoan kiem ha noi",
+            "streetNormalize": "quan su hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.027562,
+            "lon": 105.846,
+            "geolocation": {
+                "latitude": 21.027562,
+                "longitude": 105.846
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Tràng Thi",
+            "city": "Hà Nội",
+            "normalize": "trang thi hang bong hoan kiem ha noi",
+            "streetNormalize": "trang thi hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.027264,
+            "lon": 105.847031,
+            "geolocation": {
+                "latitude": 21.027264,
+                "longitude": 105.847031
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Trần Phú",
+            "city": "Hà Nội",
+            "normalize": "tran phu hang bong hoan kiem ha noi",
+            "streetNormalize": "tran phu hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.030037,
+            "lon": 105.844444,
+            "geolocation": {
+                "latitude": 21.030037,
+                "longitude": 105.844444
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Tống Duy Tân",
+            "city": "Hà Nội",
+            "normalize": "tong duy tan hang bong hoan kiem ha noi",
+            "streetNormalize": "tong duy tan hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.02933,
+            "lon": 105.84363,
+            "geolocation": {
+                "latitude": 21.02933,
+                "longitude": 105.84363
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Bông",
+            "street": "Đường Thành",
+            "city": "Hà Nội",
+            "normalize": "duong thanh hang bong hoan kiem ha noi",
+            "streetNormalize": "duong thanh hang bong hoan kiem ha noi",
+            "wardNormalize": "hang bong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang bong hoan kiem ha noi",
+            "lat": 21.030447,
+            "lon": 105.847483,
+            "geolocation": {
+                "latitude": 21.030447,
+                "longitude": 105.847483
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Chợ Gạo",
+            "city": "Hà Nội",
+            "normalize": "cho gao hang buom hoan kiem ha noi",
+            "streetNormalize": "cho gao hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.0368294,
+            "lon": 105.8526138,
+            "geolocation": {
+                "latitude": 21.0368294,
+                "longitude": 105.8526138
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Hàng Buồm",
+            "city": "Hà Nội",
+            "normalize": "hang buom hang buom hoan kiem ha noi",
+            "streetNormalize": "hang buom hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.035898,
+            "lon": 105.851823,
+            "geolocation": {
+                "latitude": 21.035898,
+                "longitude": 105.851823
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Hàng Chĩnh",
+            "city": "Hà Nội",
+            "normalize": "hang chinh hang buom hoan kiem ha noi",
+            "streetNormalize": "hang chinh hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.035521,
+            "lon": 105.853392,
+            "geolocation": {
+                "latitude": 21.035521,
+                "longitude": 105.853392
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Hàng Giầy",
+            "city": "Hà Nội",
+            "normalize": "hang giay hang buom hoan kiem ha noi",
+            "streetNormalize": "hang giay hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.035628,
+            "lon": 105.850967,
+            "geolocation": {
+                "latitude": 21.035628,
+                "longitude": 105.850967
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Lương Ngọc Quyến",
+            "city": "Hà Nội",
+            "normalize": "luong ngoc quyen hang buom hoan kiem ha noi",
+            "streetNormalize": "luong ngoc quyen hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.03474,
+            "lon": 105.852398,
+            "geolocation": {
+                "latitude": 21.03474,
+                "longitude": 105.852398
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Mã Mây",
+            "city": "Hà Nội",
+            "normalize": "ma may hang buom hoan kiem ha noi",
+            "streetNormalize": "ma may hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.035762,
+            "lon": 105.853346,
+            "geolocation": {
+                "latitude": 21.035762,
+                "longitude": 105.853346
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Nguyễn Siêu",
+            "city": "Hà Nội",
+            "normalize": "nguyen sieu hang buom hoan kiem ha noi",
+            "streetNormalize": "nguyen sieu hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.036568,
+            "lon": 105.85173,
+            "geolocation": {
+                "latitude": 21.036568,
+                "longitude": 105.85173
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Trần Nhật Duật",
+            "city": "Hà Nội",
+            "normalize": "tran nhat duat hang buom hoan kiem ha noi",
+            "streetNormalize": "tran nhat duat hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.0371096733503,
+            "lon": 105.853279230695,
+            "geolocation": {
+                "latitude": 21.0371096733503,
+                "longitude": 105.853279230695
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Tạ Hiện",
+            "city": "Hà Nội",
+            "normalize": "ta hien hang buom hoan kiem ha noi",
+            "streetNormalize": "ta hien hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.034475,
+            "lon": 105.852138,
+            "geolocation": {
+                "latitude": 21.034475,
+                "longitude": 105.852138
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Ô Quan Chưởng",
+            "city": "Hà Nội",
+            "normalize": "o quan chuong hang buom hoan kiem ha noi",
+            "streetNormalize": "o quan chuong hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.037361,
+            "lon": 105.852409,
+            "geolocation": {
+                "latitude": 21.037361,
+                "longitude": 105.852409
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Đào Duy Từ",
+            "city": "Hà Nội",
+            "normalize": "dao duy tu hang buom hoan kiem ha noi",
+            "streetNormalize": "dao duy tu hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.036055,
+            "lon": 105.852793,
+            "geolocation": {
+                "latitude": 21.036055,
+                "longitude": 105.852793
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Buồm",
+            "street": "Đông Thái",
+            "city": "Hà Nội",
+            "normalize": "dong thai hang buom hoan kiem ha noi",
+            "streetNormalize": "dong thai hang buom hoan kiem ha noi",
+            "wardNormalize": "hang buom hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang buom hoan kiem ha noi",
+            "lat": 21.036037,
+            "lon": 105.852967,
+            "geolocation": {
+                "latitude": 21.036037,
+                "longitude": 105.852967
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Chả Cá",
+            "city": "Hà Nội",
+            "normalize": "cha ca hang dao hoan kiem ha noi",
+            "streetNormalize": "cha ca hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.036108,
+            "lon": 105.84902,
+            "geolocation": {
+                "latitude": 21.036108,
+                "longitude": 105.84902
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Gia Ngư",
+            "city": "Hà Nội",
+            "normalize": "gia ngu hang dao hoan kiem ha noi",
+            "streetNormalize": "gia ngu hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.033073,
+            "lon": 105.85154,
+            "geolocation": {
+                "latitude": 21.033073,
+                "longitude": 105.85154
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Hàng Bạc",
+            "city": "Hà Nội",
+            "normalize": "hang bac hang dao hoan kiem ha noi",
+            "streetNormalize": "hang bac hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.0341275,
+            "lon": 105.850932,
+            "geolocation": {
+                "latitude": 21.0341275,
+                "longitude": 105.850932
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Hàng Bồ",
+            "city": "Hà Nội",
+            "normalize": "hang bo hang dao hoan kiem ha noi",
+            "streetNormalize": "hang bo hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.033972,
+            "lon": 105.84996,
+            "geolocation": {
+                "latitude": 21.033972,
+                "longitude": 105.84996
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Hàng Cá",
+            "city": "Hà Nội",
+            "normalize": "hang ca hang dao hoan kiem ha noi",
+            "streetNormalize": "hang ca hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.036108,
+            "lon": 105.84902,
+            "geolocation": {
+                "latitude": 21.036108,
+                "longitude": 105.84902
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Hàng Cân",
+            "city": "Hà Nội",
+            "normalize": "hang can hang dao hoan kiem ha noi",
+            "streetNormalize": "hang can hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.034042,
+            "lon": 105.849932,
+            "geolocation": {
+                "latitude": 21.034042,
+                "longitude": 105.849932
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Hàng Ngang",
+            "city": "Hà Nội",
+            "normalize": "hang ngang hang dao hoan kiem ha noi",
+            "streetNormalize": "hang ngang hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.034612,
+            "lon": 105.850375,
+            "geolocation": {
+                "latitude": 21.034612,
+                "longitude": 105.850375
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Hàng Đào",
+            "city": "Hà Nội",
+            "normalize": "hang dao hang dao hoan kiem ha noi",
+            "streetNormalize": "hang dao hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.032658,
+            "lon": 105.851276,
+            "geolocation": {
+                "latitude": 21.032658,
+                "longitude": 105.851276
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Hàng Đường",
+            "city": "Hà Nội",
+            "normalize": "hang duong hang dao hoan kiem ha noi",
+            "streetNormalize": "hang duong hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.036355,
+            "lon": 105.849662,
+            "geolocation": {
+                "latitude": 21.036355,
+                "longitude": 105.849662
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Lãn Ông",
+            "city": "Hà Nội",
+            "normalize": "lan ong hang dao hoan kiem ha noi",
+            "streetNormalize": "lan ong hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.035286,
+            "lon": 105.849435,
+            "geolocation": {
+                "latitude": 21.035286,
+                "longitude": 105.849435
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Đào",
+            "street": "Lương Văn Can",
+            "city": "Hà Nội",
+            "normalize": "luong van can hang dao hoan kiem ha noi",
+            "streetNormalize": "luong van can hang dao hoan kiem ha noi",
+            "wardNormalize": "hang dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang dao hoan kiem ha noi",
+            "lat": 21.033082,
+            "lon": 105.850319,
+            "geolocation": {
+                "latitude": 21.033082,
+                "longitude": 105.850319
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Hàng Bông",
+            "city": "Hà Nội",
+            "normalize": "hang bong hang gai hoan kiem ha noi",
+            "streetNormalize": "hang bong hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.030813,
+            "lon": 105.848162,
+            "geolocation": {
+                "latitude": 21.030813,
+                "longitude": 105.848162
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Hàng Gai",
+            "city": "Hà Nội",
+            "normalize": "hang gai hang gai hoan kiem ha noi",
+            "streetNormalize": "hang gai hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.032205,
+            "lon": 105.850505,
+            "geolocation": {
+                "latitude": 21.032205,
+                "longitude": 105.850505
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Hàng Hòm",
+            "city": "Hà Nội",
+            "normalize": "hang hom hang gai hoan kiem ha noi",
+            "streetNormalize": "hang hom hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.031746,
+            "lon": 105.848902,
+            "geolocation": {
+                "latitude": 21.031746,
+                "longitude": 105.848902
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Hàng Mành",
+            "city": "Hà Nội",
+            "normalize": "hang manh hang gai hoan kiem ha noi",
+            "streetNormalize": "hang manh hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.032151,
+            "lon": 105.848199,
+            "geolocation": {
+                "latitude": 21.032151,
+                "longitude": 105.848199
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Hàng Nón",
+            "city": "Hà Nội",
+            "normalize": "hang non hang gai hoan kiem ha noi",
+            "streetNormalize": "hang non hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.0324076,
+            "lon": 105.848093,
+            "geolocation": {
+                "latitude": 21.0324076,
+                "longitude": 105.848093
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Hàng Quạt",
+            "city": "Hà Nội",
+            "normalize": "hang quat hang gai hoan kiem ha noi",
+            "streetNormalize": "hang quat hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.032699,
+            "lon": 105.849457,
+            "geolocation": {
+                "latitude": 21.032699,
+                "longitude": 105.849457
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Hàng Thiếc",
+            "city": "Hà Nội",
+            "normalize": "hang thiec hang gai hoan kiem ha noi",
+            "streetNormalize": "hang thiec hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.033003,
+            "lon": 105.847792,
+            "geolocation": {
+                "latitude": 21.033003,
+                "longitude": 105.847792
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Lương Văn Can",
+            "city": "Hà Nội",
+            "normalize": "luong van can hang gai hoan kiem ha noi",
+            "streetNormalize": "luong van can hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.032319,
+            "lon": 105.850728,
+            "geolocation": {
+                "latitude": 21.032319,
+                "longitude": 105.850728
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Tô Tịch",
+            "city": "Hà Nội",
+            "normalize": "to tich hang gai hoan kiem ha noi",
+            "streetNormalize": "to tich hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.032205,
+            "lon": 105.850505,
+            "geolocation": {
+                "latitude": 21.032205,
+                "longitude": 105.850505
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Gai",
+            "street": "Yên Thái",
+            "city": "Hà Nội",
+            "normalize": "yen thai hang gai hoan kiem ha noi",
+            "streetNormalize": "yen thai hang gai hoan kiem ha noi",
+            "wardNormalize": "hang gai hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang gai hoan kiem ha noi",
+            "lat": 21.031775,
+            "lon": 105.847148,
+            "geolocation": {
+                "latitude": 21.031775,
+                "longitude": 105.847148
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Cổng Đục",
+            "city": "Hà Nội",
+            "normalize": "cong duc hang ma hoan kiem ha noi",
+            "streetNormalize": "cong duc hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.0356121,
+            "lon": 105.8464703,
+            "geolocation": {
+                "latitude": 21.0356121,
+                "longitude": 105.8464703
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Gầm Cầu",
+            "city": "Hà Nội",
+            "normalize": "gam cau hang ma hoan kiem ha noi",
+            "streetNormalize": "gam cau hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.038904,
+            "lon": 105.847492,
+            "geolocation": {
+                "latitude": 21.038904,
+                "longitude": 105.847492
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Hàng Chai",
+            "city": "Hà Nội",
+            "normalize": "hang chai hang ma hoan kiem ha noi",
+            "streetNormalize": "hang chai hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.037461,
+            "lon": 105.847693,
+            "geolocation": {
+                "latitude": 21.037461,
+                "longitude": 105.847693
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Hàng Cót",
+            "city": "Hà Nội",
+            "normalize": "hang cot hang ma hoan kiem ha noi",
+            "streetNormalize": "hang cot hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.038616,
+            "lon": 105.84717,
+            "geolocation": {
+                "latitude": 21.038616,
+                "longitude": 105.84717
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Hàng Hương",
+            "city": "Hà Nội",
+            "normalize": "hang huong hang ma hoan kiem ha noi",
+            "streetNormalize": "hang huong hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.035257,
+            "lon": 105.8455,
+            "geolocation": {
+                "latitude": 21.035257,
+                "longitude": 105.8455
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Hàng Khoai",
+            "city": "Hà Nội",
+            "normalize": "hang khoai hang ma hoan kiem ha noi",
+            "streetNormalize": "hang khoai hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.0378019,
+            "lon": 105.8479225,
+            "geolocation": {
+                "latitude": 21.0378019,
+                "longitude": 105.8479225
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Hàng Lược",
+            "city": "Hà Nội",
+            "normalize": "hang luoc hang ma hoan kiem ha noi",
+            "streetNormalize": "hang luoc hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.037502,
+            "lon": 105.848108,
+            "geolocation": {
+                "latitude": 21.037502,
+                "longitude": 105.848108
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Hàng Mã",
+            "city": "Hà Nội",
+            "normalize": "hang ma hang ma hoan kiem ha noi",
+            "streetNormalize": "hang ma hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.036651,
+            "lon": 105.847769,
+            "geolocation": {
+                "latitude": 21.036651,
+                "longitude": 105.847769
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Hàng Rươi",
+            "city": "Hà Nội",
+            "normalize": "hang ruoi hang ma hoan kiem ha noi",
+            "streetNormalize": "hang ruoi hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.037438,
+            "lon": 105.847948,
+            "geolocation": {
+                "latitude": 21.037438,
+                "longitude": 105.847948
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Hàng Vải",
+            "city": "Hà Nội",
+            "normalize": "hang vai hang ma hoan kiem ha noi",
+            "streetNormalize": "hang vai hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.0356052,
+            "lon": 105.84643,
+            "geolocation": {
+                "latitude": 21.0356052,
+                "longitude": 105.84643
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Lê Văn Linh",
+            "city": "Hà Nội",
+            "normalize": "le van linh hang ma hoan kiem ha noi",
+            "streetNormalize": "le van linh hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.037409,
+            "lon": 105.846074,
+            "geolocation": {
+                "latitude": 21.037409,
+                "longitude": 105.846074
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Lý Nam Đế",
+            "city": "Hà Nội",
+            "normalize": "ly nam de hang ma hoan kiem ha noi",
+            "streetNormalize": "ly nam de hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.036861,
+            "lon": 105.845411,
+            "geolocation": {
+                "latitude": 21.036861,
+                "longitude": 105.845411
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Mã",
+            "street": "Phùng Hưng",
+            "city": "Hà Nội",
+            "normalize": "phung hung hang ma hoan kiem ha noi",
+            "streetNormalize": "phung hung hang ma hoan kiem ha noi",
+            "wardNormalize": "hang ma hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang ma hoan kiem ha noi",
+            "lat": 21.037364,
+            "lon": 105.846273,
+            "geolocation": {
+                "latitude": 21.037364,
+                "longitude": 105.846273
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Bà Triệu",
+            "city": "Hà Nội",
+            "normalize": "ba trieu hang trong hoan kiem ha noi",
+            "streetNormalize": "ba trieu hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.0254031415905,
+            "lon": 105.851500961722,
+            "geolocation": {
+                "latitude": 21.0254031415905,
+                "longitude": 105.851500961722
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Bảo Khánh",
+            "city": "Hà Nội",
+            "normalize": "bao khanh hang trong hoan kiem ha noi",
+            "streetNormalize": "bao khanh hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.0298635,
+            "lon": 105.8501345,
+            "geolocation": {
+                "latitude": 21.0298635,
+                "longitude": 105.8501345
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Chân Cầm",
+            "city": "Hà Nội",
+            "normalize": "chan cam hang trong hoan kiem ha noi",
+            "streetNormalize": "chan cam hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.029978,
+            "lon": 105.847721,
+            "geolocation": {
+                "latitude": 21.029978,
+                "longitude": 105.847721
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Hàng Bông",
+            "city": "Hà Nội",
+            "normalize": "hang bong hang trong hoan kiem ha noi",
+            "streetNormalize": "hang bong hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.030447,
+            "lon": 105.847483,
+            "geolocation": {
+                "latitude": 21.030447,
+                "longitude": 105.847483
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Hàng Hành",
+            "city": "Hà Nội",
+            "normalize": "hang hanh hang trong hoan kiem ha noi",
+            "streetNormalize": "hang hanh hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.0315628,
+            "lon": 105.8505662,
+            "geolocation": {
+                "latitude": 21.0315628,
+                "longitude": 105.8505662
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Hàng Khay",
+            "city": "Hà Nội",
+            "normalize": "hang khay hang trong hoan kiem ha noi",
+            "streetNormalize": "hang khay hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.025889,
+            "lon": 105.85187,
+            "geolocation": {
+                "latitude": 21.025889,
+                "longitude": 105.85187
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Hàng Trống",
+            "city": "Hà Nội",
+            "normalize": "hang trong hang trong hoan kiem ha noi",
+            "streetNormalize": "hang trong hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.0295269,
+            "lon": 105.850406,
+            "geolocation": {
+                "latitude": 21.0295269,
+                "longitude": 105.850406
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Lê Thái Tổ",
+            "city": "Hà Nội",
+            "normalize": "le thai to hang trong hoan kiem ha noi",
+            "streetNormalize": "le thai to hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.03029,
+            "lon": 105.851144,
+            "geolocation": {
+                "latitude": 21.03029,
+                "longitude": 105.851144
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Lý Quốc Sư",
+            "city": "Hà Nội",
+            "normalize": "ly quoc su hang trong hoan kiem ha noi",
+            "streetNormalize": "ly quoc su hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.029763,
+            "lon": 105.849188,
+            "geolocation": {
+                "latitude": 21.029763,
+                "longitude": 105.849188
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Lương Văn Can",
+            "city": "Hà Nội",
+            "normalize": "luong van can hang trong hoan kiem ha noi",
+            "streetNormalize": "luong van can hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.031796,
+            "lon": 105.850901,
+            "geolocation": {
+                "latitude": 21.031796,
+                "longitude": 105.850901
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Nhà Chung",
+            "city": "Hà Nội",
+            "normalize": "nha chung hang trong hoan kiem ha noi",
+            "streetNormalize": "nha chung hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.027477,
+            "lon": 105.850109,
+            "geolocation": {
+                "latitude": 21.027477,
+                "longitude": 105.850109
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Nhà Thờ",
+            "city": "Hà Nội",
+            "normalize": "nha tho hang trong hoan kiem ha noi",
+            "streetNormalize": "nha tho hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.028863,
+            "lon": 105.849575,
+            "geolocation": {
+                "latitude": 21.028863,
+                "longitude": 105.849575
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Phủ Doãn",
+            "city": "Hà Nội",
+            "normalize": "phu doan hang trong hoan kiem ha noi",
+            "streetNormalize": "phu doan hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.0277609,
+            "lon": 105.8477303,
+            "geolocation": {
+                "latitude": 21.0277609,
+                "longitude": 105.8477303
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Thọ Xương",
+            "city": "Hà Nội",
+            "normalize": "tho xuong hang trong hoan kiem ha noi",
+            "streetNormalize": "tho xuong hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.028603,
+            "lon": 105.848087,
+            "geolocation": {
+                "latitude": 21.028603,
+                "longitude": 105.848087
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Tràng Thi",
+            "city": "Hà Nội",
+            "normalize": "trang thi hang trong hoan kiem ha noi",
+            "streetNormalize": "trang thi hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.0263102,
+            "lon": 105.8503228,
+            "geolocation": {
+                "latitude": 21.0263102,
+                "longitude": 105.8503228
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Đinh Tiên Hoàng",
+            "city": "Hà Nội",
+            "normalize": "dinh tien hoang hang trong hoan kiem ha noi",
+            "streetNormalize": "dinh tien hoang hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.031929,
+            "lon": 105.8518149,
+            "geolocation": {
+                "latitude": 21.031929,
+                "longitude": 105.8518149
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Hàng Trống",
+            "street": "Ấu Triệu",
+            "city": "Hà Nội",
+            "normalize": "au trieu hang trong hoan kiem ha noi",
+            "streetNormalize": "au trieu hang trong hoan kiem ha noi",
+            "wardNormalize": "hang trong hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong hang trong hoan kiem ha noi",
+            "lat": 21.0287701,
+            "lon": 105.8485404,
+            "geolocation": {
+                "latitude": 21.0287701,
+                "longitude": 105.8485404
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Hàng Muối",
+            "city": "Hà Nội",
+            "normalize": "hang muoi ly thai to hoan kiem ha noi",
+            "streetNormalize": "hang muoi ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.0340636,
+            "lon": 105.8546816,
+            "geolocation": {
+                "latitude": 21.0340636,
+                "longitude": 105.8546816
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Hàng Mắm",
+            "city": "Hà Nội",
+            "normalize": "hang mam ly thai to hoan kiem ha noi",
+            "streetNormalize": "hang mam ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.0337947,
+            "lon": 105.8544042,
+            "geolocation": {
+                "latitude": 21.0337947,
+                "longitude": 105.8544042
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Hàng Thùng",
+            "city": "Hà Nội",
+            "normalize": "hang thung ly thai to hoan kiem ha noi",
+            "streetNormalize": "hang thung ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.0323972,
+            "lon": 105.8551923,
+            "geolocation": {
+                "latitude": 21.0323972,
+                "longitude": 105.8551923
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Hàng Tre",
+            "city": "Hà Nội",
+            "normalize": "hang tre ly thai to hoan kiem ha noi",
+            "streetNormalize": "hang tre ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.032538,
+            "lon": 105.855508,
+            "geolocation": {
+                "latitude": 21.032538,
+                "longitude": 105.855508
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Hàng Vôi",
+            "city": "Hà Nội",
+            "normalize": "hang voi ly thai to hoan kiem ha noi",
+            "streetNormalize": "hang voi ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.030715,
+            "lon": 105.856206,
+            "geolocation": {
+                "latitude": 21.030715,
+                "longitude": 105.856206
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Lò Sũ",
+            "city": "Hà Nội",
+            "normalize": "lo su ly thai to hoan kiem ha noi",
+            "streetNormalize": "lo su ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.031404,
+            "lon": 105.853996,
+            "geolocation": {
+                "latitude": 21.031404,
+                "longitude": 105.853996
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Lý Thái Tổ",
+            "city": "Hà Nội",
+            "normalize": "ly thai to ly thai to hoan kiem ha noi",
+            "streetNormalize": "ly thai to ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.028933,
+            "lon": 105.855453,
+            "geolocation": {
+                "latitude": 21.028933,
+                "longitude": 105.855453
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Lương Ngọc Quyến",
+            "city": "Hà Nội",
+            "normalize": "luong ngoc quyen ly thai to hoan kiem ha noi",
+            "streetNormalize": "luong ngoc quyen ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.0348611172959,
+            "lon": 105.854142092695,
+            "geolocation": {
+                "latitude": 21.0348611172959,
+                "longitude": 105.854142092695
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Nguyễn Hữu Huân",
+            "city": "Hà Nội",
+            "normalize": "nguyen huu huan ly thai to hoan kiem ha noi",
+            "streetNormalize": "nguyen huu huan ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.033042,
+            "lon": 105.85446,
+            "geolocation": {
+                "latitude": 21.033042,
+                "longitude": 105.85446
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Ngô Quyền",
+            "city": "Hà Nội",
+            "normalize": "ngo quyen ly thai to hoan kiem ha noi",
+            "streetNormalize": "ngo quyen ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.029023,
+            "lon": 105.856556,
+            "geolocation": {
+                "latitude": 21.029023,
+                "longitude": 105.856556
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Trần Nguyên Hãn",
+            "city": "Hà Nội",
+            "normalize": "tran nguyen han ly thai to hoan kiem ha noi",
+            "streetNormalize": "tran nguyen han ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.029023,
+            "lon": 105.856556,
+            "geolocation": {
+                "latitude": 21.029023,
+                "longitude": 105.856556
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Trần Quang Khải",
+            "city": "Hà Nội",
+            "normalize": "tran quang khai ly thai to hoan kiem ha noi",
+            "streetNormalize": "tran quang khai ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.0329114,
+            "lon": 105.8559116,
+            "geolocation": {
+                "latitude": 21.0329114,
+                "longitude": 105.8559116
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Tông Đản",
+            "city": "Hà Nội",
+            "normalize": "tong dan ly thai to hoan kiem ha noi",
+            "streetNormalize": "tong dan ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.027859781755,
+            "lon": 105.857339877112,
+            "geolocation": {
+                "latitude": 21.027859781755,
+                "longitude": 105.857339877112
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Lý Thái Tổ",
+            "street": "Đinh Tiên Hoàng",
+            "city": "Hà Nội",
+            "normalize": "dinh tien hoang ly thai to hoan kiem ha noi",
+            "streetNormalize": "dinh tien hoang ly thai to hoan kiem ha noi",
+            "wardNormalize": "ly thai to hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong ly thai to hoan kiem ha noi",
+            "lat": 21.0307193,
+            "lon": 105.8535864,
+            "geolocation": {
+                "latitude": 21.0307193,
+                "longitude": 105.8535864
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Hàm Long",
+            "city": "Hà Nội",
+            "normalize": "ham long phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "ham long phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.018429,
+            "lon": 105.854863,
+            "geolocation": {
+                "latitude": 21.018429,
+                "longitude": 105.854863
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Lê Thánh Tông",
+            "city": "Hà Nội",
+            "normalize": "le thanh tong phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "le thanh tong phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.0222056,
+            "lon": 105.8577002,
+            "geolocation": {
+                "latitude": 21.0222056,
+                "longitude": 105.8577002
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Lý Thường Kiệt",
+            "city": "Hà Nội",
+            "normalize": "ly thuong kiet phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "ly thuong kiet phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.022022,
+            "lon": 105.854968,
+            "geolocation": {
+                "latitude": 21.022022,
+                "longitude": 105.854968
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Nguyễn Khắc Cần",
+            "city": "Hà Nội",
+            "normalize": "nguyen khac can phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "nguyen khac can phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.022752,
+            "lon": 105.855238,
+            "geolocation": {
+                "latitude": 21.022752,
+                "longitude": 105.855238
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Phan Chu Trinh",
+            "city": "Hà Nội",
+            "normalize": "phan chu trinh phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "phan chu trinh phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.020876,
+            "lon": 105.855877,
+            "geolocation": {
+                "latitude": 21.020876,
+                "longitude": 105.855877
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Phan Huy Chú",
+            "city": "Hà Nội",
+            "normalize": "phan huy chu phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "phan huy chu phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.021264,
+            "lon": 105.857558,
+            "geolocation": {
+                "latitude": 21.021264,
+                "longitude": 105.857558
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Phạm Ngũ Lão",
+            "city": "Hà Nội",
+            "normalize": "pham ngu lao phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "pham ngu lao phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.022346,
+            "lon": 105.85977,
+            "geolocation": {
+                "latitude": 21.022346,
+                "longitude": 105.85977
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Phạm Sư Mạnh",
+            "city": "Hà Nội",
+            "normalize": "pham su manh phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "pham su manh phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.022422,
+            "lon": 105.856355,
+            "geolocation": {
+                "latitude": 21.022422,
+                "longitude": 105.856355
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Trần Hưng Đạo",
+            "city": "Hà Nội",
+            "normalize": "tran hung dao phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "tran hung dao phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.0197477,
+            "lon": 105.8564738,
+            "geolocation": {
+                "latitude": 21.0197477,
+                "longitude": 105.8564738
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Trần Khánh Dư",
+            "city": "Hà Nội",
+            "normalize": "tran khanh du phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "tran khanh du phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.0228191,
+            "lon": 105.8609806,
+            "geolocation": {
+                "latitude": 21.0228191,
+                "longitude": 105.8609806
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Đinh Công Tráng",
+            "city": "Hà Nội",
+            "normalize": "dinh cong trang phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "dinh cong trang phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.018939805007,
+            "lon": 105.859924088231,
+            "geolocation": {
+                "latitude": 21.018939805007,
+                "longitude": 105.859924088231
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phan Chu Trinh",
+            "street": "Đặng Thái Thân",
+            "city": "Hà Nội",
+            "normalize": "dang thai than phan chu trinh hoan kiem ha noi",
+            "streetNormalize": "dang thai than phan chu trinh hoan kiem ha noi",
+            "wardNormalize": "phan chu trinh hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phan chu trinh hoan kiem ha noi",
+            "lat": 21.0230746,
+            "lon": 105.858673,
+            "geolocation": {
+                "latitude": 21.0230746,
+                "longitude": 105.858673
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phúc Tân",
+            "street": "Bảo Linh",
+            "city": "Hà Nội",
+            "normalize": "bao linh phuc tan hoan kiem ha noi",
+            "streetNormalize": "bao linh phuc tan hoan kiem ha noi",
+            "wardNormalize": "phuc tan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phuc tan hoan kiem ha noi",
+            "lat": 21.0374892,
+            "lon": 105.8552888,
+            "geolocation": {
+                "latitude": 21.0374892,
+                "longitude": 105.8552888
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phúc Tân",
+            "street": "Hồng Hà",
+            "city": "Hà Nội",
+            "normalize": "hong ha phuc tan hoan kiem ha noi",
+            "streetNormalize": "hong ha phuc tan hoan kiem ha noi",
+            "wardNormalize": "phuc tan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phuc tan hoan kiem ha noi",
+            "lat": 21.0366733,
+            "lon": 105.854047,
+            "geolocation": {
+                "latitude": 21.0366733,
+                "longitude": 105.854047
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phúc Tân",
+            "street": "Nguyên Khiết",
+            "city": "Hà Nội",
+            "normalize": "nguyen khiet phuc tan hoan kiem ha noi",
+            "streetNormalize": "nguyen khiet phuc tan hoan kiem ha noi",
+            "wardNormalize": "phuc tan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phuc tan hoan kiem ha noi",
+            "lat": 21.03507,
+            "lon": 105.857204,
+            "geolocation": {
+                "latitude": 21.03507,
+                "longitude": 105.857204
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phúc Tân",
+            "street": "Nguyễn Tư Giản",
+            "city": "Hà Nội",
+            "normalize": "nguyen tu gian phuc tan hoan kiem ha noi",
+            "streetNormalize": "nguyen tu gian phuc tan hoan kiem ha noi",
+            "wardNormalize": "phuc tan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phuc tan hoan kiem ha noi",
+            "lat": 21.038696,
+            "lon": 105.854602,
+            "geolocation": {
+                "latitude": 21.038696,
+                "longitude": 105.854602
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phúc Tân",
+            "street": "Phúc Tân",
+            "city": "Hà Nội",
+            "normalize": "phuc tan phuc tan hoan kiem ha noi",
+            "streetNormalize": "phuc tan phuc tan hoan kiem ha noi",
+            "wardNormalize": "phuc tan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phuc tan hoan kiem ha noi",
+            "lat": 21.035832,
+            "lon": 105.855359,
+            "geolocation": {
+                "latitude": 21.035832,
+                "longitude": 105.855359
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phúc Tân",
+            "street": "Thanh Yên",
+            "city": "Hà Nội",
+            "normalize": "thanh yen phuc tan hoan kiem ha noi",
+            "streetNormalize": "thanh yen phuc tan hoan kiem ha noi",
+            "wardNormalize": "phuc tan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phuc tan hoan kiem ha noi",
+            "lat": 21.037984,
+            "lon": 105.854622,
+            "geolocation": {
+                "latitude": 21.037984,
+                "longitude": 105.854622
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phúc Tân",
+            "street": "Trần Nhật Duật",
+            "city": "Hà Nội",
+            "normalize": "tran nhat duat phuc tan hoan kiem ha noi",
+            "streetNormalize": "tran nhat duat phuc tan hoan kiem ha noi",
+            "wardNormalize": "phuc tan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phuc tan hoan kiem ha noi",
+            "lat": 21.036787,
+            "lon": 105.8535736,
+            "geolocation": {
+                "latitude": 21.036787,
+                "longitude": 105.8535736
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Phúc Tân",
+            "street": "Trần Quang Khải",
+            "city": "Hà Nội",
+            "normalize": "tran quang khai phuc tan hoan kiem ha noi",
+            "streetNormalize": "tran quang khai phuc tan hoan kiem ha noi",
+            "wardNormalize": "phuc tan hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong phuc tan hoan kiem ha noi",
+            "lat": 21.0350444,
+            "lon": 105.8548066,
+            "geolocation": {
+                "latitude": 21.0350444,
+                "longitude": 105.8548066
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "19/12",
+            "city": "Hà Nội",
+            "normalize": "19/12 tran hung dao hoan kiem ha noi",
+            "streetNormalize": "19/12 tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.02487,
+            "lon": 105.847877,
+            "geolocation": {
+                "latitude": 21.02487,
+                "longitude": 105.847877
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Dã Tượng",
+            "city": "Hà Nội",
+            "normalize": "da tuong tran hung dao hoan kiem ha noi",
+            "streetNormalize": "da tuong tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.023516,
+            "lon": 105.846602,
+            "geolocation": {
+                "latitude": 21.023516,
+                "longitude": 105.846602
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Hai Bà Trưng",
+            "city": "Hà Nội",
+            "normalize": "hai ba trung tran hung dao hoan kiem ha noi",
+            "streetNormalize": "hai ba trung tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.024704,
+            "lon": 105.851349,
+            "geolocation": {
+                "latitude": 21.024704,
+                "longitude": 105.851349
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Hà Hồi",
+            "city": "Hà Nội",
+            "normalize": "ha hoi tran hung dao hoan kiem ha noi",
+            "streetNormalize": "ha hoi tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.0213328,
+            "lon": 105.8470201,
+            "geolocation": {
+                "latitude": 21.0213328,
+                "longitude": 105.8470201
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Hỏa Lò",
+            "city": "Hà Nội",
+            "normalize": "hoa lo tran hung dao hoan kiem ha noi",
+            "streetNormalize": "hoa lo tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.02483,
+            "lon": 105.846475,
+            "geolocation": {
+                "latitude": 21.02483,
+                "longitude": 105.846475
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Liên Trì",
+            "city": "Hà Nội",
+            "normalize": "lien tri tran hung dao hoan kiem ha noi",
+            "streetNormalize": "lien tri tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.020148,
+            "lon": 105.845899,
+            "geolocation": {
+                "latitude": 21.020148,
+                "longitude": 105.845899
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Lý Thường Kiệt",
+            "city": "Hà Nội",
+            "normalize": "ly thuong kiet tran hung dao hoan kiem ha noi",
+            "streetNormalize": "ly thuong kiet tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.0246148,
+            "lon": 105.8462217,
+            "geolocation": {
+                "latitude": 21.0246148,
+                "longitude": 105.8462217
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Nguyễn Gia Thiều",
+            "city": "Hà Nội",
+            "normalize": "nguyen gia thieu tran hung dao hoan kiem ha noi",
+            "streetNormalize": "nguyen gia thieu tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.019824,
+            "lon": 105.847012,
+            "geolocation": {
+                "latitude": 21.019824,
+                "longitude": 105.847012
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Ngô Văn Sở",
+            "city": "Hà Nội",
+            "normalize": "ngo van so tran hung dao hoan kiem ha noi",
+            "streetNormalize": "ngo van so tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.020658,
+            "lon": 105.849224,
+            "geolocation": {
+                "latitude": 21.020658,
+                "longitude": 105.849224
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Phan Bội Châu",
+            "city": "Hà Nội",
+            "normalize": "phan boi chau tran hung dao hoan kiem ha noi",
+            "streetNormalize": "phan boi chau tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.025671,
+            "lon": 105.843388,
+            "geolocation": {
+                "latitude": 21.025671,
+                "longitude": 105.843388
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Quang Trung",
+            "city": "Hà Nội",
+            "normalize": "quang trung tran hung dao hoan kiem ha noi",
+            "streetNormalize": "quang trung tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.021906,
+            "lon": 105.848565,
+            "geolocation": {
+                "latitude": 21.021906,
+                "longitude": 105.848565
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Quán Sứ",
+            "city": "Hà Nội",
+            "normalize": "quan su tran hung dao hoan kiem ha noi",
+            "streetNormalize": "quan su tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.024917,
+            "lon": 105.845182,
+            "geolocation": {
+                "latitude": 21.024917,
+                "longitude": 105.845182
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Thợ Nhuộm",
+            "city": "Hà Nội",
+            "normalize": "tho nhuom tran hung dao hoan kiem ha noi",
+            "streetNormalize": "tho nhuom tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.0231089,
+            "lon": 105.8483873,
+            "geolocation": {
+                "latitude": 21.0231089,
+                "longitude": 105.8483873
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Triệu Quốc Đạt",
+            "city": "Hà Nội",
+            "normalize": "trieu quoc dat tran hung dao hoan kiem ha noi",
+            "streetNormalize": "trieu quoc dat tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.026432,
+            "lon": 105.84762,
+            "geolocation": {
+                "latitude": 21.026432,
+                "longitude": 105.84762
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Trương Hán Siêu",
+            "city": "Hà Nội",
+            "normalize": "truong han sieu tran hung dao hoan kiem ha noi",
+            "streetNormalize": "truong han sieu tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.019843,
+            "lon": 105.848829,
+            "geolocation": {
+                "latitude": 21.019843,
+                "longitude": 105.848829
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Trần Bình Trọng",
+            "city": "Hà Nội",
+            "normalize": "tran binh trong tran hung dao hoan kiem ha noi",
+            "streetNormalize": "tran binh trong tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.021534,
+            "lon": 105.844926,
+            "geolocation": {
+                "latitude": 21.021534,
+                "longitude": 105.844926
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Trần Hưng Đạo",
+            "city": "Hà Nội",
+            "normalize": "tran hung dao tran hung dao hoan kiem ha noi",
+            "streetNormalize": "tran hung dao tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.022049,
+            "lon": 105.848612,
+            "geolocation": {
+                "latitude": 21.022049,
+                "longitude": 105.848612
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Trần Hưng Đạo",
+            "street": "Trần Quốc Toản",
+            "city": "Hà Nội",
+            "normalize": "tran quoc toan tran hung dao hoan kiem ha noi",
+            "streetNormalize": "tran quoc toan tran hung dao hoan kiem ha noi",
+            "wardNormalize": "tran hung dao hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong tran hung dao hoan kiem ha noi",
+            "lat": 21.020482,
+            "lon": 105.846757,
+            "geolocation": {
+                "latitude": 21.020482,
+                "longitude": 105.846757
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Bà Triệu",
+            "city": "Hà Nội",
+            "normalize": "ba trieu trang tien hoan kiem ha noi",
+            "streetNormalize": "ba trieu trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.0244838122745,
+            "lon": 105.851222342549,
+            "geolocation": {
+                "latitude": 21.0244838122745,
+                "longitude": 105.851222342549
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Cổ Tân",
+            "city": "Hà Nội",
+            "normalize": "co tan trang tien hoan kiem ha noi",
+            "streetNormalize": "co tan trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.02475,
+            "lon": 105.857422,
+            "geolocation": {
+                "latitude": 21.02475,
+                "longitude": 105.857422
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Hai Bà Trưng",
+            "city": "Hà Nội",
+            "normalize": "hai ba trung trang tien hoan kiem ha noi",
+            "streetNormalize": "hai ba trung trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.024704,
+            "lon": 105.851349,
+            "geolocation": {
+                "latitude": 21.024704,
+                "longitude": 105.851349
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Hàng Bài",
+            "city": "Hà Nội",
+            "normalize": "hang bai trang tien hoan kiem ha noi",
+            "streetNormalize": "hang bai trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.024205,
+            "lon": 105.852922,
+            "geolocation": {
+                "latitude": 21.024205,
+                "longitude": 105.852922
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Hàng Khay",
+            "city": "Hà Nội",
+            "normalize": "hang khay trang tien hoan kiem ha noi",
+            "streetNormalize": "hang khay trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.025509,
+            "lon": 105.853107,
+            "geolocation": {
+                "latitude": 21.025509,
+                "longitude": 105.853107
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Lê Lai",
+            "city": "Hà Nội",
+            "normalize": "le lai trang tien hoan kiem ha noi",
+            "streetNormalize": "le lai trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.0275809,
+            "lon": 105.8560875,
+            "geolocation": {
+                "latitude": 21.0275809,
+                "longitude": 105.8560875
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Lê Phụng Hiểu",
+            "city": "Hà Nội",
+            "normalize": "le phung hieu trang tien hoan kiem ha noi",
+            "streetNormalize": "le phung hieu trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.0258504,
+            "lon": 105.8564654,
+            "geolocation": {
+                "latitude": 21.0258504,
+                "longitude": 105.8564654
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Lê Thánh Tông",
+            "city": "Hà Nội",
+            "normalize": "le thanh tong trang tien hoan kiem ha noi",
+            "streetNormalize": "le thanh tong trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.0237428904374,
+            "lon": 105.857234646862,
+            "geolocation": {
+                "latitude": 21.0237428904374,
+                "longitude": 105.857234646862
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Lê Thạch",
+            "city": "Hà Nội",
+            "normalize": "le thach trang tien hoan kiem ha noi",
+            "streetNormalize": "le thach trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.02712,
+            "lon": 105.854808,
+            "geolocation": {
+                "latitude": 21.02712,
+                "longitude": 105.854808
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Lý Thái Tổ",
+            "city": "Hà Nội",
+            "normalize": "ly thai to trang tien hoan kiem ha noi",
+            "streetNormalize": "ly thai to trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.026946,
+            "lon": 105.856112,
+            "geolocation": {
+                "latitude": 21.026946,
+                "longitude": 105.856112
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Lý Đạo Thành",
+            "city": "Hà Nội",
+            "normalize": "ly dao thanh trang tien hoan kiem ha noi",
+            "streetNormalize": "ly dao thanh trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.025099,
+            "lon": 105.856694,
+            "geolocation": {
+                "latitude": 21.025099,
+                "longitude": 105.856694
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Nguyễn Khắc Cần",
+            "city": "Hà Nội",
+            "normalize": "nguyen khac can trang tien hoan kiem ha noi",
+            "streetNormalize": "nguyen khac can trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.022752,
+            "lon": 105.855238,
+            "geolocation": {
+                "latitude": 21.022752,
+                "longitude": 105.855238
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Nguyễn Xí",
+            "city": "Hà Nội",
+            "normalize": "nguyen xi trang tien hoan kiem ha noi",
+            "streetNormalize": "nguyen xi trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.025112,
+            "lon": 105.854421,
+            "geolocation": {
+                "latitude": 21.025112,
+                "longitude": 105.854421
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Ngô Quyền",
+            "city": "Hà Nội",
+            "normalize": "ngo quyen trang tien hoan kiem ha noi",
+            "streetNormalize": "ngo quyen trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.026132,
+            "lon": 105.855582,
+            "geolocation": {
+                "latitude": 21.026132,
+                "longitude": 105.855582
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Phan Chu Trinh",
+            "city": "Hà Nội",
+            "normalize": "phan chu trinh trang tien hoan kiem ha noi",
+            "streetNormalize": "phan chu trinh trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.023152,
+            "lon": 105.856582,
+            "geolocation": {
+                "latitude": 21.023152,
+                "longitude": 105.856582
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Quang Trung",
+            "city": "Hà Nội",
+            "normalize": "quang trung trang tien hoan kiem ha noi",
+            "streetNormalize": "quang trung trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.02441,
+            "lon": 105.849465,
+            "geolocation": {
+                "latitude": 21.02441,
+                "longitude": 105.849465
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Tràng Tiền",
+            "city": "Hà Nội",
+            "normalize": "trang tien trang tien hoan kiem ha noi",
+            "streetNormalize": "trang tien trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.0244229,
+            "lon": 105.8569002,
+            "geolocation": {
+                "latitude": 21.0244229,
+                "longitude": 105.8569002
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Trần Khánh Dư",
+            "city": "Hà Nội",
+            "normalize": "tran khanh du trang tien hoan kiem ha noi",
+            "streetNormalize": "tran khanh du trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.025227,
+            "lon": 105.85981,
+            "geolocation": {
+                "latitude": 21.025227,
+                "longitude": 105.85981
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Tông Đản",
+            "city": "Hà Nội",
+            "normalize": "tong dan trang tien hoan kiem ha noi",
+            "streetNormalize": "tong dan trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.026158,
+            "lon": 105.857867,
+            "geolocation": {
+                "latitude": 21.026158,
+                "longitude": 105.857867
+            }
+        },
+        {
+            "district": "Hoàn Kiếm",
+            "ward": "Tràng Tiền",
+            "street": "Đinh Lễ",
+            "city": "Hà Nội",
+            "normalize": "dinh le trang tien hoan kiem ha noi",
+            "streetNormalize": "dinh le trang tien hoan kiem ha noi",
+            "wardNormalize": "trang tien hoan kiem ha noi",
+            "districtNormalize": "hoan kiem ha noi",
+            "preWardNormalize": "phuong trang tien hoan kiem ha noi",
+            "lat": 21.025652,
+            "lon": 105.854575,
+            "geolocation": {
+                "latitude": 21.025652,
+                "longitude": 105.854575
+            }
+        }
+    ]
+}

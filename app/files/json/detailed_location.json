@@ -1,0 +1,8 @@
+{
+    "cols": [
+        "lat",
+        "lon",
+        "district",
+        "administrative_genre"
+    ]
+}

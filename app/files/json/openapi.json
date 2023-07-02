@@ -1,0 +1,467 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+        "title": "Price Prediction Module",
+        "description": "New Framework for Python",
+        "version": "2.0"
+    },
+    "paths": {
+        "/healthcheck": {
+            "get": {
+                "summary": "Healthcheck",
+                "description": "Function checking price prediction module",
+                "operationId": "healthcheck_healthcheck_get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/predict-house-v1": {
+            "post": {
+                "summary": "Predict Price",
+                "description": "Function predicing price - version 1",
+                "operationId": "predict_price_predict_house_v1_post",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/LocationModel"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/predict-house-v3": {
+            "post": {
+                "summary": "Predict Price V3",
+                "description": "Function predicing price - version 3",
+                "operationId": "predict_price_v3_predict_house_v3_post",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/RealEstateWithFacilityModelList"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/get-price-map-by-type/{real_estate_level}": {
+            "get": {
+                "summary": "Get Price Map By Type",
+                "description": "Function getting price map by district level, ward level or street level - type must be in [street, ward district]",
+                "operationId": "get_price_map_by_type_get_price_map_by_type__real_estate_level__get",
+                "parameters": [
+                    {
+                        "required": true,
+                        "schema": {
+                            "title": "Real Estate Level",
+                            "type": "string",
+                            "enum": [
+                                "street",
+                                "district",
+                                "ward"
+                            ]
+                        },
+                        "name": "real_estate_level",
+                        "in": "path"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "AdministrativeGenre": {
+                "title": "AdministrativeGenre",
+                "enum": [
+                    "quận",
+                    "huyện",
+                    "thị xã"
+                ],
+                "description": "An enumeration"
+            },
+            "FacilityModelV2": {
+                "title": "FacilityModelV2",
+                "required": [
+                    "type",
+                    "lat",
+                    "lon",
+                    "distance"
+                ],
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "title": "Type",
+                        "type": "string"
+                    },
+                    "lat": {
+                        "title": "Lat",
+                        "type": "number"
+                    },
+                    "lon": {
+                        "title": "Lon",
+                        "type": "number"
+                    },
+                    "distance": {
+                        "title": "Distance",
+                        "type": "number"
+                    },
+                    "name": {
+                        "title": "Name",
+                        "type": "string"
+                    }
+                }
+            },
+            "GeolocationModel": {
+                "title": "GeolocationModel",
+                "required": [
+                    "latitude",
+                    "longitude"
+                ],
+                "type": "object",
+                "properties": {
+                    "latitude": {
+                        "title": "Latitude",
+                        "type": "number"
+                    },
+                    "longitude": {
+                        "title": "Longitude",
+                        "type": "number"
+                    }
+                }
+            },
+            "HTTPValidationError": {
+                "title": "HTTPValidationError",
+                "type": "object",
+                "properties": {
+                    "detail": {
+                        "title": "Detail",
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/ValidationError"
+                        }
+                    }
+                }
+            },
+            "LocationModel": {
+                "title": "LocationModel",
+                "type": "object",
+                "properties": {
+                    "lat": {
+                        "title": "Lat",
+                        "type": "number",
+                        "default": 21.021439
+                    },
+                    "lon": {
+                        "title": "Lon",
+                        "type": "number",
+                        "default": 105.816182
+                    },
+                    "district": {
+                        "title": "District",
+                        "type": "string",
+                        "default": "ba đình",
+                        "enum": [
+                            "ba vì",
+                            "ba đình",
+                            "bắc từ liêm",
+                            "chương mỹ",
+                            "cầu giấy",
+                            "gia lâm",
+                            "hai bà trưng",
+                            "hoài đức",
+                            "hoàn kiếm",
+                            "hoàng mai",
+                            "hà đông",
+                            "long biên",
+                            "mê linh",
+                            "nam từ liêm",
+                            "quốc oai",
+                            "sóc sơn",
+                            "sơn tây",
+                            "thanh oai",
+                            "thanh trì",
+                            "thanh xuân",
+                            "thường tín",
+                            "thạch thất",
+                            "tây hồ",
+                            "đan phượng",
+                            "đông anh",
+                            "đống đa",
+                            "ứng hòa"
+                        ]
+                    },
+                    "street": {
+                        "title": "Street",
+                        "type": "string",
+                        "default": ""
+                    },
+                    "title": {
+                        "title": "Title",
+                        "type": "string",
+                        "default": ""
+                    },
+                    "administrative_genre": {
+                        "allOf": [
+                            {
+                                "$ref": "#/components/schemas/AdministrativeGenre"
+                            }
+                        ],
+                        "default": "quận"
+                    },
+                    "detailed_address": {
+                        "title": "Detailed Address",
+                        "type": "string",
+                        "default": "Phường Thành Công, Ba Đình, Hà Nội"
+                    }
+                }
+            },
+            "RealEstateModel": {
+                "title": "RealEstateModel",
+                "type": "object",
+                "properties": {
+                    "ward": {
+                        "title": "Ward",
+                        "type": "string",
+                        "default": "Phương mai"
+                    },
+                    "district": {
+                        "title": "District",
+                        "type": "string",
+                        "default": "đống đa",
+                        "enum": [
+                            "ba vì",
+                            "ba đình",
+                            "bắc từ liêm",
+                            "chương mỹ",
+                            "cầu giấy",
+                            "gia lâm",
+                            "hai bà trưng",
+                            "hoài đức",
+                            "hoàn kiếm",
+                            "hoàng mai",
+                            "hà đông",
+                            "long biên",
+                            "mê linh",
+                            "nam từ liêm",
+                            "quốc oai",
+                            "sóc sơn",
+                            "sơn tây",
+                            "thanh oai",
+                            "thanh trì",
+                            "thanh xuân",
+                            "thường tín",
+                            "thạch thất",
+                            "tây hồ",
+                            "đan phượng",
+                            "đông anh",
+                            "đống đa",
+                            "ứng hòa"
+                        ]
+                    },
+                    "street": {
+                        "title": "Street",
+                        "type": "string",
+                        "default": ""
+                    },
+                    "addressDetails": {
+                        "title": "Addressdetails",
+                        "type": "string",
+                        "default": ""
+                    },
+                    "city": {
+                        "title": "City",
+                        "type": "string",
+                        "default": "Hà Nội"
+                    },
+                    "country": {
+                        "title": "Country",
+                        "type": "string",
+                        "default": "Việt Nam"
+                    },
+                    "geolocation": {
+                        "title": "Geolocation",
+                        "allOf": [
+                            {
+                                "$ref": "#/components/schemas/GeolocationModel"
+                            }
+                        ],
+                        "default": {
+                            "latitude": 21.0012748,
+                            "longitude": 105.8393044
+                        }
+                    },
+                    "frontWidth": {
+                        "title": "Frontwidth",
+                        "type": "number",
+                        "default": 4
+                    },
+                    "houseDirection": {
+                        "title": "Housedirection",
+                        "type": "string",
+                        "default": "south"
+                    },
+                    "landSize": {
+                        "title": "Landsize",
+                        "type": "number",
+                        "default": 40
+                    },
+                    "accessibility": {
+                        "title": "Accessibility",
+                        "type": "string",
+                        "default": "carLanesAvoidEachOther"
+                    },
+                    "numberOfBedRooms": {
+                        "title": "Numberofbedrooms",
+                        "type": "number",
+                        "default": 4
+                    },
+                    "numberOfFloors": {
+                        "title": "Numberoffloors",
+                        "type": "number",
+                        "default": 5
+                    },
+                    "numberOfBathRooms": {
+                        "title": "Numberofbathrooms",
+                        "type": "number",
+                        "default": 4
+                    }
+                }
+            },
+            "RealEstateWithFacilityModelList": {
+                "title": "RealEstateWithFacilityModelList",
+                "required": [
+                    "data"
+                ],
+                "type": "object",
+                "properties": {
+                    "data": {
+                        "title": "Data",
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/RealEstateModel"
+                        }
+                    },
+                    "facilityList": {
+                        "title": "Facilitylist",
+                        "type": "array",
+                        "items": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/components/schemas/FacilityModelV2"
+                            }
+                        },
+                        "default": [
+                            []
+                        ]
+                    }
+                }
+            },
+            "ValidationError": {
+                "title": "ValidationError",
+                "required": [
+                    "loc",
+                    "msg",
+                    "type"
+                ],
+                "type": "object",
+                "properties": {
+                    "loc": {
+                        "title": "Location",
+                        "type": "array",
+                        "items": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "integer"
+                                }
+                            ]
+                        }
+                    },
+                    "msg": {
+                        "title": "Message",
+                        "type": "string"
+                    },
+                    "type": {
+                        "title": "Error Type",
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}

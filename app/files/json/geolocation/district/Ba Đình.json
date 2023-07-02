@@ -1,0 +1,2197 @@
+{
+    "data": [
+        {
+            "district": "Ba Đình",
+            "ward": "Cống Vị",
+            "street": "Kim Mã Thượng",
+            "city": "Hà Nội",
+            "normalize": "kim ma thuong cong vi ba dinh ha noi",
+            "streetNormalize": "kim ma thuong cong vi ba dinh ha noi",
+            "wardNormalize": "cong vi ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong cong vi ba dinh ha noi",
+            "lat": 21.0358105,
+            "lon": 105.8136389,
+            "geolocation": {
+                "latitude": 21.0358105,
+                "longitude": 105.8136389
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Cống Vị",
+            "street": "Linh Lang",
+            "city": "Hà Nội",
+            "normalize": "linh lang cong vi ba dinh ha noi",
+            "streetNormalize": "linh lang cong vi ba dinh ha noi",
+            "wardNormalize": "cong vi ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong cong vi ba dinh ha noi",
+            "lat": 21.035116,
+            "lon": 105.810434,
+            "geolocation": {
+                "latitude": 21.035116,
+                "longitude": 105.810434
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Cống Vị",
+            "street": "Liễu Giai",
+            "city": "Hà Nội",
+            "normalize": "lieu giai cong vi ba dinh ha noi",
+            "streetNormalize": "lieu giai cong vi ba dinh ha noi",
+            "wardNormalize": "cong vi ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong cong vi ba dinh ha noi",
+            "lat": 21.0353243,
+            "lon": 105.8142832,
+            "geolocation": {
+                "latitude": 21.0353243,
+                "longitude": 105.8142832
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Cống Vị",
+            "street": "Nguyễn Văn Ngọc",
+            "city": "Hà Nội",
+            "normalize": "nguyen van ngoc cong vi ba dinh ha noi",
+            "streetNormalize": "nguyen van ngoc cong vi ba dinh ha noi",
+            "wardNormalize": "cong vi ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong cong vi ba dinh ha noi",
+            "lat": 21.033235,
+            "lon": 105.811271,
+            "geolocation": {
+                "latitude": 21.033235,
+                "longitude": 105.811271
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Cống Vị",
+            "street": "Phan Kế Bính",
+            "city": "Hà Nội",
+            "normalize": "phan ke binh cong vi ba dinh ha noi",
+            "streetNormalize": "phan ke binh cong vi ba dinh ha noi",
+            "wardNormalize": "cong vi ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong cong vi ba dinh ha noi",
+            "lat": 21.035625,
+            "lon": 105.8086653,
+            "geolocation": {
+                "latitude": 21.035625,
+                "longitude": 105.8086653
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Cống Vị",
+            "street": "Đào Tấn",
+            "city": "Hà Nội",
+            "normalize": "dao tan cong vi ba dinh ha noi",
+            "streetNormalize": "dao tan cong vi ba dinh ha noi",
+            "wardNormalize": "cong vi ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong cong vi ba dinh ha noi",
+            "lat": 21.032496,
+            "lon": 105.809125,
+            "geolocation": {
+                "latitude": 21.032496,
+                "longitude": 105.809125
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Cống Vị",
+            "street": "Đường Bưởi",
+            "city": "Hà Nội",
+            "normalize": "duong buoi cong vi ba dinh ha noi",
+            "streetNormalize": "duong buoi cong vi ba dinh ha noi",
+            "wardNormalize": "cong vi ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong cong vi ba dinh ha noi",
+            "lat": 21.035601,
+            "lon": 105.80608,
+            "geolocation": {
+                "latitude": 21.035601,
+                "longitude": 105.80608
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Cống Vị",
+            "street": "Đội Cấn",
+            "city": "Hà Nội",
+            "normalize": "doi can cong vi ba dinh ha noi",
+            "streetNormalize": "doi can cong vi ba dinh ha noi",
+            "wardNormalize": "cong vi ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong cong vi ba dinh ha noi",
+            "lat": 21.037872,
+            "lon": 105.813652,
+            "geolocation": {
+                "latitude": 21.037872,
+                "longitude": 105.813652
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Bắc Sơn",
+            "city": "Hà Nội",
+            "normalize": "bac son dien bien ba dinh ha noi",
+            "streetNormalize": "bac son dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.0357762,
+            "lon": 105.8384929,
+            "geolocation": {
+                "latitude": 21.0357762,
+                "longitude": 105.8384929
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Cao Bá Quát",
+            "city": "Hà Nội",
+            "normalize": "cao ba quat dien bien ba dinh ha noi",
+            "streetNormalize": "cao ba quat dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.030443,
+            "lon": 105.838478,
+            "geolocation": {
+                "latitude": 21.030443,
+                "longitude": 105.838478
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Chu Văn An",
+            "city": "Hà Nội",
+            "normalize": "chu van an dien bien ba dinh ha noi",
+            "streetNormalize": "chu van an dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.032017,
+            "lon": 105.836387,
+            "geolocation": {
+                "latitude": 21.032017,
+                "longitude": 105.836387
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Chùa Một Cột",
+            "city": "Hà Nội",
+            "normalize": "chua mot cot dien bien ba dinh ha noi",
+            "streetNormalize": "chua mot cot dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.035184,
+            "lon": 105.834895,
+            "geolocation": {
+                "latitude": 21.035184,
+                "longitude": 105.834895
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Hoàng Diệu",
+            "city": "Hà Nội",
+            "normalize": "hoang dieu dien bien ba dinh ha noi",
+            "streetNormalize": "hoang dieu dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.032949,
+            "lon": 105.838857,
+            "geolocation": {
+                "latitude": 21.032949,
+                "longitude": 105.838857
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Hùng Vương",
+            "city": "Hà Nội",
+            "normalize": "hung vuong dien bien ba dinh ha noi",
+            "streetNormalize": "hung vuong dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.038134,
+            "lon": 105.8354821,
+            "geolocation": {
+                "latitude": 21.038134,
+                "longitude": 105.8354821
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Khúc Hạo",
+            "city": "Hà Nội",
+            "normalize": "khuc hao dien bien ba dinh ha noi",
+            "streetNormalize": "khuc hao dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.031475,
+            "lon": 105.837179,
+            "geolocation": {
+                "latitude": 21.031475,
+                "longitude": 105.837179
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Lê Duẩn",
+            "city": "Hà Nội",
+            "normalize": "le duan dien bien ba dinh ha noi",
+            "streetNormalize": "le duan dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.029576,
+            "lon": 105.841566,
+            "geolocation": {
+                "latitude": 21.029576,
+                "longitude": 105.841566
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Lê Hồng Phong",
+            "city": "Hà Nội",
+            "normalize": "le hong phong dien bien ba dinh ha noi",
+            "streetNormalize": "le hong phong dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.033831,
+            "lon": 105.835668,
+            "geolocation": {
+                "latitude": 21.033831,
+                "longitude": 105.835668
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Lê Trực",
+            "city": "Hà Nội",
+            "normalize": "le truc dien bien ba dinh ha noi",
+            "streetNormalize": "le truc dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.032171,
+            "lon": 105.8330541,
+            "geolocation": {
+                "latitude": 21.032171,
+                "longitude": 105.8330541
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Nguyễn Thái Học",
+            "city": "Hà Nội",
+            "normalize": "nguyen thai hoc dien bien ba dinh ha noi",
+            "streetNormalize": "nguyen thai hoc dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.031342,
+            "lon": 105.832744,
+            "geolocation": {
+                "latitude": 21.031342,
+                "longitude": 105.832744
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Nguyễn Tri Phương",
+            "city": "Hà Nội",
+            "normalize": "nguyen tri phuong dien bien ba dinh ha noi",
+            "streetNormalize": "nguyen tri phuong dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.03284,
+            "lon": 105.8405872,
+            "geolocation": {
+                "latitude": 21.03284,
+                "longitude": 105.8405872
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Sơn Tây",
+            "city": "Hà Nội",
+            "normalize": "son tay dien bien ba dinh ha noi",
+            "streetNormalize": "son tay dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.032969,
+            "lon": 105.832214,
+            "geolocation": {
+                "latitude": 21.032969,
+                "longitude": 105.832214
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Trần Phú",
+            "city": "Hà Nội",
+            "normalize": "tran phu dien bien ba dinh ha noi",
+            "streetNormalize": "tran phu dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.0311724,
+            "lon": 105.8381755,
+            "geolocation": {
+                "latitude": 21.0311724,
+                "longitude": 105.8381755
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Tôn Thất Thịêp",
+            "city": "Hà Nội",
+            "normalize": "ton that thiep dien bien ba dinh ha noi",
+            "streetNormalize": "ton that thiep dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.0328873,
+            "lon": 105.8434293,
+            "geolocation": {
+                "latitude": 21.0328873,
+                "longitude": 105.8434293
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Tôn Thất Đảm",
+            "city": "Hà Nội",
+            "normalize": "ton that dam dien bien ba dinh ha noi",
+            "streetNormalize": "ton that dam dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.035562,
+            "lon": 105.837954,
+            "geolocation": {
+                "latitude": 21.035562,
+                "longitude": 105.837954
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Yên Thế",
+            "city": "Hà Nội",
+            "normalize": "yen the dien bien ba dinh ha noi",
+            "streetNormalize": "yen the dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.0287727,
+            "lon": 105.8394513,
+            "geolocation": {
+                "latitude": 21.0287727,
+                "longitude": 105.8394513
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Ông Ích Khiêm",
+            "city": "Hà Nội",
+            "normalize": "ong ich khiem dien bien ba dinh ha noi",
+            "streetNormalize": "ong ich khiem dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.0333111,
+            "lon": 105.8335649,
+            "geolocation": {
+                "latitude": 21.0333111,
+                "longitude": 105.8335649
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Điện Biên Phủ",
+            "city": "Hà Nội",
+            "normalize": "dien bien phu dien bien ba dinh ha noi",
+            "streetNormalize": "dien bien phu dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.033317,
+            "lon": 105.838527,
+            "geolocation": {
+                "latitude": 21.033317,
+                "longitude": 105.838527
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Điện Biên",
+            "street": "Độc Lập",
+            "city": "Hà Nội",
+            "normalize": "doc lap dien bien ba dinh ha noi",
+            "streetNormalize": "doc lap dien bien ba dinh ha noi",
+            "wardNormalize": "dien bien ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong dien bien ba dinh ha noi",
+            "lat": 21.036299,
+            "lon": 105.8364681,
+            "geolocation": {
+                "latitude": 21.036299,
+                "longitude": 105.8364681
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Đội Cấn",
+            "street": "Chùa Một Cột",
+            "city": "Hà Nội",
+            "normalize": "chua mot cot doi can ba dinh ha noi",
+            "streetNormalize": "chua mot cot doi can ba dinh ha noi",
+            "wardNormalize": "doi can ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong doi can ba dinh ha noi",
+            "lat": 21.0353666816405,
+            "lon": 105.833849753785,
+            "geolocation": {
+                "latitude": 21.0353666816405,
+                "longitude": 105.833849753785
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Đội Cấn",
+            "street": "Giang Văn Minh",
+            "city": "Hà Nội",
+            "normalize": "giang van minh doi can ba dinh ha noi",
+            "streetNormalize": "giang van minh doi can ba dinh ha noi",
+            "wardNormalize": "doi can ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong doi can ba dinh ha noi",
+            "lat": 21.033773,
+            "lon": 105.827155,
+            "geolocation": {
+                "latitude": 21.033773,
+                "longitude": 105.827155
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Đội Cấn",
+            "street": "Ngọc Hà",
+            "city": "Hà Nội",
+            "normalize": "ngoc ha doi can ba dinh ha noi",
+            "streetNormalize": "ngoc ha doi can ba dinh ha noi",
+            "wardNormalize": "doi can ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong doi can ba dinh ha noi",
+            "lat": 21.035251,
+            "lon": 105.831491,
+            "geolocation": {
+                "latitude": 21.035251,
+                "longitude": 105.831491
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Đội Cấn",
+            "street": "Thanh Bảo",
+            "city": "Hà Nội",
+            "normalize": "thanh bao doi can ba dinh ha noi",
+            "streetNormalize": "thanh bao doi can ba dinh ha noi",
+            "wardNormalize": "doi can ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong doi can ba dinh ha noi",
+            "lat": 21.033365,
+            "lon": 105.831341,
+            "geolocation": {
+                "latitude": 21.033365,
+                "longitude": 105.831341
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Đội Cấn",
+            "street": "Ông Ích Khiêm",
+            "city": "Hà Nội",
+            "normalize": "ong ich khiem doi can ba dinh ha noi",
+            "streetNormalize": "ong ich khiem doi can ba dinh ha noi",
+            "wardNormalize": "doi can ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong doi can ba dinh ha noi",
+            "lat": 21.0347559,
+            "lon": 105.8337198,
+            "geolocation": {
+                "latitude": 21.0347559,
+                "longitude": 105.8337198
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Đội Cấn",
+            "street": "Đội Cấn",
+            "city": "Hà Nội",
+            "normalize": "doi can doi can ba dinh ha noi",
+            "streetNormalize": "doi can doi can ba dinh ha noi",
+            "wardNormalize": "doi can ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong doi can ba dinh ha noi",
+            "lat": 21.0349057,
+            "lon": 105.8255796,
+            "geolocation": {
+                "latitude": 21.0349057,
+                "longitude": 105.8255796
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Giảng Võ",
+            "street": "Giảng Võ",
+            "city": "Hà Nội",
+            "normalize": "giang vo giang vo ba dinh ha noi",
+            "streetNormalize": "giang vo giang vo ba dinh ha noi",
+            "wardNormalize": "giang vo ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong giang vo ba dinh ha noi",
+            "lat": 21.024249,
+            "lon": 105.82053,
+            "geolocation": {
+                "latitude": 21.024249,
+                "longitude": 105.82053
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Giảng Võ",
+            "street": "Kim Mã",
+            "city": "Hà Nội",
+            "normalize": "kim ma giang vo ba dinh ha noi",
+            "streetNormalize": "kim ma giang vo ba dinh ha noi",
+            "wardNormalize": "giang vo ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong giang vo ba dinh ha noi",
+            "lat": 21.029744,
+            "lon": 105.810345,
+            "geolocation": {
+                "latitude": 21.029744,
+                "longitude": 105.810345
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Giảng Võ",
+            "street": "Nam Cao",
+            "city": "Hà Nội",
+            "normalize": "nam cao giang vo ba dinh ha noi",
+            "streetNormalize": "nam cao giang vo ba dinh ha noi",
+            "wardNormalize": "giang vo ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong giang vo ba dinh ha noi",
+            "lat": 21.029937,
+            "lon": 105.822153,
+            "geolocation": {
+                "latitude": 21.029937,
+                "longitude": 105.822153
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Giảng Võ",
+            "street": "Nguyễn Công Hoan",
+            "city": "Hà Nội",
+            "normalize": "nguyen cong hoan giang vo ba dinh ha noi",
+            "streetNormalize": "nguyen cong hoan giang vo ba dinh ha noi",
+            "wardNormalize": "giang vo ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong giang vo ba dinh ha noi",
+            "lat": 21.027096,
+            "lon": 105.814452,
+            "geolocation": {
+                "latitude": 21.027096,
+                "longitude": 105.814452
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Giảng Võ",
+            "street": "Ngọc Khánh",
+            "city": "Hà Nội",
+            "normalize": "ngoc khanh giang vo ba dinh ha noi",
+            "streetNormalize": "ngoc khanh giang vo ba dinh ha noi",
+            "wardNormalize": "giang vo ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong giang vo ba dinh ha noi",
+            "lat": 21.025971,
+            "lon": 105.818132,
+            "geolocation": {
+                "latitude": 21.025971,
+                "longitude": 105.818132
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Giảng Võ",
+            "street": "Núi Trúc",
+            "city": "Hà Nội",
+            "normalize": "nui truc giang vo ba dinh ha noi",
+            "streetNormalize": "nui truc giang vo ba dinh ha noi",
+            "wardNormalize": "giang vo ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong giang vo ba dinh ha noi",
+            "lat": 21.030257,
+            "lon": 105.822542,
+            "geolocation": {
+                "latitude": 21.030257,
+                "longitude": 105.822542
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Giảng Võ",
+            "street": "Trần Huy Liệu",
+            "city": "Hà Nội",
+            "normalize": "tran huy lieu giang vo ba dinh ha noi",
+            "streetNormalize": "tran huy lieu giang vo ba dinh ha noi",
+            "wardNormalize": "giang vo ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong giang vo ba dinh ha noi",
+            "lat": 21.029485,
+            "lon": 105.820778,
+            "geolocation": {
+                "latitude": 21.029485,
+                "longitude": 105.820778
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Kim Mã",
+            "street": "Giang Văn Minh",
+            "city": "Hà Nội",
+            "normalize": "giang van minh kim ma ba dinh ha noi",
+            "streetNormalize": "giang van minh kim ma ba dinh ha noi",
+            "wardNormalize": "kim ma ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong kim ma ba dinh ha noi",
+            "lat": 21.0314511,
+            "lon": 105.8269747,
+            "geolocation": {
+                "latitude": 21.0314511,
+                "longitude": 105.8269747
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Kim Mã",
+            "street": "Giảng Võ",
+            "city": "Hà Nội",
+            "normalize": "giang vo kim ma ba dinh ha noi",
+            "streetNormalize": "giang vo kim ma ba dinh ha noi",
+            "wardNormalize": "kim ma ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong kim ma ba dinh ha noi",
+            "lat": 21.0279146,
+            "lon": 105.8248144,
+            "geolocation": {
+                "latitude": 21.0279146,
+                "longitude": 105.8248144
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Kim Mã",
+            "street": "Kim Mã",
+            "city": "Hà Nội",
+            "normalize": "kim ma kim ma ba dinh ha noi",
+            "streetNormalize": "kim ma kim ma ba dinh ha noi",
+            "wardNormalize": "kim ma ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong kim ma ba dinh ha noi",
+            "lat": 21.029744,
+            "lon": 105.810345,
+            "geolocation": {
+                "latitude": 21.029744,
+                "longitude": 105.810345
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Kim Mã",
+            "street": "Nguyễn Thái Học",
+            "city": "Hà Nội",
+            "normalize": "nguyen thai hoc kim ma ba dinh ha noi",
+            "streetNormalize": "nguyen thai hoc kim ma ba dinh ha noi",
+            "wardNormalize": "kim ma ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong kim ma ba dinh ha noi",
+            "lat": 21.0321872,
+            "lon": 105.8298733,
+            "geolocation": {
+                "latitude": 21.0321872,
+                "longitude": 105.8298733
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Kim Mã",
+            "street": "Núi Trúc",
+            "city": "Hà Nội",
+            "normalize": "nui truc kim ma ba dinh ha noi",
+            "streetNormalize": "nui truc kim ma ba dinh ha noi",
+            "wardNormalize": "kim ma ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong kim ma ba dinh ha noi",
+            "lat": 21.030257,
+            "lon": 105.822542,
+            "geolocation": {
+                "latitude": 21.030257,
+                "longitude": 105.822542
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Kim Mã",
+            "street": "Sơn Tây",
+            "city": "Hà Nội",
+            "normalize": "son tay kim ma ba dinh ha noi",
+            "streetNormalize": "son tay kim ma ba dinh ha noi",
+            "wardNormalize": "kim ma ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong kim ma ba dinh ha noi",
+            "lat": 21.032881,
+            "lon": 105.830557,
+            "geolocation": {
+                "latitude": 21.032881,
+                "longitude": 105.830557
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Kim Mã",
+            "street": "Trần Phú",
+            "city": "Hà Nội",
+            "normalize": "tran phu kim ma ba dinh ha noi",
+            "streetNormalize": "tran phu kim ma ba dinh ha noi",
+            "wardNormalize": "kim ma ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong kim ma ba dinh ha noi",
+            "lat": 21.0326143,
+            "lon": 105.8311946,
+            "geolocation": {
+                "latitude": 21.0326143,
+                "longitude": 105.8311946
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Kim Mã",
+            "street": "Vạn Phúc",
+            "city": "Hà Nội",
+            "normalize": "van phuc kim ma ba dinh ha noi",
+            "streetNormalize": "van phuc kim ma ba dinh ha noi",
+            "wardNormalize": "kim ma ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong kim ma ba dinh ha noi",
+            "lat": 21.0331826,
+            "lon": 105.8191117,
+            "geolocation": {
+                "latitude": 21.0331826,
+                "longitude": 105.8191117
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Liễu Giai",
+            "street": "Hoàng Hoa Thám",
+            "city": "Hà Nội",
+            "normalize": "hoang hoa tham lieu giai ba dinh ha noi",
+            "streetNormalize": "hoang hoa tham lieu giai ba dinh ha noi",
+            "wardNormalize": "lieu giai ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong lieu giai ba dinh ha noi",
+            "lat": 21.042223,
+            "lon": 105.817208,
+            "geolocation": {
+                "latitude": 21.042223,
+                "longitude": 105.817208
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Liễu Giai",
+            "street": "Quần Ngựa",
+            "city": "Hà Nội",
+            "normalize": "quan ngua lieu giai ba dinh ha noi",
+            "streetNormalize": "quan ngua lieu giai ba dinh ha noi",
+            "wardNormalize": "lieu giai ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong lieu giai ba dinh ha noi",
+            "lat": 21.0411671,
+            "lon": 105.815656,
+            "geolocation": {
+                "latitude": 21.0411671,
+                "longitude": 105.815656
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Liễu Giai",
+            "street": "Văn Cao",
+            "city": "Hà Nội",
+            "normalize": "van cao lieu giai ba dinh ha noi",
+            "streetNormalize": "van cao lieu giai ba dinh ha noi",
+            "wardNormalize": "lieu giai ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong lieu giai ba dinh ha noi",
+            "lat": 21.039291,
+            "lon": 105.815827,
+            "geolocation": {
+                "latitude": 21.039291,
+                "longitude": 105.815827
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Liễu Giai",
+            "street": "Vạn Bảo",
+            "city": "Hà Nội",
+            "normalize": "van bao lieu giai ba dinh ha noi",
+            "streetNormalize": "van bao lieu giai ba dinh ha noi",
+            "wardNormalize": "lieu giai ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong lieu giai ba dinh ha noi",
+            "lat": 21.034173,
+            "lon": 105.817235,
+            "geolocation": {
+                "latitude": 21.034173,
+                "longitude": 105.817235
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Liễu Giai",
+            "street": "Đốc Ngữ",
+            "city": "Hà Nội",
+            "normalize": "doc ngu lieu giai ba dinh ha noi",
+            "streetNormalize": "doc ngu lieu giai ba dinh ha noi",
+            "wardNormalize": "lieu giai ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong lieu giai ba dinh ha noi",
+            "lat": 21.039894,
+            "lon": 105.812921,
+            "geolocation": {
+                "latitude": 21.039894,
+                "longitude": 105.812921
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Liễu Giai",
+            "street": "Đội Cấn",
+            "city": "Hà Nội",
+            "normalize": "doi can lieu giai ba dinh ha noi",
+            "streetNormalize": "doi can lieu giai ba dinh ha noi",
+            "wardNormalize": "lieu giai ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong lieu giai ba dinh ha noi",
+            "lat": 21.037872,
+            "lon": 105.813652,
+            "geolocation": {
+                "latitude": 21.037872,
+                "longitude": 105.813652
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Hà",
+            "street": "Dốc Lapho",
+            "city": "Hà Nội",
+            "normalize": "doc lapho ngoc ha ba dinh ha noi",
+            "streetNormalize": "doc lapho ngoc ha ba dinh ha noi",
+            "wardNormalize": "ngoc ha ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc ha ba dinh ha noi",
+            "lat": 21.039839,
+            "lon": 105.8288689,
+            "geolocation": {
+                "latitude": 21.039839,
+                "longitude": 105.8288689
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Hà",
+            "street": "Hoàng Hoa Thám",
+            "city": "Hà Nội",
+            "normalize": "hoang hoa tham ngoc ha ba dinh ha noi",
+            "streetNormalize": "hoang hoa tham ngoc ha ba dinh ha noi",
+            "wardNormalize": "ngoc ha ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc ha ba dinh ha noi",
+            "lat": 21.042223,
+            "lon": 105.817208,
+            "geolocation": {
+                "latitude": 21.042223,
+                "longitude": 105.817208
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Hà",
+            "street": "Ngọc Hà",
+            "city": "Hà Nội",
+            "normalize": "ngoc ha ngoc ha ba dinh ha noi",
+            "streetNormalize": "ngoc ha ngoc ha ba dinh ha noi",
+            "wardNormalize": "ngoc ha ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc ha ba dinh ha noi",
+            "lat": 21.037854,
+            "lon": 105.829759,
+            "geolocation": {
+                "latitude": 21.037854,
+                "longitude": 105.829759
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Cầu Giấy",
+            "city": "Hà Nội",
+            "normalize": "cau giay ngoc khanh ba dinh ha noi",
+            "streetNormalize": "cau giay ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.0299181,
+            "lon": 105.8022467,
+            "geolocation": {
+                "latitude": 21.0299181,
+                "longitude": 105.8022467
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Kim Mã",
+            "city": "Hà Nội",
+            "normalize": "kim ma ngoc khanh ba dinh ha noi",
+            "streetNormalize": "kim ma ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.029644,
+            "lon": 105.809798,
+            "geolocation": {
+                "latitude": 21.029644,
+                "longitude": 105.809798
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "La Thành",
+            "city": "Hà Nội",
+            "normalize": "la thanh ngoc khanh ba dinh ha noi",
+            "streetNormalize": "la thanh ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.027822,
+            "lon": 105.808423,
+            "geolocation": {
+                "latitude": 21.027822,
+                "longitude": 105.808423
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Liễu Giai",
+            "city": "Hà Nội",
+            "normalize": "lieu giai ngoc khanh ba dinh ha noi",
+            "streetNormalize": "lieu giai ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.0319478,
+            "lon": 105.8132755,
+            "geolocation": {
+                "latitude": 21.0319478,
+                "longitude": 105.8132755
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Nguyễn Chí Thanh",
+            "city": "Hà Nội",
+            "normalize": "nguyen chi thanh ngoc khanh ba dinh ha noi",
+            "streetNormalize": "nguyen chi thanh ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.028696,
+            "lon": 105.812612,
+            "geolocation": {
+                "latitude": 21.028696,
+                "longitude": 105.812612
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Nguyễn Công Hoan",
+            "city": "Hà Nội",
+            "normalize": "nguyen cong hoan ngoc khanh ba dinh ha noi",
+            "streetNormalize": "nguyen cong hoan ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.027053,
+            "lon": 105.815255,
+            "geolocation": {
+                "latitude": 21.027053,
+                "longitude": 105.815255
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Nguyễn Văn Ngọc",
+            "city": "Hà Nội",
+            "normalize": "nguyen van ngoc ngoc khanh ba dinh ha noi",
+            "streetNormalize": "nguyen van ngoc ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.0305076,
+            "lon": 105.8106735,
+            "geolocation": {
+                "latitude": 21.0305076,
+                "longitude": 105.8106735
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Ngọc Khánh",
+            "city": "Hà Nội",
+            "normalize": "ngoc khanh ngoc khanh ba dinh ha noi",
+            "streetNormalize": "ngoc khanh ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.029001,
+            "lon": 105.817498,
+            "geolocation": {
+                "latitude": 21.029001,
+                "longitude": 105.817498
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Phạm Huy Thông",
+            "city": "Hà Nội",
+            "normalize": "pham huy thong ngoc khanh ba dinh ha noi",
+            "streetNormalize": "pham huy thong ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.027946,
+            "lon": 105.810061,
+            "geolocation": {
+                "latitude": 21.027946,
+                "longitude": 105.810061
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Vạn Bảo",
+            "city": "Hà Nội",
+            "normalize": "van bao ngoc khanh ba dinh ha noi",
+            "streetNormalize": "van bao ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.0325219,
+            "lon": 105.8169833,
+            "geolocation": {
+                "latitude": 21.0325219,
+                "longitude": 105.8169833
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Vạn Phúc",
+            "city": "Hà Nội",
+            "normalize": "van phuc ngoc khanh ba dinh ha noi",
+            "streetNormalize": "van phuc ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.033504,
+            "lon": 105.815564,
+            "geolocation": {
+                "latitude": 21.033504,
+                "longitude": 105.815564
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Đào Tấn",
+            "city": "Hà Nội",
+            "normalize": "dao tan ngoc khanh ba dinh ha noi",
+            "streetNormalize": "dao tan ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.032496,
+            "lon": 105.809125,
+            "geolocation": {
+                "latitude": 21.032496,
+                "longitude": 105.809125
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Ngọc Khánh",
+            "street": "Đường Bưởi",
+            "city": "Hà Nội",
+            "normalize": "duong buoi ngoc khanh ba dinh ha noi",
+            "streetNormalize": "duong buoi ngoc khanh ba dinh ha noi",
+            "wardNormalize": "ngoc khanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong ngoc khanh ba dinh ha noi",
+            "lat": 21.032608,
+            "lon": 105.803734,
+            "geolocation": {
+                "latitude": 21.032608,
+                "longitude": 105.803734
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Hàng Bún",
+            "city": "Hà Nội",
+            "normalize": "hang bun nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "hang bun nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.042766,
+            "lon": 105.84542,
+            "geolocation": {
+                "latitude": 21.042766,
+                "longitude": 105.84542
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Hàng Than",
+            "city": "Hà Nội",
+            "normalize": "hang than nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "hang than nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.0419084,
+            "lon": 105.8472478,
+            "geolocation": {
+                "latitude": 21.0419084,
+                "longitude": 105.8472478
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Hòe Nhai",
+            "city": "Hà Nội",
+            "normalize": "hoe nhai nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "hoe nhai nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.04123,
+            "lon": 105.846414,
+            "geolocation": {
+                "latitude": 21.04123,
+                "longitude": 105.846414
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Hồng Hà",
+            "city": "Hà Nội",
+            "normalize": "hong ha nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "hong ha nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.046273,
+            "lon": 105.84462,
+            "geolocation": {
+                "latitude": 21.046273,
+                "longitude": 105.84462
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Hồng Phúc",
+            "city": "Hà Nội",
+            "normalize": "hong phuc nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "hong phuc nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.041224,
+            "lon": 105.8482088,
+            "geolocation": {
+                "latitude": 21.041224,
+                "longitude": 105.8482088
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Nguyễn Khắc Nhu",
+            "city": "Hà Nội",
+            "normalize": "nguyen khac nhu nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "nguyen khac nhu nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.0433532,
+            "lon": 105.8468448,
+            "geolocation": {
+                "latitude": 21.0433532,
+                "longitude": 105.8468448
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Nguyễn Thiếp",
+            "city": "Hà Nội",
+            "normalize": "nguyen thiep nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "nguyen thiep nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.0406171237787,
+            "lon": 105.849190862503,
+            "geolocation": {
+                "latitude": 21.0406171237787,
+                "longitude": 105.849190862503
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Nguyễn Trung Trực",
+            "city": "Hà Nội",
+            "normalize": "nguyen trung truc nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "nguyen trung truc nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.041096,
+            "lon": 105.848312,
+            "geolocation": {
+                "latitude": 21.041096,
+                "longitude": 105.848312
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Nguyễn Trường Tộ",
+            "city": "Hà Nội",
+            "normalize": "nguyen truong to nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "nguyen truong to nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.042111,
+            "lon": 105.846335,
+            "geolocation": {
+                "latitude": 21.042111,
+                "longitude": 105.846335
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Phan Huy Ích",
+            "city": "Hà Nội",
+            "normalize": "phan huy ich nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "phan huy ich nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.041602,
+            "lon": 105.84582,
+            "geolocation": {
+                "latitude": 21.041602,
+                "longitude": 105.84582
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Phạm Hồng Thái",
+            "city": "Hà Nội",
+            "normalize": "pham hong thai nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "pham hong thai nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.0432863,
+            "lon": 105.8464137,
+            "geolocation": {
+                "latitude": 21.0432863,
+                "longitude": 105.8464137
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Nguyễn Trung Trực",
+            "street": "Yên Phụ",
+            "city": "Hà Nội",
+            "normalize": "yen phu nguyen trung truc ba dinh ha noi",
+            "streetNormalize": "yen phu nguyen trung truc ba dinh ha noi",
+            "wardNormalize": "nguyen trung truc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong nguyen trung truc ba dinh ha noi",
+            "lat": 21.0428971,
+            "lon": 105.847799,
+            "geolocation": {
+                "latitude": 21.0428971,
+                "longitude": 105.847799
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Phúc Xá",
+            "street": "An Xá",
+            "city": "Hà Nội",
+            "normalize": "an xa phuc xa ba dinh ha noi",
+            "streetNormalize": "an xa phuc xa ba dinh ha noi",
+            "wardNormalize": "phuc xa ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong phuc xa ba dinh ha noi",
+            "lat": 21.043399,
+            "lon": 105.851635,
+            "geolocation": {
+                "latitude": 21.043399,
+                "longitude": 105.851635
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Phúc Xá",
+            "street": "Hồng Hà",
+            "city": "Hà Nội",
+            "normalize": "hong ha phuc xa ba dinh ha noi",
+            "streetNormalize": "hong ha phuc xa ba dinh ha noi",
+            "wardNormalize": "phuc xa ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong phuc xa ba dinh ha noi",
+            "lat": 21.046273,
+            "lon": 105.84462,
+            "geolocation": {
+                "latitude": 21.046273,
+                "longitude": 105.84462
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Phúc Xá",
+            "street": "Nghĩa Dũng",
+            "city": "Hà Nội",
+            "normalize": "nghia dung phuc xa ba dinh ha noi",
+            "streetNormalize": "nghia dung phuc xa ba dinh ha noi",
+            "wardNormalize": "phuc xa ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong phuc xa ba dinh ha noi",
+            "lat": 21.046775,
+            "lon": 105.848575,
+            "geolocation": {
+                "latitude": 21.046775,
+                "longitude": 105.848575
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Phúc Xá",
+            "street": "Phúc Xá",
+            "city": "Hà Nội",
+            "normalize": "phuc xa phuc xa ba dinh ha noi",
+            "streetNormalize": "phuc xa phuc xa ba dinh ha noi",
+            "wardNormalize": "phuc xa ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong phuc xa ba dinh ha noi",
+            "lat": 21.044582,
+            "lon": 105.849836,
+            "geolocation": {
+                "latitude": 21.044582,
+                "longitude": 105.849836
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Phúc Xá",
+            "street": "Tân Ấp",
+            "city": "Hà Nội",
+            "normalize": "tan ap phuc xa ba dinh ha noi",
+            "streetNormalize": "tan ap phuc xa ba dinh ha noi",
+            "wardNormalize": "phuc xa ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong phuc xa ba dinh ha noi",
+            "lat": 21.046638,
+            "lon": 105.846859,
+            "geolocation": {
+                "latitude": 21.046638,
+                "longitude": 105.846859
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Cửa Bắc",
+            "city": "Hà Nội",
+            "normalize": "cua bac quan thanh ba dinh ha noi",
+            "streetNormalize": "cua bac quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.04162,
+            "lon": 105.8423791,
+            "geolocation": {
+                "latitude": 21.04162,
+                "longitude": 105.8423791
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Hoàng Diệu",
+            "city": "Hà Nội",
+            "normalize": "hoang dieu quan thanh ba dinh ha noi",
+            "streetNormalize": "hoang dieu quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.0373955,
+            "lon": 105.8395514,
+            "geolocation": {
+                "latitude": 21.0373955,
+                "longitude": 105.8395514
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Hoàng Văn Thụ",
+            "city": "Hà Nội",
+            "normalize": "hoang van thu quan thanh ba dinh ha noi",
+            "streetNormalize": "hoang van thu quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.038755,
+            "lon": 105.837506,
+            "geolocation": {
+                "latitude": 21.038755,
+                "longitude": 105.837506
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Hàng Bún",
+            "city": "Hà Nội",
+            "normalize": "hang bun quan thanh ba dinh ha noi",
+            "streetNormalize": "hang bun quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.040658,
+            "lon": 105.844132,
+            "geolocation": {
+                "latitude": 21.040658,
+                "longitude": 105.844132
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Hòe Nhai",
+            "city": "Hà Nội",
+            "normalize": "hoe nhai quan thanh ba dinh ha noi",
+            "streetNormalize": "hoe nhai quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.0402975,
+            "lon": 105.8454194,
+            "geolocation": {
+                "latitude": 21.0402975,
+                "longitude": 105.8454194
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Hùng Vương",
+            "city": "Hà Nội",
+            "normalize": "hung vuong quan thanh ba dinh ha noi",
+            "streetNormalize": "hung vuong quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.0410493,
+            "lon": 105.8360953,
+            "geolocation": {
+                "latitude": 21.0410493,
+                "longitude": 105.8360953
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Nguyễn Biểu",
+            "city": "Hà Nội",
+            "normalize": "nguyen bieu quan thanh ba dinh ha noi",
+            "streetNormalize": "nguyen bieu quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.042215,
+            "lon": 105.840111,
+            "geolocation": {
+                "latitude": 21.042215,
+                "longitude": 105.840111
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Nguyễn Cảnh Chân",
+            "city": "Hà Nội",
+            "normalize": "nguyen canh chan quan thanh ba dinh ha noi",
+            "streetNormalize": "nguyen canh chan quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.039198,
+            "lon": 105.837589,
+            "geolocation": {
+                "latitude": 21.039198,
+                "longitude": 105.837589
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Nguyễn Tri Phương",
+            "city": "Hà Nội",
+            "normalize": "nguyen tri phuong quan thanh ba dinh ha noi",
+            "streetNormalize": "nguyen tri phuong quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.037251,
+            "lon": 105.841323,
+            "geolocation": {
+                "latitude": 21.037251,
+                "longitude": 105.841323
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Phan Đình Phùng",
+            "city": "Hà Nội",
+            "normalize": "phan dinh phung quan thanh ba dinh ha noi",
+            "streetNormalize": "phan dinh phung quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.039853,
+            "lon": 105.845925,
+            "geolocation": {
+                "latitude": 21.039853,
+                "longitude": 105.845925
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Quán Thánh",
+            "city": "Hà Nội",
+            "normalize": "quan thanh quan thanh ba dinh ha noi",
+            "streetNormalize": "quan thanh quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.042249,
+            "lon": 105.84319,
+            "geolocation": {
+                "latitude": 21.042249,
+                "longitude": 105.84319
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Trấn Vũ",
+            "city": "Hà Nội",
+            "normalize": "tran vu quan thanh ba dinh ha noi",
+            "streetNormalize": "tran vu quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.04382,
+            "lon": 105.838282,
+            "geolocation": {
+                "latitude": 21.04382,
+                "longitude": 105.838282
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Yên Ninh",
+            "city": "Hà Nội",
+            "normalize": "yen ninh quan thanh ba dinh ha noi",
+            "streetNormalize": "yen ninh quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.042086,
+            "lon": 105.843816,
+            "geolocation": {
+                "latitude": 21.042086,
+                "longitude": 105.843816
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Quán Thánh",
+            "street": "Đặng Tất",
+            "city": "Hà Nội",
+            "normalize": "dang tat quan thanh ba dinh ha noi",
+            "streetNormalize": "dang tat quan thanh ba dinh ha noi",
+            "wardNormalize": "quan thanh ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong quan thanh ba dinh ha noi",
+            "lat": 21.0431275,
+            "lon": 105.8380524,
+            "geolocation": {
+                "latitude": 21.0431275,
+                "longitude": 105.8380524
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Thành Công",
+            "street": "Láng Hạ",
+            "city": "Hà Nội",
+            "normalize": "lang ha thanh cong ba dinh ha noi",
+            "streetNormalize": "lang ha thanh cong ba dinh ha noi",
+            "wardNormalize": "thanh cong ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong thanh cong ba dinh ha noi",
+            "lat": 21.019169,
+            "lon": 105.816633,
+            "geolocation": {
+                "latitude": 21.019169,
+                "longitude": 105.816633
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Thành Công",
+            "street": "Mai Anh Tuấn",
+            "city": "Hà Nội",
+            "normalize": "mai anh tuan thanh cong ba dinh ha noi",
+            "streetNormalize": "mai anh tuan thanh cong ba dinh ha noi",
+            "wardNormalize": "thanh cong ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong thanh cong ba dinh ha noi",
+            "lat": 21.0186804,
+            "lon": 105.818625,
+            "geolocation": {
+                "latitude": 21.0186804,
+                "longitude": 105.818625
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Thành Công",
+            "street": "Nguyên Hồng",
+            "city": "Hà Nội",
+            "normalize": "nguyen hong thanh cong ba dinh ha noi",
+            "streetNormalize": "nguyen hong thanh cong ba dinh ha noi",
+            "wardNormalize": "thanh cong ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong thanh cong ba dinh ha noi",
+            "lat": 21.01914,
+            "lon": 105.812394,
+            "geolocation": {
+                "latitude": 21.01914,
+                "longitude": 105.812394
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Thành Công",
+            "street": "Thành Công",
+            "city": "Hà Nội",
+            "normalize": "thanh cong thanh cong ba dinh ha noi",
+            "streetNormalize": "thanh cong thanh cong ba dinh ha noi",
+            "wardNormalize": "thanh cong ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong thanh cong ba dinh ha noi",
+            "lat": 21.021859,
+            "lon": 105.815789,
+            "geolocation": {
+                "latitude": 21.021859,
+                "longitude": 105.815789
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Châu Long",
+            "city": "Hà Nội",
+            "normalize": "chau long truc bach ba dinh ha noi",
+            "streetNormalize": "chau long truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.04459,
+            "lon": 105.842387,
+            "geolocation": {
+                "latitude": 21.04459,
+                "longitude": 105.842387
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Cửa Bắc",
+            "city": "Hà Nội",
+            "normalize": "cua bac truc bach ba dinh ha noi",
+            "streetNormalize": "cua bac truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.044547,
+            "lon": 105.843119,
+            "geolocation": {
+                "latitude": 21.044547,
+                "longitude": 105.843119
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Lạc Chính",
+            "city": "Hà Nội",
+            "normalize": "lac chinh truc bach ba dinh ha noi",
+            "streetNormalize": "lac chinh truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.0457805,
+            "lon": 105.8414921,
+            "geolocation": {
+                "latitude": 21.0457805,
+                "longitude": 105.8414921
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Mạc Đĩnh Chi",
+            "city": "Hà Nội",
+            "normalize": "mac dinh chi truc bach ba dinh ha noi",
+            "streetNormalize": "mac dinh chi truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.046506,
+            "lon": 105.840694,
+            "geolocation": {
+                "latitude": 21.046506,
+                "longitude": 105.840694
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Nam Tràng",
+            "city": "Hà Nội",
+            "normalize": "nam trang truc bach ba dinh ha noi",
+            "streetNormalize": "nam trang truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.046422,
+            "lon": 105.840318,
+            "geolocation": {
+                "latitude": 21.046422,
+                "longitude": 105.840318
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Nguyễn Khắc Hiếu",
+            "city": "Hà Nội",
+            "normalize": "nguyen khac hieu truc bach ba dinh ha noi",
+            "streetNormalize": "nguyen khac hieu truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.045772,
+            "lon": 105.840983,
+            "geolocation": {
+                "latitude": 21.045772,
+                "longitude": 105.840983
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Nguyễn Khắc Nhu",
+            "city": "Hà Nội",
+            "normalize": "nguyen khac nhu truc bach ba dinh ha noi",
+            "streetNormalize": "nguyen khac nhu truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.044486,
+            "lon": 105.844705,
+            "geolocation": {
+                "latitude": 21.044486,
+                "longitude": 105.844705
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Nguyễn Trường Tộ",
+            "city": "Hà Nội",
+            "normalize": "nguyen truong to truc bach ba dinh ha noi",
+            "streetNormalize": "nguyen truong to truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.0431995,
+            "lon": 105.8432549,
+            "geolocation": {
+                "latitude": 21.0431995,
+                "longitude": 105.8432549
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Ngũ Xã",
+            "city": "Hà Nội",
+            "normalize": "ngu xa truc bach ba dinh ha noi",
+            "streetNormalize": "ngu xa truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.046223,
+            "lon": 105.841721,
+            "geolocation": {
+                "latitude": 21.046223,
+                "longitude": 105.841721
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Phạm Hồng Thái",
+            "city": "Hà Nội",
+            "normalize": "pham hong thai truc bach ba dinh ha noi",
+            "streetNormalize": "pham hong thai truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.043947,
+            "lon": 105.844171,
+            "geolocation": {
+                "latitude": 21.043947,
+                "longitude": 105.844171
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Thanh Niên",
+            "city": "Hà Nội",
+            "normalize": "thanh nien truc bach ba dinh ha noi",
+            "streetNormalize": "thanh nien truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.04765,
+            "lon": 105.83759,
+            "geolocation": {
+                "latitude": 21.04765,
+                "longitude": 105.83759
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Trúc Bạch",
+            "city": "Hà Nội",
+            "normalize": "truc bach truc bach ba dinh ha noi",
+            "streetNormalize": "truc bach truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.0465951,
+            "lon": 105.8420227,
+            "geolocation": {
+                "latitude": 21.0465951,
+                "longitude": 105.8420227
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Trấn Vũ",
+            "city": "Hà Nội",
+            "normalize": "tran vu truc bach ba dinh ha noi",
+            "streetNormalize": "tran vu truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.04535,
+            "lon": 105.840218,
+            "geolocation": {
+                "latitude": 21.04535,
+                "longitude": 105.840218
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Yên Ninh",
+            "city": "Hà Nội",
+            "normalize": "yen ninh truc bach ba dinh ha noi",
+            "streetNormalize": "yen ninh truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.042799,
+            "lon": 105.84428,
+            "geolocation": {
+                "latitude": 21.042799,
+                "longitude": 105.84428
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Yên Phụ",
+            "city": "Hà Nội",
+            "normalize": "yen phu truc bach ba dinh ha noi",
+            "streetNormalize": "yen phu truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.04722,
+            "lon": 105.84325,
+            "geolocation": {
+                "latitude": 21.04722,
+                "longitude": 105.84325
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Trúc Bạch",
+            "street": "Đặng Dung",
+            "city": "Hà Nội",
+            "normalize": "dang dung truc bach ba dinh ha noi",
+            "streetNormalize": "dang dung truc bach ba dinh ha noi",
+            "wardNormalize": "truc bach ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong truc bach ba dinh ha noi",
+            "lat": 21.0430203,
+            "lon": 105.8414638,
+            "geolocation": {
+                "latitude": 21.0430203,
+                "longitude": 105.8414638
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Vĩnh Phúc",
+            "street": "Hoàng Hoa Thám",
+            "city": "Hà Nội",
+            "normalize": "hoang hoa tham vinh phuc ba dinh ha noi",
+            "streetNormalize": "hoang hoa tham vinh phuc ba dinh ha noi",
+            "wardNormalize": "vinh phuc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong vinh phuc ba dinh ha noi",
+            "lat": 21.042223,
+            "lon": 105.817208,
+            "geolocation": {
+                "latitude": 21.042223,
+                "longitude": 105.817208
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Vĩnh Phúc",
+            "street": "Linh Lang",
+            "city": "Hà Nội",
+            "normalize": "linh lang vinh phuc ba dinh ha noi",
+            "streetNormalize": "linh lang vinh phuc ba dinh ha noi",
+            "wardNormalize": "vinh phuc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong vinh phuc ba dinh ha noi",
+            "lat": 21.0382845,
+            "lon": 105.8104764,
+            "geolocation": {
+                "latitude": 21.0382845,
+                "longitude": 105.8104764
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Vĩnh Phúc",
+            "street": "Lạc Long Quân",
+            "city": "Hà Nội",
+            "normalize": "lac long quan vinh phuc ba dinh ha noi",
+            "streetNormalize": "lac long quan vinh phuc ba dinh ha noi",
+            "wardNormalize": "vinh phuc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong vinh phuc ba dinh ha noi",
+            "lat": 21.046841,
+            "lon": 105.806168,
+            "geolocation": {
+                "latitude": 21.046841,
+                "longitude": 105.806168
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Vĩnh Phúc",
+            "street": "Vĩnh Phúc",
+            "city": "Hà Nội",
+            "normalize": "vinh phuc vinh phuc ba dinh ha noi",
+            "streetNormalize": "vinh phuc vinh phuc ba dinh ha noi",
+            "wardNormalize": "vinh phuc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong vinh phuc ba dinh ha noi",
+            "lat": 21.044081,
+            "lon": 105.810178,
+            "geolocation": {
+                "latitude": 21.044081,
+                "longitude": 105.810178
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Vĩnh Phúc",
+            "street": "Đường Bưởi",
+            "city": "Hà Nội",
+            "normalize": "duong buoi vinh phuc ba dinh ha noi",
+            "streetNormalize": "duong buoi vinh phuc ba dinh ha noi",
+            "wardNormalize": "vinh phuc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong vinh phuc ba dinh ha noi",
+            "lat": 21.0400412,
+            "lon": 105.8069923,
+            "geolocation": {
+                "latitude": 21.0400412,
+                "longitude": 105.8069923
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Vĩnh Phúc",
+            "street": "Đốc Ngữ",
+            "city": "Hà Nội",
+            "normalize": "doc ngu vinh phuc ba dinh ha noi",
+            "streetNormalize": "doc ngu vinh phuc ba dinh ha noi",
+            "wardNormalize": "vinh phuc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong vinh phuc ba dinh ha noi",
+            "lat": 21.039894,
+            "lon": 105.812921,
+            "geolocation": {
+                "latitude": 21.039894,
+                "longitude": 105.812921
+            }
+        },
+        {
+            "district": "Ba Đình",
+            "ward": "Vĩnh Phúc",
+            "street": "Đội Cấn",
+            "city": "Hà Nội",
+            "normalize": "doi can vinh phuc ba dinh ha noi",
+            "streetNormalize": "doi can vinh phuc ba dinh ha noi",
+            "wardNormalize": "vinh phuc ba dinh ha noi",
+            "districtNormalize": "ba dinh ha noi",
+            "preWardNormalize": "phuong vinh phuc ba dinh ha noi",
+            "lat": 21.037872,
+            "lon": 105.813652,
+            "geolocation": {
+                "latitude": 21.037872,
+                "longitude": 105.813652
+            }
+        }
+    ]
+}
