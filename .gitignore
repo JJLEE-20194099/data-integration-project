@@ -1,0 +1,6 @@
+.env
+__pycache__/
+__pycache__
+tl_process.py
+
+

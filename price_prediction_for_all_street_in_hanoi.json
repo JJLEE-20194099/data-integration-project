@@ -1,0 +1,43 @@
+[
+    {
+        "input": {
+            "lat": 21.032017,
+            "lon": 105.836387,
+            "district": "Ba Đình",
+            "street": "Chu Văn An",
+            "administrative_genre": "quận",
+            "detailed_address": "đường Chu Văn An, phường Điện Biên, quận Ba Đình, hà nội"
+        },
+        "output": {
+            "alleyHousePrice": {
+                "1": {
+                    "metadata": "Ngõ rộng từ 5m trở lên",
+                    "min": 117.189486412314,
+                    "max": 145.14511404334036,
+                    "mean": 134.07693650115246,
+                    "std": 8.399341924915811
+                },
+                "2": {
+                    "metadata": "Ngõ rộng từ 3 đến dưới 5m",
+                    "min": 91.27657125336275,
+                    "max": 112.48615489014323,
+                    "mean": 103.83718325648314,
+                    "std": 6.341763035149866
+                },
+                "3": {
+                    "metadata": "Ngõ rộng dưới 3m",
+                    "min": 85.81582926659078,
+                    "max": 103.55757559750887,
+                    "mean": 96.34612963217769,
+                    "std": 5.554418255053945
+                }
+            },
+            "streetHousePrice": {
+                "min": 171.63616254267902,
+                "max": 273.5933065673421,
+                "mean": 223.04925082209039,
+                "std": 27.602381794190723
+            }
+        }
+    }
+]
