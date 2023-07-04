@@ -17,7 +17,7 @@ feature_form_structure = {
         {
             'Label': 'country',
             'Data' :  {
-                'Description': 'Country'
+                'Description': 'Country',
                 'Form': {
                     '1': 'Việt Nam'
                 }

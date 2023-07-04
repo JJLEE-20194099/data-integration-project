@@ -59,11 +59,21 @@ function submit_request() {
 }
 
 function predictPrice() {
-  
+
   const form_data = extract_form_data();
 
-  postData("http://127.0.0.1:5000/predict", form_data)
-    .then(data => data['prediction'])
+  postData("http://127.0.0.1:8000//predict-house-with-type-of-alley", {
+    "data": [
+  {
+    "city": "Hà Nội",
+    "district": "Thanh Xuân",
+    "ward": "Khương Trung",
+    "street": "Đường khương trung",
+    "geolocation": { "latitude": 20.9974575, "longitude": 105.8112707 }
+
+  }]
+})
+    .then(data => data[0]['output'])
     .then(prediction => {
       const resultsDataElement = buildResults(prediction);
       results.innerHTML = '';
@@ -286,19 +296,35 @@ function buildResults(price) {
   const priceElement = document.createElement('div');
   const containerElement = document.createElement('div');
   const yourPriceElement = document.createElement('div');
+  const alley1PriceElement = document.createElement('div');
+  const alley2PriceElement = document.createElement('div');
+  const alley3PriceElement = document.createElement('div');
+  const streetHousePriceElement = document.createElement('div');
+
 
   // Add relevant classes
-  priceElement.classList.add('type-h3');
-  yourPriceElement.classList.add('type-sh6');
+  yourPriceElement.classList.add('type-h3');
+  alley1PriceElement.classList.add('type-sh6');
+  alley2PriceElement.classList.add('type-sh6');
+  alley3PriceElement.classList.add('type-sh6');
+  streetHousePriceElement.classList.add('type-sh6');
+
   // containerElement.classList.add('container-fluid');
 
   // Set inner text for the elements
-  yourPriceElement.innerText = 'The estimated price is';
-  priceElement.innerText = USDFormatter.format(parseInt(price));
+  yourPriceElement.innerText = 'Ước lượng giá:';
+  alley1PriceElement.innerText = `${price['alleyHousePrice']['1']['metadata']}: ${parseInt(price['alleyHousePrice']['1']['mean']) * 1.5} tr/m2`;
+  alley2PriceElement.innerText = `${price['alleyHousePrice']['2']['metadata']}: ${parseInt(price['alleyHousePrice']['2']['mean']) * 1.5} tr/m2`;
+  alley3PriceElement.innerText = `${price['alleyHousePrice']['3']['metadata']}: ${parseInt(price['alleyHousePrice']['3']['mean']) * 1.5} tr/m2`;
+  streetHousePriceElement.innerText = `${"Nhà mặt phố"}: ${parseInt(price['streetHousePrice']['mean']) * 1.5} tr/m2`;
+
 
   // Add elements to container
   containerElement.appendChild(yourPriceElement);
-  containerElement.appendChild(priceElement);
+  containerElement.appendChild(alley1PriceElement);
+  containerElement.appendChild(alley2PriceElement);
+  containerElement.appendChild(alley3PriceElement);
+  containerElement.appendChild(streetHousePriceElement);
 
   return containerElement;
 }

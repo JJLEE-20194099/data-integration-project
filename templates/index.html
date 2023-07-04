@@ -7,19 +7,19 @@
 
     <link
       rel="stylesheet"
-      href="{{ url_for('static', filename='css/reset.css') }}"
+      href="../static/css/reset.css"
     />
     <link
       rel="stylesheet"
-      href="{{ url_for('static', filename='css/style.css') }}"
+      href="../static/css/style.css"
     />
     <link
       rel="stylesheet"
-      href="{{ url_for('static', filename='css/winstrap.min.css') }}"
+      href="../static/css/winstrap.min.css"
     />
     <link
       rel="stylesheet"
-      href="{{ url_for('static', filename='css/winstrap-optional.min.css') }}"
+      href="../static/css/winstrap-optional.min.css"
     />
     <title>House Price Predictions</title>
   </head>
@@ -58,7 +58,7 @@
               </div>
               <div class="container-fluid second">
                 <div class="row">
-                  <div class="col-md-24">{% include 'form.html' %}</div>                
+                  <div class="col-md-24">{% include 'form.html' %}</div>
                 </div>
               </div>
             </div>
@@ -66,8 +66,8 @@
         </div>
       </div>
     </div>
-    <script src="{{ url_for('static', filename='js/vendor/jquery.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/vendor/bootstrap.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/vendor/app.js') }}"></script>
+    <script src="../static/js/vendor/jquery.min.js"></script>
+    <script src="../static/js/vendor/bootstrap.min.js"></script>
+    <script src="../static/js/vendor/app.js"></script>
   </body>
 </html>

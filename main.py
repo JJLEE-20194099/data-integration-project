@@ -1,11 +1,11 @@
 import os
 import json
-from fastapi import HTTPException
+from fastapi import HTTPException, Request
 from tqdm import tqdm
 import numpy as np
 import lightgbm as lgb
 from fastapi.templating import Jinja2Templates
-
+from fastapi.responses import HTMLResponse
 from app.config import Config
 from app import create_app
 
@@ -26,11 +26,15 @@ from app.modules.io.service import IOReader
 
 from app.utils.enum import RealEstateLevel
 
+from features import features_list, feature_form_structure
+from fastapi.staticfiles import StaticFiles
+
 API_KEY_GOOGLE = Config.API_KEY_GOOGLE
 # Create Application Instance
 app = create_app(Config.ENV_MODE or 'dev')
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
-templates = Jinja2Templates(directory="app/FE/templates")
+templates = Jinja2Templates(directory="templates")
 
 # Read models
 try:
@@ -573,10 +577,18 @@ def get_price_map_by_type(real_estate_level: str):
 
         return response
 
-@app.get('//price-prediction')
-def demo():
+
+@app.get('//predict-price-page', response_class=HTMLResponse)
+def demo(request: Request):
     i = 0
-    return templates.TemplateResponse('index.html', {"feature_form_structure": feature_form_structure, "i": i})
+    return templates.TemplateResponse('index.html', {"request": request, "feature_form_structure": feature_form_structure, "i": i})
+
+@app.post('//predict-demo')
+def create_task():
+    if not request.json:
+        abort(400)
+    prediction = predict(request.json)
+    return jsonify({'done': True, 'prediction': prediction[0]}), 201
 
 
 
