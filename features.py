@@ -19,7 +19,7 @@ feature_form_structure = {
             'Data' :  {
                 'Description': 'Country',
                 'Form': {
-                    '1': 'Việt Nam'
+                    'list': ['Việt Nam']
                 }
             }
         },
@@ -28,7 +28,7 @@ feature_form_structure = {
             'Data' :  {
                 'Description': 'City',
                 'Form': {
-                    '1': 'Hà Nội'
+                    'list': ['Hà Nội']
                 }
             }
         },
@@ -36,22 +36,28 @@ feature_form_structure = {
             'Label': 'district',
             'Data' :  {
                 'Description': 'District',
-                'Form': json.load(
-            open(FilePath.DISTRICT_DESC, encoding='utf-8'))["district_list"]
+                'Form': {
+                    'list': list(json.load(
+            open(f'{FilePath.GROUP_PRICE}/groupby_district_ward_street.json', encoding='utf-8')).keys())
+                }
             }
         },
         {
             'Label': 'ward',
             'Data' :  {
                 'Description': 'Ward',
-                'Form': []
+                'Form': {
+                    'list': []
+                }
             }
         },
         {
             'Label': 'street',
             'Data' :  {
                 'Description': 'Street',
-                'Form': []
+                'Form': {
+                    'list': []
+                }
             }
         },
         # {

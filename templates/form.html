@@ -31,23 +31,15 @@
 
                                             {% set first = True %}
 
-                                            {% for option_key in feature['Data']['Form'] %}
+                                            {% for option_key in feature['Data']['Form']['list'] %}
 
                                                 {% if first %}
 
-                                                    <option selected value="{{ feature['Data']['Form'][option_key] }}">
-
-                                                        {{ feature['Data']['Form'][option_key] }}
-
-                                                    </option>
+                                                    <option selected value="{{option_key}}">{{ option_key }}</option>
 
                                                 {% else %}
 
-                                                    <option value="{{ feature['Data']['Form'][option_key] }}">
-
-                                                        {{ feature['Data']['Form'][option_key] }}
-
-                                                    </option>
+                                                <option selected value="{{option_key}}">{{ option_key }}</option>
 
                                                 {% endif%}
 
@@ -130,8 +122,8 @@
 
     <div class="form-group">
         <div class="btn-group">
-        <a class="btn btn-primary" onclick="predictPrice()"
-            >Predict Price</a
+        <a class="btn btn-primary" onclick="predictStreetPrice()"
+            >Predict Street Price</a
         >
         <a
             class="btn btn-default"

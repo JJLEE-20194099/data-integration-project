@@ -110,7 +110,7 @@ async def predict_price(body: LocationModel):
         }
     }
 
-# @app.post("/predict-house-v2")
+@app.post("//predict-house-v2")
 async def predict_price_v2(body: RealEstateModelList):
     """Function predicing price - version 2"""
     body = body.dict()
