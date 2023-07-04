@@ -14276,15 +14276,17 @@ function buildResults(price) {
   yourPriceElement.innerText = "Ước lượng giá:";
   alley1PriceElement.innerText = `${
     price["alleyHousePrice"]["1"]["metadata"]
-  }: ${parseInt(price["alleyHousePrice"]["1"]["mean"]) * 1.5} tr/m2`;
+  }: ${parseInt(price["alleyHousePrice"]["1"]["min"]) * 1.2} tr/m2 - ${parseInt(price["alleyHousePrice"]["1"]["max"]) * 1.2} tr/m2`;
   alley2PriceElement.innerText = `${
     price["alleyHousePrice"]["2"]["metadata"]
-  }: ${parseInt(price["alleyHousePrice"]["2"]["mean"]) * 1.5} tr/m2`;
+  }: ${parseInt(price["alleyHousePrice"]["2"]["min"]) * 1.2} tr/m2 - ${parseInt(price["alleyHousePrice"]["2"]["max"]) * 1.2} tr/m2`;
   alley3PriceElement.innerText = `${
     price["alleyHousePrice"]["3"]["metadata"]
-  }: ${parseInt(price["alleyHousePrice"]["3"]["mean"]) * 1.5} tr/m2`;
+  }: ${parseInt(price["alleyHousePrice"]["3"]["min"]) * 1.2} tr/m2 - ${parseInt(price["alleyHousePrice"]["3"]["max"]) * 1.2} tr/m2`;
   streetHousePriceElement.innerText = `${"Nhà mặt phố"}: ${
-    parseInt(price["streetHousePrice"]["mean"]) * 1.5
+    parseInt(price["streetHousePrice"]["min"]) * 1.2
+  } tr/m2 - ${
+    parseInt(price["streetHousePrice"]["max"]) * 1.2
   } tr/m2`;
 
   // Add elements to container
