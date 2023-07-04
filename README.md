@@ -1,1 +1,1 @@
-This is a project in my university. This help me a lot in praticing for data integration course.
+This is a project related data integration in my university.
