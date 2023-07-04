@@ -1,3 +1,4 @@
+import data from "./groupby_district_ward_street.json";
 let data = [];
 const results = document.querySelector("#results");
 
@@ -13,8 +14,136 @@ function display() {
   }
 }
 
-function clear_results(){
-  results.innerHTML = '';
+function get_ward_list(district) {
+  return data[district].keys();
+}
+
+function get_street_list(district, ward) {
+  return data[district][ward].keys();
+}
+
+function fill_value() {
+  let district_element = document.getElementById("ward");
+
+  let district = district_element.innerText;
+
+  if (district) {
+    let ward_element = document.getElementById("ward");
+    let street_element = document.getElementById("street");
+
+    let ward_list = get_ward_list(district);
+    let modified_element_list = [];
+    for (let i = 0; i < ward_list.length; i++) {
+      let ward = ward_list[i];
+      let option = document.createElement("option");
+      option.setAttribute("value", ward);
+      option.setAttribute("id", `ward-${i}`);
+      if (i == 0) {
+        option.setAttribute("selected", "selected");
+      }
+      option.onclick = function () {
+        let selected_option = document.getElementById(`ward-${i}`);
+        let selected_ward = selected_option.innerText;
+
+        let street_list = get_street_list(district, district, selected_ward);
+        let tmp_element_list = [];
+        for (let i = 0; i < street_list.length; i++) {
+          let street = street_list[i];
+          let option = document.createElement("option");
+          option.setAttribute("value", street);
+          if (i == 0) {
+            option.setAttribute("selected", "selected");
+          }
+          option.innerText = `${{ street }}`;
+          tmp_element_list.append(option);
+        }
+
+        street_element.replaceChildren(...tmp_element_list);
+      };
+      option.innerText = `${{ ward }}`;
+      modified_element_list.append(option);
+    }
+
+    ward_element.replaceChildren(...modified_element_list);
+
+    let street_list = get_street_list(district, ward_list[0]);
+    modified_element_list = [];
+    for (let i = 0; i < street_list.length; i++) {
+      let street = street_list[i];
+      let option = document.createElement("option");
+      option.setAttribute("value", street);
+      if (i == 0) {
+        option.setAttribute("selected", "selected");
+      }
+      option.innerText = `${{ street }}`;
+      modified_element_list.append(option);
+    }
+
+    street_element.replaceChildren(...modified_element_list);
+  }
+
+  district_element.onclick = function () {
+    let district = district_element.innerText;
+
+    if (district) {
+      let ward_element = document.getElementById("ward");
+      let street_element = document.getElementById("street");
+
+      let ward_list = get_ward_list(district);
+      let modified_element_list = [];
+      for (let i = 0; i < ward_list.length; i++) {
+        let ward = ward_list[i];
+        let option = document.createElement("option");
+        option.setAttribute("value", ward);
+        option.setAttribute("id", `ward-${i}`);
+        if (i == 0) {
+          option.setAttribute("selected", "selected");
+        }
+        option.onclick = function () {
+          let selected_option = document.getElementById(`ward-${i}`);
+          let selected_ward = selected_option.innerText;
+
+          let street_list = get_street_list(district, selected_ward);
+          let tmp_element_list = [];
+          for (let i = 0; i < street_list.length; i++) {
+            let street = street_list[i];
+            let option = document.createElement("option");
+            option.setAttribute("value", street);
+            if (i == 0) {
+              option.setAttribute("selected", "selected");
+            }
+            option.innerText = `${{ street }}`;
+            tmp_element_list.append(option);
+          }
+
+          street_element.replaceChildren(...tmp_element_list);
+        };
+        option.innerText = `${{ ward }}`;
+        modified_element_list.append(option);
+      }
+
+      ward_element.replaceChildren(...modified_element_list);
+
+      let street_list = get_street_list(district, ward_list[0]);
+      modified_element_list = [];
+      for (let i = 0; i < street_list.length; i++) {
+        let street = street_list[i];
+        let option = document.createElement("option");
+        option.setAttribute("value", street);
+        if (i == 0) {
+          option.setAttribute("selected", "selected");
+        }
+        option.innerText = `${{ street }}`;
+        modified_element_list.append(option);
+      }
+
+      street_element.replaceChildren(...modified_element_list);
+    }
+  };
+}
+
+function clear_results() {
+  results.innerHTML = "";
 }
 
 function clear_everything() {
@@ -59,202 +188,45 @@ function submit_request() {
 }
 
 function predictPrice() {
-
-  const form_data = extract_form_data();
-
+  let form_data = extract_form_data();
+  dele;
   postData("http://127.0.0.1:8000//predict-house-with-type-of-alley", {
-    "data": [
-  {
-    "city": "Hà Nội",
-    "district": "Thanh Xuân",
-    "ward": "Khương Trung",
-    "street": "Đường khương trung",
-    "geolocation": { "latitude": 20.9974575, "longitude": 105.8112707 }
-
-  }]
-})
-    .then(data => data[0]['output'])
-    .then(prediction => {
+    data: [form_data],
+  })
+    .then((data) => data[0]["output"])
+    .then((prediction) => {
       const resultsDataElement = buildResults(prediction);
-      results.innerHTML = '';
+      results.innerHTML = "";
       results.appendChild(resultsDataElement);
     });
 }
 
 const form_ids = [
-  "MSSubClass",
-  "MSZoning",
-  "LotFrontage",
-  "LotArea",
-  "Street",
-  "Alley",
-  "LotShape",
-  "LandContour",
-  "Utilities",
-  "LotConfig",
-  "LandSlope",
-  "Neighborhood",
-  "Condition1",
-  "Condition2",
-  "BldgType",
-  "HouseStyle",
-  "OverallQual",
-  "OverallCond",
-  "YearBuilt",
-  "YearRemodAdd",
-  "RoofStyle",
-  "RoofMatl",
-  "Exterior1st",
-  "Exterior2nd",
-  "MasVnrType",
-  "MasVnrArea",
-  "ExterQual",
-  "ExterCond",
-  "Foundation",
-  "BsmtQual",
-  "BsmtCond",
-  "BsmtExposure",
-  "BsmtFinType1",
-  "BsmtFinSF1",
-  "BsmtFinType2",
-  "BsmtFinSF2",
-  "BsmtUnfSF",
-  "TotalBsmtSF",
-  "Heating",
-  "HeatingQC",
-  "CentralAir",
-  "Electrical",
-  "1stFlrSF",
-  "2ndFlrSF",
-  "LowQualFinSF",
-  "GrLivArea",
-  "BsmtFullBath",
-  "BsmtHalfBath",
-  "FullBath",
-  "HalfBath",
-  "Bedroom",
-  "Kitchen",
-  "KitchenQual",
-  "TotRmsAbvGrd",
-  "Functional",
-  "Fireplaces",
-  "FireplaceQu",
-  "GarageType",
-  "GarageYrBlt",
-  "GarageFinish",
-  "GarageCars",
-  "GarageArea",
-  "GarageQual",
-  "GarageCond",
-  "PavedDrive",
-  "WoodDeckSF",
-  "OpenPorchSF",
-  "EnclosedPorch",
-  "3SsnPorch",
-  "ScreenPorch",
-  "PoolArea",
-  "PoolQC",
-  "Fence",
-  "MiscFeature",
-  "MiscVal",
-  "MoSold",
-  "YrSold",
-  "SaleType",
-  "SaleCondition",
+  "country",
+  "city",
+  "landSize",
+  "numberOfBedRooms",
+  "numberOfBathrooms",
+  "numberOfFloors",
+  "frontWidth",
+  "latitude",
+  "longitude",
 ];
-
-const form_id_tranform = {
-  "1stFlrSF": "FrstFlrSF",
-  "2ndFlrSF": "SndFlrSF",
-  "3SsnPorch": "ThrdSnPorch",
-};
 
 function isCharNumber(c) {
   return c >= "0" && c <= "9";
 }
 
-const categorical_features = [
-  "MSZoning",
-  "Street",
-  "Alley",
-  "LotShape",
-  "LandContour",
-  "Utilities",
-  "LotConfig",
-  "LandSlope",
-  "Neighborhood",
-  "Condition1",
-  "Condition2",
-  "BldgType",
-  "HouseStyle",
-  "RoofStyle",
-  "RoofMatl",
-  "Exterior1st",
-  "Exterior2nd",
-  "MasVnrType",
-  "ExterQual",
-  "ExterCond",
-  "Foundation",
-  "BsmtQual",
-  "BsmtCond",
-  "BsmtExposure",
-  "BsmtFinType1",
-  "BsmtFinType2",
-  "Heating",
-  "HeatingQC",
-  "CentralAir",
-  "Electrical",
-  "KitchenQual",
-  "Functional",
-  "FireplaceQu",
-  "GarageType",
-  "GarageFinish",
-  "GarageQual",
-  "GarageCond",
-  "PavedDrive",
-  "PoolQC",
-  "Fence",
-  "MiscFeature",
-  "SaleType",
-  "SaleCondition",
-];
+const categorical_features = ["country", "city"];
 
 const integer_features = [
-  "Id",
-  "MSSubClass",
-  "LotArea",
-  "OverallQual",
-  "OverallCond",
-  "YearBuilt",
-  "YearRemodAdd",
-  "BsmtFinSF1",
-  "BsmtFinSF2",
-  "BsmtUnfSF",
-  "TotalBsmtSF",
-  "1stFlrSF",
-  "2ndFlrSF",
-  "LowQualFinSF",
-  "GrLivArea",
-  "BsmtFullBath",
-  "BsmtHalfBath",
-  "FullBath",
-  "HalfBath",
-  "BedroomAbvGr",
-  "KitchenAbvGr",
-  "TotRmsAbvGrd",
-  "Fireplaces",
-  "GarageCars",
-  "GarageArea",
-  "WoodDeckSF",
-  "OpenPorchSF",
-  "EnclosedPorch",
-  "3SsnPorch",
-  "ScreenPorch",
-  "PoolArea",
-  "MiscVal",
-  "MoSold",
-  "YrSold",
-  "SalePrice",
+  "landSize",
+  "numberOfBedRooms",
+  "numberOfBathrooms",
+  "numberOfFloors",
+  "frontWidth",
+  "latitude",
+  "longitude",
 ];
 
 function isNumeric(num) {
@@ -266,8 +238,6 @@ function extract_form_data() {
   for (let i = 0; i < form_ids.length; i++) {
     if (!isCharNumber(form_ids[i].charAt(0))) {
       form_input = document.querySelector("#" + form_ids[i]);
-    } else {
-      form_input = document.querySelector("#" + form_id_tranform[form_ids[i]]);
     }
     if (form_input == null) {
       if (categorical_features.includes(form_ids[i])) {
@@ -277,47 +247,55 @@ function extract_form_data() {
       }
     } else {
       let form_value = form_input.value;
+      console.log(form_ids[i], form_value);
       if (isNumeric(form_value)) {
         form_value = parseFloat(form_value);
       }
-      form_data[form_ids[i]] = [form_value];
+
+      form_data[form_ids[i]] = form_value;
     }
   }
   return form_data;
 }
 
-const USDFormatter =  new Intl.NumberFormat('en-US', {
-  style: 'currency',
-  currency: 'USD'
+const USDFormatter = new Intl.NumberFormat("en-US", {
+  style: "currency",
+  currency: "USD",
 });
 
 function buildResults(price) {
   // Create result elements
-  const priceElement = document.createElement('div');
-  const containerElement = document.createElement('div');
-  const yourPriceElement = document.createElement('div');
-  const alley1PriceElement = document.createElement('div');
-  const alley2PriceElement = document.createElement('div');
-  const alley3PriceElement = document.createElement('div');
-  const streetHousePriceElement = document.createElement('div');
-
+  const priceElement = document.createElement("div");
+  const containerElement = document.createElement("div");
+  const yourPriceElement = document.createElement("div");
+  const alley1PriceElement = document.createElement("div");
+  const alley2PriceElement = document.createElement("div");
+  const alley3PriceElement = document.createElement("div");
+  const streetHousePriceElement = document.createElement("div");
 
   // Add relevant classes
-  yourPriceElement.classList.add('type-h3');
-  alley1PriceElement.classList.add('type-sh6');
-  alley2PriceElement.classList.add('type-sh6');
-  alley3PriceElement.classList.add('type-sh6');
-  streetHousePriceElement.classList.add('type-sh6');
+  yourPriceElement.classList.add("type-h3");
+  alley1PriceElement.classList.add("type-sh6");
+  alley2PriceElement.classList.add("type-sh6");
+  alley3PriceElement.classList.add("type-sh6");
+  streetHousePriceElement.classList.add("type-sh6");
 
   // containerElement.classList.add('container-fluid');
 
   // Set inner text for the elements
-  yourPriceElement.innerText = 'Ước lượng giá:';
-  alley1PriceElement.innerText = `${price['alleyHousePrice']['1']['metadata']}: ${parseInt(price['alleyHousePrice']['1']['mean']) * 1.5} tr/m2`;
-  alley2PriceElement.innerText = `${price['alleyHousePrice']['2']['metadata']}: ${parseInt(price['alleyHousePrice']['2']['mean']) * 1.5} tr/m2`;
-  alley3PriceElement.innerText = `${price['alleyHousePrice']['3']['metadata']}: ${parseInt(price['alleyHousePrice']['3']['mean']) * 1.5} tr/m2`;
-  streetHousePriceElement.innerText = `${"Nhà mặt phố"}: ${parseInt(price['streetHousePrice']['mean']) * 1.5} tr/m2`;
-
+  yourPriceElement.innerText = "Ước lượng giá:";
+  alley1PriceElement.innerText = `${
+    price["alleyHousePrice"]["1"]["metadata"]
+  }: ${parseInt(price["alleyHousePrice"]["1"]["mean"]) * 1.5} tr/m2`;
+  alley2PriceElement.innerText = `${
+    price["alleyHousePrice"]["2"]["metadata"]
+  }: ${parseInt(price["alleyHousePrice"]["2"]["mean"]) * 1.5} tr/m2`;
+  alley3PriceElement.innerText = `${
+    price["alleyHousePrice"]["3"]["metadata"]
+  }: ${parseInt(price["alleyHousePrice"]["3"]["mean"]) * 1.5} tr/m2`;
+  streetHousePriceElement.innerText = `${"Nhà mặt phố"}: ${
+    parseInt(price["streetHousePrice"]["mean"]) * 1.5
+  } tr/m2`;
 
   // Add elements to container
   containerElement.appendChild(yourPriceElement);
@@ -328,7 +306,6 @@ function buildResults(price) {
 
   return containerElement;
 }
-
 
 if ($(".side-navigation").length) {
   var closeBtn = $(".close");
